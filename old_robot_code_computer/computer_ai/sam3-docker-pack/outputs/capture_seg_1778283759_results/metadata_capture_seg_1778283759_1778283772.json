@@ -1,0 +1,90 @@
+{
+  "summary": "Found 4 object(s) matching 'leaf' in the image.",
+  "query": "leaf",
+  "detections": [
+    {
+      "id": 1,
+      "label": "leaf",
+      "confidence": 0.7852894067764282,
+      "bounding_box": {
+        "x_min": 277.0552673339844,
+        "y_min": 285.134521484375,
+        "x_max": 287.59210205078125,
+        "y_max": 295.8302307128906,
+        "width": 10.536834716796875,
+        "height": 10.695709228515625
+      },
+      "description": "Object 1 (leaf) with 78.5% confidence",
+      "mask_area_pixels": 84,
+      "mask_area_ratio": 0.000273
+    },
+    {
+      "id": 2,
+      "label": "leaf",
+      "confidence": 0.820806622505188,
+      "bounding_box": {
+        "x_min": 268.6654968261719,
+        "y_min": 281.97393798828125,
+        "x_max": 278.62451171875,
+        "y_max": 292.25274658203125,
+        "width": 9.959014892578125,
+        "height": 10.27880859375
+      },
+      "description": "Object 2 (leaf) with 82.1% confidence",
+      "mask_area_pixels": 80,
+      "mask_area_ratio": 0.00026
+    },
+    {
+      "id": 3,
+      "label": "leaf",
+      "confidence": 0.8455354571342468,
+      "bounding_box": {
+        "x_min": 276.74871826171875,
+        "y_min": 275.90277099609375,
+        "x_max": 289.15911865234375,
+        "y_max": 285.61737060546875,
+        "width": 12.410400390625,
+        "height": 9.714599609375
+      },
+      "description": "Object 3 (leaf) with 84.6% confidence",
+      "mask_area_pixels": 96,
+      "mask_area_ratio": 0.000313
+    },
+    {
+      "id": 4,
+      "label": "leaf",
+      "confidence": 0.8983476758003235,
+      "bounding_box": {
+        "x_min": 280.787841796875,
+        "y_min": 226.64959716796875,
+        "x_max": 294.3214416503906,
+        "y_max": 246.6397705078125,
+        "width": 13.533599853515625,
+        "height": 19.99017333984375
+      },
+      "description": "Object 4 (leaf) with 89.8% confidence",
+      "mask_area_pixels": 195,
+      "mask_area_ratio": 0.000635
+    }
+  ],
+  "image_info": {
+    "width": 640,
+    "height": 480,
+    "area_pixels": 307200,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.5,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 5.907,
+    "num_detections": 4
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/outputs/capture_seg_1778283759_results/result_1778283772.png",
+    "masked_segments": []
+  }
+}

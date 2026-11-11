@@ -1,0 +1,970 @@
+{
+  "summary": "Found 59 object(s) matching 'panel, frame, wires' in the image.",
+  "query": "panel, frame, wires",
+  "detections": [
+    {
+      "id": 1,
+      "label": "wires",
+      "confidence": 0.6239655613899231,
+      "bounding_box": {
+        "x_min": 542.2092895507812,
+        "y_min": 146.45602416992188,
+        "x_max": 774.9244384765625,
+        "y_max": 162.93148803710938,
+        "width": 232.71514892578125,
+        "height": 16.4754638671875
+      },
+      "description": "Object 1 (wires) with 62.4% confidence",
+      "mask_area_pixels": 1227,
+      "mask_area_ratio": 0.002556
+    },
+    {
+      "id": 2,
+      "label": "wires",
+      "confidence": 0.5430104732513428,
+      "bounding_box": {
+        "x_min": 180.22926330566406,
+        "y_min": 486.2669677734375,
+        "x_max": 235.4465789794922,
+        "y_max": 588.0457763671875,
+        "width": 55.217315673828125,
+        "height": 101.77880859375
+      },
+      "description": "Object 2 (wires) with 54.3% confidence",
+      "mask_area_pixels": 481,
+      "mask_area_ratio": 0.001002
+    },
+    {
+      "id": 3,
+      "label": "wires",
+      "confidence": 0.3097061514854431,
+      "bounding_box": {
+        "x_min": 227.3639678955078,
+        "y_min": 495.9476623535156,
+        "x_max": 241.53756713867188,
+        "y_max": 508.99749755859375,
+        "width": 14.173599243164062,
+        "height": 13.049835205078125
+      },
+      "description": "Object 3 (wires) with 31.0% confidence",
+      "mask_area_pixels": 188,
+      "mask_area_ratio": 0.000392
+    },
+    {
+      "id": 4,
+      "label": "wires",
+      "confidence": 0.3373057246208191,
+      "bounding_box": {
+        "x_min": 74.52279663085938,
+        "y_min": 323.5783996582031,
+        "x_max": 95.3895034790039,
+        "y_max": 354.036865234375,
+        "width": 20.86670684814453,
+        "height": 30.458465576171875
+      },
+      "description": "Object 4 (wires) with 33.7% confidence",
+      "mask_area_pixels": 306,
+      "mask_area_ratio": 0.000638
+    },
+    {
+      "id": 5,
+      "label": "wires",
+      "confidence": 0.36949455738067627,
+      "bounding_box": {
+        "x_min": 752.9395141601562,
+        "y_min": 373.2049560546875,
+        "x_max": 782.2855834960938,
+        "y_max": 437.80035400390625,
+        "width": 29.3460693359375,
+        "height": 64.59539794921875
+      },
+      "description": "Object 5 (wires) with 36.9% confidence",
+      "mask_area_pixels": 360,
+      "mask_area_ratio": 0.00075
+    },
+    {
+      "id": 6,
+      "label": "wires",
+      "confidence": 0.7120380997657776,
+      "bounding_box": {
+        "x_min": 283.8935852050781,
+        "y_min": 4.0035905838012695,
+        "x_max": 302.1781921386719,
+        "y_max": 103.74291229248047,
+        "width": 18.28460693359375,
+        "height": 99.73931884765625
+      },
+      "description": "Object 6 (wires) with 71.2% confidence",
+      "mask_area_pixels": 446,
+      "mask_area_ratio": 0.000929
+    },
+    {
+      "id": 7,
+      "label": "wires",
+      "confidence": 0.4155706763267517,
+      "bounding_box": {
+        "x_min": 132.7565155029297,
+        "y_min": 3.62764310836792,
+        "x_max": 267.64129638671875,
+        "y_max": 101.27265167236328,
+        "width": 134.88478088378906,
+        "height": 97.64501190185547
+      },
+      "description": "Object 7 (wires) with 41.6% confidence",
+      "mask_area_pixels": 3660,
+      "mask_area_ratio": 0.007625
+    },
+    {
+      "id": 8,
+      "label": "wires",
+      "confidence": 0.4404869079589844,
+      "bounding_box": {
+        "x_min": -0.3806658089160919,
+        "y_min": 358.13726806640625,
+        "x_max": 9.303391456604004,
+        "y_max": 369.001220703125,
+        "width": 9.684057235717773,
+        "height": 10.86395263671875
+      },
+      "description": "Object 8 (wires) with 44.0% confidence",
+      "mask_area_pixels": 74,
+      "mask_area_ratio": 0.000154
+    },
+    {
+      "id": 9,
+      "label": "wires",
+      "confidence": 0.4924268424510956,
+      "bounding_box": {
+        "x_min": 655.2598266601562,
+        "y_min": 583.5734252929688,
+        "x_max": 694.0396118164062,
+        "y_max": 599.7205200195312,
+        "width": 38.77978515625,
+        "height": 16.1470947265625
+      },
+      "description": "Object 9 (wires) with 49.2% confidence",
+      "mask_area_pixels": 241,
+      "mask_area_ratio": 0.000502
+    },
+    {
+      "id": 10,
+      "label": "wires",
+      "confidence": 0.3081377446651459,
+      "bounding_box": {
+        "x_min": 92.34442901611328,
+        "y_min": -5.761101245880127,
+        "x_max": 102.06671142578125,
+        "y_max": 52.76304626464844,
+        "width": 9.722282409667969,
+        "height": 58.524147033691406
+      },
+      "description": "Object 10 (wires) with 30.8% confidence",
+      "mask_area_pixels": 269,
+      "mask_area_ratio": 0.00056
+    },
+    {
+      "id": 11,
+      "label": "wires",
+      "confidence": 0.4199788272380829,
+      "bounding_box": {
+        "x_min": 750.3961791992188,
+        "y_min": 373.70196533203125,
+        "x_max": 801.0142211914062,
+        "y_max": 452.5384521484375,
+        "width": 50.6180419921875,
+        "height": 78.83648681640625
+      },
+      "description": "Object 11 (wires) with 42.0% confidence",
+      "mask_area_pixels": 1227,
+      "mask_area_ratio": 0.002556
+    },
+    {
+      "id": 12,
+      "label": "wires",
+      "confidence": 0.5075493454933167,
+      "bounding_box": {
+        "x_min": 97.75675201416016,
+        "y_min": 373.9249267578125,
+        "x_max": 120.72343444824219,
+        "y_max": 388.6009826660156,
+        "width": 22.96668243408203,
+        "height": 14.676055908203125
+      },
+      "description": "Object 12 (wires) with 50.8% confidence",
+      "mask_area_pixels": 190,
+      "mask_area_ratio": 0.000396
+    },
+    {
+      "id": 13,
+      "label": "wires",
+      "confidence": 0.3013439476490021,
+      "bounding_box": {
+        "x_min": 73.2312240600586,
+        "y_min": 223.80543518066406,
+        "x_max": 152.5215606689453,
+        "y_max": 231.75982666015625,
+        "width": 79.29033660888672,
+        "height": 7.9543914794921875
+      },
+      "description": "Object 13 (wires) with 30.1% confidence",
+      "mask_area_pixels": 397,
+      "mask_area_ratio": 0.000827
+    },
+    {
+      "id": 14,
+      "label": "wires",
+      "confidence": 0.3776746690273285,
+      "bounding_box": {
+        "x_min": 105.77572631835938,
+        "y_min": 519.3681640625,
+        "x_max": 204.44467163085938,
+        "y_max": 598.9266967773438,
+        "width": 98.6689453125,
+        "height": 79.55853271484375
+      },
+      "description": "Object 14 (wires) with 37.8% confidence",
+      "mask_area_pixels": 2974,
+      "mask_area_ratio": 0.006196
+    },
+    {
+      "id": 15,
+      "label": "wires",
+      "confidence": 0.6782028079032898,
+      "bounding_box": {
+        "x_min": 35.992069244384766,
+        "y_min": 372.4992370605469,
+        "x_max": 72.20964050292969,
+        "y_max": 468.84063720703125,
+        "width": 36.21757125854492,
+        "height": 96.34140014648438
+      },
+      "description": "Object 15 (wires) with 67.8% confidence",
+      "mask_area_pixels": 601,
+      "mask_area_ratio": 0.001252
+    },
+    {
+      "id": 16,
+      "label": "wires",
+      "confidence": 0.7025291919708252,
+      "bounding_box": {
+        "x_min": 243.3646697998047,
+        "y_min": 47.44863510131836,
+        "x_max": 418.0869445800781,
+        "y_max": 117.4041519165039,
+        "width": 174.72227478027344,
+        "height": 69.95552062988281
+      },
+      "description": "Object 16 (wires) with 70.3% confidence",
+      "mask_area_pixels": 905,
+      "mask_area_ratio": 0.001885
+    },
+    {
+      "id": 17,
+      "label": "wires",
+      "confidence": 0.48483482003211975,
+      "bounding_box": {
+        "x_min": 180.6470947265625,
+        "y_min": 61.73408508300781,
+        "x_max": 200.61929321289062,
+        "y_max": 95.78652954101562,
+        "width": 19.972198486328125,
+        "height": 34.05244445800781
+      },
+      "description": "Object 17 (wires) with 48.5% confidence",
+      "mask_area_pixels": 173,
+      "mask_area_ratio": 0.00036
+    },
+    {
+      "id": 18,
+      "label": "wires",
+      "confidence": 0.46985116600990295,
+      "bounding_box": {
+        "x_min": 20.229537963867188,
+        "y_min": 86.28750610351562,
+        "x_max": 49.88365936279297,
+        "y_max": 231.8831024169922,
+        "width": 29.65412139892578,
+        "height": 145.59559631347656
+      },
+      "description": "Object 18 (wires) with 47.0% confidence",
+      "mask_area_pixels": 685,
+      "mask_area_ratio": 0.001427
+    },
+    {
+      "id": 19,
+      "label": "wires",
+      "confidence": 0.5753185153007507,
+      "bounding_box": {
+        "x_min": 770.433349609375,
+        "y_min": 404.66119384765625,
+        "x_max": 800.3419189453125,
+        "y_max": 451.1734924316406,
+        "width": 29.9085693359375,
+        "height": 46.512298583984375
+      },
+      "description": "Object 19 (wires) with 57.5% confidence",
+      "mask_area_pixels": 687,
+      "mask_area_ratio": 0.001431
+    },
+    {
+      "id": 20,
+      "label": "wires",
+      "confidence": 0.38438549637794495,
+      "bounding_box": {
+        "x_min": 93.38410186767578,
+        "y_min": 506.2891845703125,
+        "x_max": 123.07849884033203,
+        "y_max": 542.489013671875,
+        "width": 29.69439697265625,
+        "height": 36.1998291015625
+      },
+      "description": "Object 20 (wires) with 38.4% confidence",
+      "mask_area_pixels": 526,
+      "mask_area_ratio": 0.001096
+    },
+    {
+      "id": 21,
+      "label": "wires",
+      "confidence": 0.5928125977516174,
+      "bounding_box": {
+        "x_min": 241.26544189453125,
+        "y_min": 445.0947265625,
+        "x_max": 264.04412841796875,
+        "y_max": 515.3530883789062,
+        "width": 22.7786865234375,
+        "height": 70.25836181640625
+      },
+      "description": "Object 21 (wires) with 59.3% confidence",
+      "mask_area_pixels": 471,
+      "mask_area_ratio": 0.000981
+    },
+    {
+      "id": 22,
+      "label": "wires",
+      "confidence": 0.34657996892929077,
+      "bounding_box": {
+        "x_min": 64.50553894042969,
+        "y_min": 391.7024230957031,
+        "x_max": 119.27053833007812,
+        "y_max": 399.5205383300781,
+        "width": 54.76499938964844,
+        "height": 7.818115234375
+      },
+      "description": "Object 22 (wires) with 34.7% confidence",
+      "mask_area_pixels": 190,
+      "mask_area_ratio": 0.000396
+    },
+    {
+      "id": 23,
+      "label": "wires",
+      "confidence": 0.7933942675590515,
+      "bounding_box": {
+        "x_min": 173.0614013671875,
+        "y_min": 556.057861328125,
+        "x_max": 290.1091003417969,
+        "y_max": 600.109619140625,
+        "width": 117.04769897460938,
+        "height": 44.0517578125
+      },
+      "description": "Object 23 (wires) with 79.3% confidence",
+      "mask_area_pixels": 761,
+      "mask_area_ratio": 0.001585
+    },
+    {
+      "id": 24,
+      "label": "wires",
+      "confidence": 0.47186627984046936,
+      "bounding_box": {
+        "x_min": 149.67030334472656,
+        "y_min": 12.272326469421387,
+        "x_max": 223.35107421875,
+        "y_max": 97.02233123779297,
+        "width": 73.68077087402344,
+        "height": 84.75000762939453
+      },
+      "description": "Object 24 (wires) with 47.2% confidence",
+      "mask_area_pixels": 919,
+      "mask_area_ratio": 0.001915
+    },
+    {
+      "id": 25,
+      "label": "wires",
+      "confidence": 0.32548603415489197,
+      "bounding_box": {
+        "x_min": 31.921541213989258,
+        "y_min": 462.7535705566406,
+        "x_max": 126.74051666259766,
+        "y_max": 498.97412109375,
+        "width": 94.81897735595703,
+        "height": 36.220550537109375
+      },
+      "description": "Object 25 (wires) with 32.5% confidence",
+      "mask_area_pixels": 624,
+      "mask_area_ratio": 0.0013
+    },
+    {
+      "id": 26,
+      "label": "wires",
+      "confidence": 0.3221955895423889,
+      "bounding_box": {
+        "x_min": 197.9332733154297,
+        "y_min": 63.91756820678711,
+        "x_max": 216.533203125,
+        "y_max": 95.79220581054688,
+        "width": 18.599929809570312,
+        "height": 31.874637603759766
+      },
+      "description": "Object 26 (wires) with 32.2% confidence",
+      "mask_area_pixels": 168,
+      "mask_area_ratio": 0.00035
+    },
+    {
+      "id": 27,
+      "label": "wires",
+      "confidence": 0.4937986135482788,
+      "bounding_box": {
+        "x_min": 215.49928283691406,
+        "y_min": 3.02656888961792,
+        "x_max": 260.2004699707031,
+        "y_max": 100.22645568847656,
+        "width": 44.70118713378906,
+        "height": 97.19989013671875
+      },
+      "description": "Object 27 (wires) with 49.4% confidence",
+      "mask_area_pixels": 1336,
+      "mask_area_ratio": 0.002783
+    },
+    {
+      "id": 28,
+      "label": "wires",
+      "confidence": 0.5499451160430908,
+      "bounding_box": {
+        "x_min": 1.533818244934082,
+        "y_min": -8.707112312316895,
+        "x_max": 140.0961456298828,
+        "y_max": 518.9771118164062,
+        "width": 138.5623321533203,
+        "height": 527.6842041015625
+      },
+      "description": "Object 28 (wires) with 55.0% confidence",
+      "mask_area_pixels": 19713,
+      "mask_area_ratio": 0.041069
+    },
+    {
+      "id": 29,
+      "label": "wires",
+      "confidence": 0.6106275916099548,
+      "bounding_box": {
+        "x_min": 56.146942138671875,
+        "y_min": 452.0899353027344,
+        "x_max": 112.22017669677734,
+        "y_max": 496.47491455078125,
+        "width": 56.07323455810547,
+        "height": 44.384979248046875
+      },
+      "description": "Object 29 (wires) with 61.1% confidence",
+      "mask_area_pixels": 488,
+      "mask_area_ratio": 0.001017
+    },
+    {
+      "id": 30,
+      "label": "wires",
+      "confidence": 0.3253183364868164,
+      "bounding_box": {
+        "x_min": 590.4744873046875,
+        "y_min": 592.4947509765625,
+        "x_max": 607.8601684570312,
+        "y_max": 601.444580078125,
+        "width": 17.38568115234375,
+        "height": 8.9498291015625
+      },
+      "description": "Object 30 (wires) with 32.5% confidence",
+      "mask_area_pixels": 119,
+      "mask_area_ratio": 0.000248
+    },
+    {
+      "id": 31,
+      "label": "wires",
+      "confidence": 0.31620895862579346,
+      "bounding_box": {
+        "x_min": 129.39952087402344,
+        "y_min": 528.9536743164062,
+        "x_max": 165.9937286376953,
+        "y_max": 561.9985961914062,
+        "width": 36.594207763671875,
+        "height": 33.044921875
+      },
+      "description": "Object 31 (wires) with 31.6% confidence",
+      "mask_area_pixels": 325,
+      "mask_area_ratio": 0.000677
+    },
+    {
+      "id": 32,
+      "label": "wires",
+      "confidence": 0.36539408564567566,
+      "bounding_box": {
+        "x_min": 31.98464584350586,
+        "y_min": 472.6148376464844,
+        "x_max": 57.86003875732422,
+        "y_max": 500.5446472167969,
+        "width": 25.87539291381836,
+        "height": 27.9298095703125
+      },
+      "description": "Object 32 (wires) with 36.5% confidence",
+      "mask_area_pixels": 214,
+      "mask_area_ratio": 0.000446
+    },
+    {
+      "id": 33,
+      "label": "wires",
+      "confidence": 0.32045626640319824,
+      "bounding_box": {
+        "x_min": 214.36073303222656,
+        "y_min": 3.9716720581054688,
+        "x_max": 255.37640380859375,
+        "y_max": 99.75015258789062,
+        "width": 41.01567077636719,
+        "height": 95.77848052978516
+      },
+      "description": "Object 33 (wires) with 32.0% confidence",
+      "mask_area_pixels": 1364,
+      "mask_area_ratio": 0.002842
+    },
+    {
+      "id": 34,
+      "label": "wires",
+      "confidence": 0.3696189820766449,
+      "bounding_box": {
+        "x_min": 35.624725341796875,
+        "y_min": 415.7113952636719,
+        "x_max": 77.62164306640625,
+        "y_max": 441.43756103515625,
+        "width": 41.996917724609375,
+        "height": 25.726165771484375
+      },
+      "description": "Object 34 (wires) with 37.0% confidence",
+      "mask_area_pixels": 218,
+      "mask_area_ratio": 0.000454
+    },
+    {
+      "id": 35,
+      "label": "wires",
+      "confidence": 0.5587451457977295,
+      "bounding_box": {
+        "x_min": 125.55540466308594,
+        "y_min": 50.15266799926758,
+        "x_max": 256.218994140625,
+        "y_max": 99.6581039428711,
+        "width": 130.66358947753906,
+        "height": 49.505435943603516
+      },
+      "description": "Object 35 (wires) with 55.9% confidence",
+      "mask_area_pixels": 638,
+      "mask_area_ratio": 0.001329
+    },
+    {
+      "id": 36,
+      "label": "wires",
+      "confidence": 0.44714027643203735,
+      "bounding_box": {
+        "x_min": 155.2975616455078,
+        "y_min": 525.1157836914062,
+        "x_max": 203.6058349609375,
+        "y_max": 600.1488647460938,
+        "width": 48.30827331542969,
+        "height": 75.0330810546875
+      },
+      "description": "Object 36 (wires) with 44.7% confidence",
+      "mask_area_pixels": 1079,
+      "mask_area_ratio": 0.002248
+    },
+    {
+      "id": 37,
+      "label": "wires",
+      "confidence": 0.4403371810913086,
+      "bounding_box": {
+        "x_min": 714.1635131835938,
+        "y_min": 576.3067016601562,
+        "x_max": 722.3677368164062,
+        "y_max": 603.2123413085938,
+        "width": 8.2042236328125,
+        "height": 26.9056396484375
+      },
+      "description": "Object 37 (wires) with 44.0% confidence",
+      "mask_area_pixels": 97,
+      "mask_area_ratio": 0.000202
+    },
+    {
+      "id": 38,
+      "label": "wires",
+      "confidence": 0.5584254264831543,
+      "bounding_box": {
+        "x_min": 62.93315887451172,
+        "y_min": 229.94866943359375,
+        "x_max": 99.8133544921875,
+        "y_max": 307.3055419921875,
+        "width": 36.88019561767578,
+        "height": 77.35687255859375
+      },
+      "description": "Object 38 (wires) with 55.8% confidence",
+      "mask_area_pixels": 427,
+      "mask_area_ratio": 0.00089
+    },
+    {
+      "id": 39,
+      "label": "wires",
+      "confidence": 0.43484437465667725,
+      "bounding_box": {
+        "x_min": 19.28757667541504,
+        "y_min": 557.2006225585938,
+        "x_max": 63.00649642944336,
+        "y_max": 599.6282348632812,
+        "width": 43.71891784667969,
+        "height": 42.4276123046875
+      },
+      "description": "Object 39 (wires) with 43.5% confidence",
+      "mask_area_pixels": 489,
+      "mask_area_ratio": 0.001019
+    },
+    {
+      "id": 40,
+      "label": "wires",
+      "confidence": 0.37562796473503113,
+      "bounding_box": {
+        "x_min": 135.62918090820312,
+        "y_min": 19.929290771484375,
+        "x_max": 782.4987182617188,
+        "y_max": 161.5506591796875,
+        "width": 646.8695068359375,
+        "height": 141.62136840820312
+      },
+      "description": "Object 40 (wires) with 37.6% confidence",
+      "mask_area_pixels": 3739,
+      "mask_area_ratio": 0.00779
+    },
+    {
+      "id": 41,
+      "label": "wires",
+      "confidence": 0.3547743558883667,
+      "bounding_box": {
+        "x_min": 792.1220703125,
+        "y_min": 540.9396362304688,
+        "x_max": 800.8236083984375,
+        "y_max": 562.9044189453125,
+        "width": 8.7015380859375,
+        "height": 21.96478271484375
+      },
+      "description": "Object 41 (wires) with 35.5% confidence",
+      "mask_area_pixels": 70,
+      "mask_area_ratio": 0.000146
+    },
+    {
+      "id": 42,
+      "label": "wires",
+      "confidence": 0.3174479305744171,
+      "bounding_box": {
+        "x_min": 185.9246063232422,
+        "y_min": 484.3934326171875,
+        "x_max": 214.26602172851562,
+        "y_max": 518.9208984375,
+        "width": 28.341415405273438,
+        "height": 34.5274658203125
+      },
+      "description": "Object 42 (wires) with 31.7% confidence",
+      "mask_area_pixels": 512,
+      "mask_area_ratio": 0.001067
+    },
+    {
+      "id": 43,
+      "label": "wires",
+      "confidence": 0.5756388902664185,
+      "bounding_box": {
+        "x_min": 161.3312225341797,
+        "y_min": 10.143723487854004,
+        "x_max": 246.8363800048828,
+        "y_max": 57.16019821166992,
+        "width": 85.50515747070312,
+        "height": 47.016475677490234
+      },
+      "description": "Object 43 (wires) with 57.6% confidence",
+      "mask_area_pixels": 510,
+      "mask_area_ratio": 0.001063
+    },
+    {
+      "id": 44,
+      "label": "wires",
+      "confidence": 0.4421854317188263,
+      "bounding_box": {
+        "x_min": 595.6185913085938,
+        "y_min": 590.7879638671875,
+        "x_max": 607.7620849609375,
+        "y_max": 600.305908203125,
+        "width": 12.14349365234375,
+        "height": 9.5179443359375
+      },
+      "description": "Object 44 (wires) with 44.2% confidence",
+      "mask_area_pixels": 64,
+      "mask_area_ratio": 0.000133
+    },
+    {
+      "id": 45,
+      "label": "wires",
+      "confidence": 0.38192662596702576,
+      "bounding_box": {
+        "x_min": 591.0719604492188,
+        "y_min": 590.995849609375,
+        "x_max": 596.696533203125,
+        "y_max": 601.116455078125,
+        "width": 5.62457275390625,
+        "height": 10.12060546875
+      },
+      "description": "Object 45 (wires) with 38.2% confidence",
+      "mask_area_pixels": 44,
+      "mask_area_ratio": 9.2e-05
+    },
+    {
+      "id": 46,
+      "label": "wires",
+      "confidence": 0.36349356174468994,
+      "bounding_box": {
+        "x_min": 70.17189025878906,
+        "y_min": 467.33612060546875,
+        "x_max": 87.26276397705078,
+        "y_max": 493.9902648925781,
+        "width": 17.09087371826172,
+        "height": 26.654144287109375
+      },
+      "description": "Object 46 (wires) with 36.3% confidence",
+      "mask_area_pixels": 143,
+      "mask_area_ratio": 0.000298
+    },
+    {
+      "id": 47,
+      "label": "wires",
+      "confidence": 0.3134082555770874,
+      "bounding_box": {
+        "x_min": 581.9945068359375,
+        "y_min": 547.625,
+        "x_max": 588.8213500976562,
+        "y_max": 602.1064453125,
+        "width": 6.82684326171875,
+        "height": 54.4814453125
+      },
+      "description": "Object 47 (wires) with 31.3% confidence",
+      "mask_area_pixels": 214,
+      "mask_area_ratio": 0.000446
+    },
+    {
+      "id": 48,
+      "label": "wires",
+      "confidence": 0.4259674549102783,
+      "bounding_box": {
+        "x_min": 140.4991455078125,
+        "y_min": 13.94678020477295,
+        "x_max": 188.6149444580078,
+        "y_max": 59.75482177734375,
+        "width": 48.11579895019531,
+        "height": 45.808040618896484
+      },
+      "description": "Object 48 (wires) with 42.6% confidence",
+      "mask_area_pixels": 266,
+      "mask_area_ratio": 0.000554
+    },
+    {
+      "id": 49,
+      "label": "wires",
+      "confidence": 0.36572644114494324,
+      "bounding_box": {
+        "x_min": 207.45938110351562,
+        "y_min": 435.1792297363281,
+        "x_max": 269.9989929199219,
+        "y_max": 515.4671020507812,
+        "width": 62.53961181640625,
+        "height": 80.28787231445312
+      },
+      "description": "Object 49 (wires) with 36.6% confidence",
+      "mask_area_pixels": 3374,
+      "mask_area_ratio": 0.007029
+    },
+    {
+      "id": 50,
+      "label": "wires",
+      "confidence": 0.6617568135261536,
+      "bounding_box": {
+        "x_min": 466.63665771484375,
+        "y_min": 588.715576171875,
+        "x_max": 519.2003173828125,
+        "y_max": 600.1134643554688,
+        "width": 52.56365966796875,
+        "height": 11.39788818359375
+      },
+      "description": "Object 50 (wires) with 66.2% confidence",
+      "mask_area_pixels": 296,
+      "mask_area_ratio": 0.000617
+    },
+    {
+      "id": 51,
+      "label": "wires",
+      "confidence": 0.5260227918624878,
+      "bounding_box": {
+        "x_min": 70.4365234375,
+        "y_min": 465.70074462890625,
+        "x_max": 106.45382690429688,
+        "y_max": 494.0870361328125,
+        "width": 36.017303466796875,
+        "height": 28.38629150390625
+      },
+      "description": "Object 51 (wires) with 52.6% confidence",
+      "mask_area_pixels": 249,
+      "mask_area_ratio": 0.000519
+    },
+    {
+      "id": 52,
+      "label": "wires",
+      "confidence": 0.37394070625305176,
+      "bounding_box": {
+        "x_min": 131.63133239746094,
+        "y_min": 2.620455741882324,
+        "x_max": 299.0340576171875,
+        "y_max": 103.03079223632812,
+        "width": 167.40272521972656,
+        "height": 100.41033935546875
+      },
+      "description": "Object 52 (wires) with 37.4% confidence",
+      "mask_area_pixels": 4644,
+      "mask_area_ratio": 0.009675
+    },
+    {
+      "id": 53,
+      "label": "wires",
+      "confidence": 0.32584619522094727,
+      "bounding_box": {
+        "x_min": 137.8894805908203,
+        "y_min": 17.27900505065918,
+        "x_max": 782.066650390625,
+        "y_max": 162.15277099609375,
+        "width": 644.1771850585938,
+        "height": 144.87376403808594
+      },
+      "description": "Object 53 (wires) with 32.6% confidence",
+      "mask_area_pixels": 3744,
+      "mask_area_ratio": 0.0078
+    },
+    {
+      "id": 54,
+      "label": "wires",
+      "confidence": 0.31723564863204956,
+      "bounding_box": {
+        "x_min": 217.01596069335938,
+        "y_min": 6.503950119018555,
+        "x_max": 246.4404754638672,
+        "y_max": 47.66139602661133,
+        "width": 29.424514770507812,
+        "height": 41.157447814941406
+      },
+      "description": "Object 54 (wires) with 31.7% confidence",
+      "mask_area_pixels": 677,
+      "mask_area_ratio": 0.00141
+    },
+    {
+      "id": 55,
+      "label": "wires",
+      "confidence": 0.689389169216156,
+      "bounding_box": {
+        "x_min": 233.3716583251953,
+        "y_min": 1.7248034477233887,
+        "x_max": 285.4490051269531,
+        "y_max": 22.914854049682617,
+        "width": 52.07734680175781,
+        "height": 21.19005012512207
+      },
+      "description": "Object 55 (wires) with 68.9% confidence",
+      "mask_area_pixels": 359,
+      "mask_area_ratio": 0.000748
+    },
+    {
+      "id": 56,
+      "label": "wires",
+      "confidence": 0.3350822627544403,
+      "bounding_box": {
+        "x_min": 109.77103424072266,
+        "y_min": 520.4398803710938,
+        "x_max": 172.1065216064453,
+        "y_max": 566.5281982421875,
+        "width": 62.335487365722656,
+        "height": 46.08831787109375
+      },
+      "description": "Object 56 (wires) with 33.5% confidence",
+      "mask_area_pixels": 1520,
+      "mask_area_ratio": 0.003167
+    },
+    {
+      "id": 57,
+      "label": "wires",
+      "confidence": 0.5861217379570007,
+      "bounding_box": {
+        "x_min": 148.65692138671875,
+        "y_min": 87.06571960449219,
+        "x_max": 181.36920166015625,
+        "y_max": 114.21151733398438,
+        "width": 32.7122802734375,
+        "height": 27.145797729492188
+      },
+      "description": "Object 57 (wires) with 58.6% confidence",
+      "mask_area_pixels": 184,
+      "mask_area_ratio": 0.000383
+    },
+    {
+      "id": 58,
+      "label": "wires",
+      "confidence": 0.49529096484184265,
+      "bounding_box": {
+        "x_min": 736.3466796875,
+        "y_min": 390.2645263671875,
+        "x_max": 758.5494384765625,
+        "y_max": 411.4043273925781,
+        "width": 22.2027587890625,
+        "height": 21.139801025390625
+      },
+      "description": "Object 58 (wires) with 49.5% confidence",
+      "mask_area_pixels": 163,
+      "mask_area_ratio": 0.00034
+    },
+    {
+      "id": 59,
+      "label": "wires",
+      "confidence": 0.3011836111545563,
+      "bounding_box": {
+        "x_min": 110.54308319091797,
+        "y_min": 521.5323486328125,
+        "x_max": 159.79583740234375,
+        "y_max": 558.6856689453125,
+        "width": 49.25275421142578,
+        "height": 37.1533203125
+      },
+      "description": "Object 59 (wires) with 30.1% confidence",
+      "mask_area_pixels": 1299,
+      "mask_area_ratio": 0.002706
+    }
+  ],
+  "image_info": {
+    "width": 800,
+    "height": 600,
+    "area_pixels": 480000,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.3,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 1.353,
+    "num_detections": 59
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1779417787.png",
+    "masked_segments": []
+  }
+}

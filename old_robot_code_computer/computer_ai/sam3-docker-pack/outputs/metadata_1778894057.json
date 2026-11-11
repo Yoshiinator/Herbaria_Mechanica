@@ -1,0 +1,58 @@
+{
+  "summary": "Found 2 object(s) matching 'leaf' in the image.",
+  "query": "leaf",
+  "detections": [
+    {
+      "id": 1,
+      "label": "leaf",
+      "confidence": 0.9054522514343262,
+      "bounding_box": {
+        "x_min": 2565.041259765625,
+        "y_min": 1126.66552734375,
+        "x_max": 2621.81396484375,
+        "y_max": 1191.6243896484375,
+        "width": 56.772705078125,
+        "height": 64.9588623046875
+      },
+      "description": "Object 1 (leaf) with 90.5% confidence",
+      "mask_area_pixels": 2690,
+      "mask_area_ratio": 0.000324
+    },
+    {
+      "id": 2,
+      "label": "leaf",
+      "confidence": 0.9052850008010864,
+      "bounding_box": {
+        "x_min": 2569.8994140625,
+        "y_min": 1187.88525390625,
+        "x_max": 2627.98291015625,
+        "y_max": 1248.07275390625,
+        "width": 58.08349609375,
+        "height": 60.1875
+      },
+      "description": "Object 2 (leaf) with 90.5% confidence",
+      "mask_area_pixels": 2610,
+      "mask_area_ratio": 0.000315
+    }
+  ],
+  "image_info": {
+    "width": 3840,
+    "height": 2160,
+    "area_pixels": 8294400,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.5,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 1.988,
+    "num_detections": 2
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/outputs/result_1778894057.png",
+    "masked_segments": []
+  }
+}

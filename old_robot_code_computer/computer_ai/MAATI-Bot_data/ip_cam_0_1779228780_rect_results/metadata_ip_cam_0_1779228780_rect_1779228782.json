@@ -1,0 +1,57 @@
+{
+  "summary": "Found 1 object(s) matching 'leaf' in the image.",
+  "query": "leaf",
+  "detections": [
+    {
+      "id": 1,
+      "label": "leaf",
+      "confidence": 0.9379655122756958,
+      "bounding_box": {
+        "x_min": 1457.1246337890625,
+        "y_min": 1364.967529296875,
+        "x_max": 1572.3670654296875,
+        "y_max": 1459.08349609375,
+        "width": 115.242431640625,
+        "height": 94.115966796875
+      },
+      "description": "Object 1 (leaf) with 93.8% confidence",
+      "mask_area_pixels": 8258,
+      "mask_area_ratio": 0.001032
+    }
+  ],
+  "image_info": {
+    "width": 4000,
+    "height": 2000,
+    "area_pixels": 8000000,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.3,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 1.867,
+    "num_detections": 1
+  },
+  "file_paths": {
+    "input_image": "/mnt/MAATI-Bot_data/raw_capture/ip_cam_0_1779228780_rect.jpg",
+    "overlay_image": "/mnt/MAATI-Bot_data/ip_cam_0_1779228780_rect_results/result_1779228782.png",
+    "masked_segments": [],
+    "combined_masks_per_label": {},
+    "all_combined_mask": null
+  },
+  "grouped_detections": {
+    "leaf": {
+      "label": "leaf",
+      "count": 1,
+      "confidence_min": 0.9379655122756958,
+      "confidence_max": 0.9379655122756958,
+      "total_mask_area_pixels": 0,
+      "detection_ids": [
+        1
+      ],
+      "total_mask_area_ratio": 0.0
+    }
+  }
+}

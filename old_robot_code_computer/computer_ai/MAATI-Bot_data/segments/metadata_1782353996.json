@@ -1,0 +1,2714 @@
+{
+  "summary": "Found 168 object(s) matching 'plant' in the image.",
+  "query": "plant",
+  "detections": [
+    {
+      "id": 1,
+      "label": "plant",
+      "confidence": 0.022594701498746872,
+      "bounding_box": {
+        "x_min": 305.90789794921875,
+        "y_min": 486.53143310546875,
+        "x_max": 411.576904296875,
+        "y_max": 607.4801635742188,
+        "width": 105.66900634765625,
+        "height": 120.94873046875
+      },
+      "description": "Object 1 (plant) with 2.3% confidence",
+      "mask_area_pixels": 12068,
+      "mask_area_ratio": 0.013095
+    },
+    {
+      "id": 2,
+      "label": "plant",
+      "confidence": 0.025082023814320564,
+      "bounding_box": {
+        "x_min": 238.49673461914062,
+        "y_min": 400.239501953125,
+        "x_max": 405.2264099121094,
+        "y_max": 599.2091064453125,
+        "width": 166.72967529296875,
+        "height": 198.9696044921875
+      },
+      "description": "Object 2 (plant) with 2.5% confidence",
+      "mask_area_pixels": 21553,
+      "mask_area_ratio": 0.023387
+    },
+    {
+      "id": 3,
+      "label": "plant",
+      "confidence": 0.011814472265541553,
+      "bounding_box": {
+        "x_min": 930.94287109375,
+        "y_min": 239.9279327392578,
+        "x_max": 960.0546264648438,
+        "y_max": 279.60345458984375,
+        "width": 29.11175537109375,
+        "height": 39.67552185058594
+      },
+      "description": "Object 3 (plant) with 1.2% confidence",
+      "mask_area_pixels": 1372,
+      "mask_area_ratio": 0.001489
+    },
+    {
+      "id": 4,
+      "label": "plant",
+      "confidence": 0.20179972052574158,
+      "bounding_box": {
+        "x_min": 750.0992431640625,
+        "y_min": 381.8033447265625,
+        "x_max": 819.7777709960938,
+        "y_max": 502.6903076171875,
+        "width": 69.67852783203125,
+        "height": 120.886962890625
+      },
+      "description": "Object 4 (plant) with 20.2% confidence",
+      "mask_area_pixels": 5576,
+      "mask_area_ratio": 0.00605
+    },
+    {
+      "id": 5,
+      "label": "plant",
+      "confidence": 0.019200431182980537,
+      "bounding_box": {
+        "x_min": 792.345947265625,
+        "y_min": 479.8228454589844,
+        "x_max": 818.2259521484375,
+        "y_max": 504.8059387207031,
+        "width": 25.8800048828125,
+        "height": 24.98309326171875
+      },
+      "description": "Object 5 (plant) with 1.9% confidence",
+      "mask_area_pixels": 661,
+      "mask_area_ratio": 0.000717
+    },
+    {
+      "id": 6,
+      "label": "plant",
+      "confidence": 0.09341812878847122,
+      "bounding_box": {
+        "x_min": 753.1981811523438,
+        "y_min": 435.0401916503906,
+        "x_max": 801.3770141601562,
+        "y_max": 466.5811462402344,
+        "width": 48.1788330078125,
+        "height": 31.54095458984375
+      },
+      "description": "Object 6 (plant) with 9.3% confidence",
+      "mask_area_pixels": 1076,
+      "mask_area_ratio": 0.001168
+    },
+    {
+      "id": 7,
+      "label": "plant",
+      "confidence": 0.025585826486349106,
+      "bounding_box": {
+        "x_min": 411.32049560546875,
+        "y_min": 192.57908630371094,
+        "x_max": 527.5347290039062,
+        "y_max": 282.97418212890625,
+        "width": 116.2142333984375,
+        "height": 90.39509582519531
+      },
+      "description": "Object 7 (plant) with 2.6% confidence",
+      "mask_area_pixels": 12140,
+      "mask_area_ratio": 0.013173
+    },
+    {
+      "id": 8,
+      "label": "plant",
+      "confidence": 0.02098274789750576,
+      "bounding_box": {
+        "x_min": 254.3319091796875,
+        "y_min": 120.97320556640625,
+        "x_max": 315.1326599121094,
+        "y_max": 154.18841552734375,
+        "width": 60.800750732421875,
+        "height": 33.2152099609375
+      },
+      "description": "Object 8 (plant) with 2.1% confidence",
+      "mask_area_pixels": 2884,
+      "mask_area_ratio": 0.003129
+    },
+    {
+      "id": 9,
+      "label": "plant",
+      "confidence": 0.020032931119203568,
+      "bounding_box": {
+        "x_min": 211.6333770751953,
+        "y_min": 338.98046875,
+        "x_max": 303.20367431640625,
+        "y_max": 456.0736389160156,
+        "width": 91.57029724121094,
+        "height": 117.09317016601562
+      },
+      "description": "Object 9 (plant) with 2.0% confidence",
+      "mask_area_pixels": 12531,
+      "mask_area_ratio": 0.013597
+    },
+    {
+      "id": 10,
+      "label": "plant",
+      "confidence": 0.0709151029586792,
+      "bounding_box": {
+        "x_min": 882.8037109375,
+        "y_min": 233.52389526367188,
+        "x_max": 911.0745849609375,
+        "y_max": 256.532958984375,
+        "width": 28.2708740234375,
+        "height": 23.009063720703125
+      },
+      "description": "Object 10 (plant) with 7.1% confidence",
+      "mask_area_pixels": 573,
+      "mask_area_ratio": 0.000622
+    },
+    {
+      "id": 11,
+      "label": "plant",
+      "confidence": 0.03185084089636803,
+      "bounding_box": {
+        "x_min": 734.5899658203125,
+        "y_min": 483.7237243652344,
+        "x_max": 763.3828735351562,
+        "y_max": 505.2000427246094,
+        "width": 28.79290771484375,
+        "height": 21.476318359375
+      },
+      "description": "Object 11 (plant) with 3.2% confidence",
+      "mask_area_pixels": 909,
+      "mask_area_ratio": 0.000986
+    },
+    {
+      "id": 12,
+      "label": "plant",
+      "confidence": 0.07320881634950638,
+      "bounding_box": {
+        "x_min": 865.3065185546875,
+        "y_min": 308.6601257324219,
+        "x_max": 919.5510864257812,
+        "y_max": 348.9704895019531,
+        "width": 54.24456787109375,
+        "height": 40.31036376953125
+      },
+      "description": "Object 12 (plant) with 7.3% confidence",
+      "mask_area_pixels": 1787,
+      "mask_area_ratio": 0.001939
+    },
+    {
+      "id": 13,
+      "label": "plant",
+      "confidence": 0.044531166553497314,
+      "bounding_box": {
+        "x_min": 936.5838623046875,
+        "y_min": 482.8214111328125,
+        "x_max": 959.2762451171875,
+        "y_max": 505.4849853515625,
+        "width": 22.6923828125,
+        "height": 22.66357421875
+      },
+      "description": "Object 13 (plant) with 4.5% confidence",
+      "mask_area_pixels": 549,
+      "mask_area_ratio": 0.000596
+    },
+    {
+      "id": 14,
+      "label": "plant",
+      "confidence": 0.011643867939710617,
+      "bounding_box": {
+        "x_min": 934.9632568359375,
+        "y_min": 300.1080017089844,
+        "x_max": 957.1068115234375,
+        "y_max": 319.6903991699219,
+        "width": 22.1435546875,
+        "height": 19.5823974609375
+      },
+      "description": "Object 14 (plant) with 1.2% confidence",
+      "mask_area_pixels": 744,
+      "mask_area_ratio": 0.000807
+    },
+    {
+      "id": 15,
+      "label": "plant",
+      "confidence": 0.05313603952527046,
+      "bounding_box": {
+        "x_min": 796.5503540039062,
+        "y_min": 251.062744140625,
+        "x_max": 820.6588134765625,
+        "y_max": 287.55712890625,
+        "width": 24.10845947265625,
+        "height": 36.494384765625
+      },
+      "description": "Object 15 (plant) with 5.3% confidence",
+      "mask_area_pixels": 1150,
+      "mask_area_ratio": 0.001248
+    },
+    {
+      "id": 16,
+      "label": "plant",
+      "confidence": 0.03835491091012955,
+      "bounding_box": {
+        "x_min": 785.0054321289062,
+        "y_min": 308.3146667480469,
+        "x_max": 814.4620361328125,
+        "y_max": 339.8775329589844,
+        "width": 29.45660400390625,
+        "height": 31.5628662109375
+      },
+      "description": "Object 16 (plant) with 3.8% confidence",
+      "mask_area_pixels": 979,
+      "mask_area_ratio": 0.001062
+    },
+    {
+      "id": 17,
+      "label": "plant",
+      "confidence": 0.23835237324237823,
+      "bounding_box": {
+        "x_min": 743.2308959960938,
+        "y_min": 242.162353515625,
+        "x_max": 822.2653198242188,
+        "y_max": 310.4322204589844,
+        "width": 79.034423828125,
+        "height": 68.26986694335938
+      },
+      "description": "Object 17 (plant) with 23.8% confidence",
+      "mask_area_pixels": 4082,
+      "mask_area_ratio": 0.004429
+    },
+    {
+      "id": 18,
+      "label": "plant",
+      "confidence": 0.16446802020072937,
+      "bounding_box": {
+        "x_min": 868.2652587890625,
+        "y_min": 288.4875183105469,
+        "x_max": 940.7099609375,
+        "y_max": 347.59161376953125,
+        "width": 72.4447021484375,
+        "height": 59.104095458984375
+      },
+      "description": "Object 18 (plant) with 16.4% confidence",
+      "mask_area_pixels": 3138,
+      "mask_area_ratio": 0.003405
+    },
+    {
+      "id": 19,
+      "label": "plant",
+      "confidence": 0.03099987283349037,
+      "bounding_box": {
+        "x_min": 863.5187377929688,
+        "y_min": 314.7955017089844,
+        "x_max": 890.8678588867188,
+        "y_max": 342.564208984375,
+        "width": 27.34912109375,
+        "height": 27.768707275390625
+      },
+      "description": "Object 19 (plant) with 3.1% confidence",
+      "mask_area_pixels": 1359,
+      "mask_area_ratio": 0.001475
+    },
+    {
+      "id": 20,
+      "label": "plant",
+      "confidence": 0.06016353890299797,
+      "bounding_box": {
+        "x_min": 1032.4805908203125,
+        "y_min": 96.23793029785156,
+        "x_max": 1154.405029296875,
+        "y_max": 254.38430786132812,
+        "width": 121.9244384765625,
+        "height": 158.14637756347656
+      },
+      "description": "Object 20 (plant) with 6.0% confidence",
+      "mask_area_pixels": 11955,
+      "mask_area_ratio": 0.012972
+    },
+    {
+      "id": 21,
+      "label": "plant",
+      "confidence": 0.04136325418949127,
+      "bounding_box": {
+        "x_min": 438.1570129394531,
+        "y_min": -6.40653133392334,
+        "x_max": 458.3238525390625,
+        "y_max": 159.8978271484375,
+        "width": 20.166839599609375,
+        "height": 166.30435180664062
+      },
+      "description": "Object 21 (plant) with 4.1% confidence",
+      "mask_area_pixels": 1256,
+      "mask_area_ratio": 0.001363
+    },
+    {
+      "id": 22,
+      "label": "plant",
+      "confidence": 0.014112435281276703,
+      "bounding_box": {
+        "x_min": 845.9451904296875,
+        "y_min": 317.2244873046875,
+        "x_max": 881.1649169921875,
+        "y_max": 351.20440673828125,
+        "width": 35.2197265625,
+        "height": 33.97991943359375
+      },
+      "description": "Object 22 (plant) with 1.4% confidence",
+      "mask_area_pixels": 917,
+      "mask_area_ratio": 0.000995
+    },
+    {
+      "id": 23,
+      "label": "plant",
+      "confidence": 0.01533456053584814,
+      "bounding_box": {
+        "x_min": 1166.1790771484375,
+        "y_min": 70.43411254882812,
+        "x_max": 1219.550048828125,
+        "y_max": 120.94111633300781,
+        "width": 53.3709716796875,
+        "height": 50.50700378417969
+      },
+      "description": "Object 23 (plant) with 1.5% confidence",
+      "mask_area_pixels": 4411,
+      "mask_area_ratio": 0.004786
+    },
+    {
+      "id": 24,
+      "label": "plant",
+      "confidence": 0.04852975159883499,
+      "bounding_box": {
+        "x_min": 744.36376953125,
+        "y_min": 275.3668212890625,
+        "x_max": 814.843505859375,
+        "y_max": 340.1406555175781,
+        "width": 70.479736328125,
+        "height": 64.77383422851562
+      },
+      "description": "Object 24 (plant) with 4.9% confidence",
+      "mask_area_pixels": 3074,
+      "mask_area_ratio": 0.003336
+    },
+    {
+      "id": 25,
+      "label": "plant",
+      "confidence": 0.01105501502752304,
+      "bounding_box": {
+        "x_min": 275.05792236328125,
+        "y_min": 359.5499572753906,
+        "x_max": 349.0037841796875,
+        "y_max": 434.06304931640625,
+        "width": 73.94586181640625,
+        "height": 74.51309204101562
+      },
+      "description": "Object 25 (plant) with 1.1% confidence",
+      "mask_area_pixels": 8961,
+      "mask_area_ratio": 0.009723
+    },
+    {
+      "id": 26,
+      "label": "plant",
+      "confidence": 0.04522405564785004,
+      "bounding_box": {
+        "x_min": 906.8055419921875,
+        "y_min": 452.2375183105469,
+        "x_max": 946.5667724609375,
+        "y_max": 481.2101745605469,
+        "width": 39.76123046875,
+        "height": 28.97265625
+      },
+      "description": "Object 26 (plant) with 4.5% confidence",
+      "mask_area_pixels": 2025,
+      "mask_area_ratio": 0.002197
+    },
+    {
+      "id": 27,
+      "label": "plant",
+      "confidence": 0.020384585484862328,
+      "bounding_box": {
+        "x_min": 13.268821716308594,
+        "y_min": 19.781646728515625,
+        "x_max": 80.3604965209961,
+        "y_max": 51.543006896972656,
+        "width": 67.0916748046875,
+        "height": 31.76136016845703
+      },
+      "description": "Object 27 (plant) with 2.0% confidence",
+      "mask_area_pixels": 2634,
+      "mask_area_ratio": 0.002858
+    },
+    {
+      "id": 28,
+      "label": "plant",
+      "confidence": 0.38030877709388733,
+      "bounding_box": {
+        "x_min": 882.9505615234375,
+        "y_min": 234.6544647216797,
+        "x_max": 945.5059814453125,
+        "y_max": 280.2825927734375,
+        "width": 62.555419921875,
+        "height": 45.62812805175781
+      },
+      "description": "Object 28 (plant) with 38.0% confidence",
+      "mask_area_pixels": 1810,
+      "mask_area_ratio": 0.001964
+    },
+    {
+      "id": 29,
+      "label": "plant",
+      "confidence": 0.0281299389898777,
+      "bounding_box": {
+        "x_min": 864.9541015625,
+        "y_min": 437.3720703125,
+        "x_max": 881.9163818359375,
+        "y_max": 462.1277770996094,
+        "width": 16.9622802734375,
+        "height": 24.755706787109375
+      },
+      "description": "Object 29 (plant) with 2.8% confidence",
+      "mask_area_pixels": 676,
+      "mask_area_ratio": 0.000734
+    },
+    {
+      "id": 30,
+      "label": "plant",
+      "confidence": 0.12092588096857071,
+      "bounding_box": {
+        "x_min": 742.4317626953125,
+        "y_min": 303.5397644042969,
+        "x_max": 781.5606689453125,
+        "y_max": 339.02239990234375,
+        "width": 39.12890625,
+        "height": 35.482635498046875
+      },
+      "description": "Object 30 (plant) with 12.1% confidence",
+      "mask_area_pixels": 839,
+      "mask_area_ratio": 0.00091
+    },
+    {
+      "id": 31,
+      "label": "plant",
+      "confidence": 0.02675612084567547,
+      "bounding_box": {
+        "x_min": 209.95477294921875,
+        "y_min": 32.969417572021484,
+        "x_max": 299.5172424316406,
+        "y_max": 117.83047485351562,
+        "width": 89.56246948242188,
+        "height": 84.86105346679688
+      },
+      "description": "Object 31 (plant) with 2.7% confidence",
+      "mask_area_pixels": 7434,
+      "mask_area_ratio": 0.008066
+    },
+    {
+      "id": 32,
+      "label": "plant",
+      "confidence": 0.029183251783251762,
+      "bounding_box": {
+        "x_min": 732.2891845703125,
+        "y_min": 485.4682922363281,
+        "x_max": 759.0234985351562,
+        "y_max": 503.6131591796875,
+        "width": 26.73431396484375,
+        "height": 18.144866943359375
+      },
+      "description": "Object 32 (plant) with 2.9% confidence",
+      "mask_area_pixels": 717,
+      "mask_area_ratio": 0.000778
+    },
+    {
+      "id": 33,
+      "label": "plant",
+      "confidence": 0.028712600469589233,
+      "bounding_box": {
+        "x_min": 735.0589599609375,
+        "y_min": 474.7058410644531,
+        "x_max": 774.4891967773438,
+        "y_max": 503.7344665527344,
+        "width": 39.43023681640625,
+        "height": 29.02862548828125
+      },
+      "description": "Object 33 (plant) with 2.9% confidence",
+      "mask_area_pixels": 1048,
+      "mask_area_ratio": 0.001137
+    },
+    {
+      "id": 34,
+      "label": "plant",
+      "confidence": 0.05753852799534798,
+      "bounding_box": {
+        "x_min": 885.6588134765625,
+        "y_min": 234.92251586914062,
+        "x_max": 910.3494873046875,
+        "y_max": 250.02696228027344,
+        "width": 24.690673828125,
+        "height": 15.104446411132812
+      },
+      "description": "Object 34 (plant) with 5.8% confidence",
+      "mask_area_pixels": 343,
+      "mask_area_ratio": 0.000372
+    },
+    {
+      "id": 35,
+      "label": "plant",
+      "confidence": 0.02604736015200615,
+      "bounding_box": {
+        "x_min": 740.7181396484375,
+        "y_min": 281.4570007324219,
+        "x_max": 766.8390502929688,
+        "y_max": 318.8717956542969,
+        "width": 26.12091064453125,
+        "height": 37.414794921875
+      },
+      "description": "Object 35 (plant) with 2.6% confidence",
+      "mask_area_pixels": 577,
+      "mask_area_ratio": 0.000626
+    },
+    {
+      "id": 36,
+      "label": "plant",
+      "confidence": 0.06568766385316849,
+      "bounding_box": {
+        "x_min": 67.77188110351562,
+        "y_min": 337.3065490722656,
+        "x_max": 84.35536193847656,
+        "y_max": 405.8424377441406,
+        "width": 16.583480834960938,
+        "height": 68.535888671875
+      },
+      "description": "Object 36 (plant) with 6.6% confidence",
+      "mask_area_pixels": 885,
+      "mask_area_ratio": 0.00096
+    },
+    {
+      "id": 37,
+      "label": "plant",
+      "confidence": 0.020389169454574585,
+      "bounding_box": {
+        "x_min": 309.9221496582031,
+        "y_min": 26.034469604492188,
+        "x_max": 400.4049377441406,
+        "y_max": 57.3495979309082,
+        "width": 90.4827880859375,
+        "height": 31.315128326416016
+      },
+      "description": "Object 37 (plant) with 2.0% confidence",
+      "mask_area_pixels": 3678,
+      "mask_area_ratio": 0.003991
+    },
+    {
+      "id": 38,
+      "label": "plant",
+      "confidence": 0.05537395551800728,
+      "bounding_box": {
+        "x_min": 734.91650390625,
+        "y_min": 378.50762939453125,
+        "x_max": 819.8992919921875,
+        "y_max": 433.5975341796875,
+        "width": 84.9827880859375,
+        "height": 55.08990478515625
+      },
+      "description": "Object 38 (plant) with 5.5% confidence",
+      "mask_area_pixels": 4228,
+      "mask_area_ratio": 0.004588
+    },
+    {
+      "id": 39,
+      "label": "plant",
+      "confidence": 0.016900887712836266,
+      "bounding_box": {
+        "x_min": 906.8502807617188,
+        "y_min": 234.613525390625,
+        "x_max": 927.98095703125,
+        "y_max": 255.62844848632812,
+        "width": 21.13067626953125,
+        "height": 21.014923095703125
+      },
+      "description": "Object 39 (plant) with 1.7% confidence",
+      "mask_area_pixels": 513,
+      "mask_area_ratio": 0.000557
+    },
+    {
+      "id": 40,
+      "label": "plant",
+      "confidence": 0.01176850963383913,
+      "bounding_box": {
+        "x_min": 228.25277709960938,
+        "y_min": 194.13681030273438,
+        "x_max": 347.3092956542969,
+        "y_max": 282.20294189453125,
+        "width": 119.0565185546875,
+        "height": 88.06613159179688
+      },
+      "description": "Object 40 (plant) with 1.2% confidence",
+      "mask_area_pixels": 7758,
+      "mask_area_ratio": 0.008418
+    },
+    {
+      "id": 41,
+      "label": "plant",
+      "confidence": 0.027146901935338974,
+      "bounding_box": {
+        "x_min": 773.987548828125,
+        "y_min": 379.486083984375,
+        "x_max": 798.1143188476562,
+        "y_max": 402.87890625,
+        "width": 24.12677001953125,
+        "height": 23.392822265625
+      },
+      "description": "Object 41 (plant) with 2.7% confidence",
+      "mask_area_pixels": 1614,
+      "mask_area_ratio": 0.001751
+    },
+    {
+      "id": 42,
+      "label": "plant",
+      "confidence": 0.011728431098163128,
+      "bounding_box": {
+        "x_min": 937.9810791015625,
+        "y_min": 220.98977661132812,
+        "x_max": 977.2777099609375,
+        "y_max": 257.15667724609375,
+        "width": 39.296630859375,
+        "height": 36.166900634765625
+      },
+      "description": "Object 42 (plant) with 1.2% confidence",
+      "mask_area_pixels": 669,
+      "mask_area_ratio": 0.000726
+    },
+    {
+      "id": 43,
+      "label": "plant",
+      "confidence": 0.026108616963028908,
+      "bounding_box": {
+        "x_min": 744.28759765625,
+        "y_min": 383.24737548828125,
+        "x_max": 788.2449340820312,
+        "y_max": 424.6090087890625,
+        "width": 43.95733642578125,
+        "height": 41.36163330078125
+      },
+      "description": "Object 43 (plant) with 2.6% confidence",
+      "mask_area_pixels": 2385,
+      "mask_area_ratio": 0.002588
+    },
+    {
+      "id": 44,
+      "label": "plant",
+      "confidence": 0.06827712804079056,
+      "bounding_box": {
+        "x_min": 871.46484375,
+        "y_min": 391.90606689453125,
+        "x_max": 956.0810546875,
+        "y_max": 438.1773681640625,
+        "width": 84.6162109375,
+        "height": 46.27130126953125
+      },
+      "description": "Object 44 (plant) with 6.8% confidence",
+      "mask_area_pixels": 3574,
+      "mask_area_ratio": 0.003878
+    },
+    {
+      "id": 45,
+      "label": "plant",
+      "confidence": 0.07245783507823944,
+      "bounding_box": {
+        "x_min": 919.4473266601562,
+        "y_min": 453.22320556640625,
+        "x_max": 946.5693359375,
+        "y_max": 482.0308837890625,
+        "width": 27.12200927734375,
+        "height": 28.80767822265625
+      },
+      "description": "Object 45 (plant) with 7.2% confidence",
+      "mask_area_pixels": 884,
+      "mask_area_ratio": 0.000959
+    },
+    {
+      "id": 46,
+      "label": "plant",
+      "confidence": 0.03661592677235603,
+      "bounding_box": {
+        "x_min": 863.6803588867188,
+        "y_min": 325.8693542480469,
+        "x_max": 891.0198364257812,
+        "y_max": 349.2547302246094,
+        "width": 27.3394775390625,
+        "height": 23.3853759765625
+      },
+      "description": "Object 46 (plant) with 3.7% confidence",
+      "mask_area_pixels": 1089,
+      "mask_area_ratio": 0.001182
+    },
+    {
+      "id": 47,
+      "label": "plant",
+      "confidence": 0.0380871444940567,
+      "bounding_box": {
+        "x_min": 798.8925170898438,
+        "y_min": 257.2541809082031,
+        "x_max": 822.0626831054688,
+        "y_max": 287.0845642089844,
+        "width": 23.170166015625,
+        "height": 29.83038330078125
+      },
+      "description": "Object 47 (plant) with 3.8% confidence",
+      "mask_area_pixels": 998,
+      "mask_area_ratio": 0.001083
+    },
+    {
+      "id": 48,
+      "label": "plant",
+      "confidence": 0.013129372149705887,
+      "bounding_box": {
+        "x_min": 746.1694946289062,
+        "y_min": 244.62411499023438,
+        "x_max": 767.843994140625,
+        "y_max": 264.8898010253906,
+        "width": 21.67449951171875,
+        "height": 20.26568603515625
+      },
+      "description": "Object 48 (plant) with 1.3% confidence",
+      "mask_area_pixels": 595,
+      "mask_area_ratio": 0.000646
+    },
+    {
+      "id": 49,
+      "label": "plant",
+      "confidence": 0.06119577959179878,
+      "bounding_box": {
+        "x_min": 895.39501953125,
+        "y_min": 235.10162353515625,
+        "x_max": 943.93310546875,
+        "y_max": 275.10736083984375,
+        "width": 48.5380859375,
+        "height": 40.0057373046875
+      },
+      "description": "Object 49 (plant) with 6.1% confidence",
+      "mask_area_pixels": 1548,
+      "mask_area_ratio": 0.00168
+    },
+    {
+      "id": 50,
+      "label": "plant",
+      "confidence": 0.09680366516113281,
+      "bounding_box": {
+        "x_min": 865.6082153320312,
+        "y_min": 408.6318359375,
+        "x_max": 888.60107421875,
+        "y_max": 432.12103271484375,
+        "width": 22.99285888671875,
+        "height": 23.48919677734375
+      },
+      "description": "Object 50 (plant) with 9.7% confidence",
+      "mask_area_pixels": 434,
+      "mask_area_ratio": 0.000471
+    },
+    {
+      "id": 51,
+      "label": "plant",
+      "confidence": 0.017515799030661583,
+      "bounding_box": {
+        "x_min": 711.230224609375,
+        "y_min": 247.4768829345703,
+        "x_max": 743.1690063476562,
+        "y_max": 303.5259094238281,
+        "width": 31.93878173828125,
+        "height": 56.04902648925781
+      },
+      "description": "Object 51 (plant) with 1.8% confidence",
+      "mask_area_pixels": 784,
+      "mask_area_ratio": 0.000851
+    },
+    {
+      "id": 52,
+      "label": "plant",
+      "confidence": 0.028198249638080597,
+      "bounding_box": {
+        "x_min": 66.0015869140625,
+        "y_min": 63.67917251586914,
+        "x_max": 82.11944580078125,
+        "y_max": 112.09626007080078,
+        "width": 16.11785888671875,
+        "height": 48.41708755493164
+      },
+      "description": "Object 52 (plant) with 2.8% confidence",
+      "mask_area_pixels": 673,
+      "mask_area_ratio": 0.00073
+    },
+    {
+      "id": 53,
+      "label": "plant",
+      "confidence": 0.015089848078787327,
+      "bounding_box": {
+        "x_min": 898.935302734375,
+        "y_min": 324.24591064453125,
+        "x_max": 939.8003540039062,
+        "y_max": 358.1372985839844,
+        "width": 40.86505126953125,
+        "height": 33.891387939453125
+      },
+      "description": "Object 53 (plant) with 1.5% confidence",
+      "mask_area_pixels": 1133,
+      "mask_area_ratio": 0.001229
+    },
+    {
+      "id": 54,
+      "label": "plant",
+      "confidence": 0.01637278124690056,
+      "bounding_box": {
+        "x_min": 822.065185546875,
+        "y_min": 276.38079833984375,
+        "x_max": 849.83740234375,
+        "y_max": 314.2508850097656,
+        "width": 27.772216796875,
+        "height": 37.870086669921875
+      },
+      "description": "Object 54 (plant) with 1.6% confidence",
+      "mask_area_pixels": 471,
+      "mask_area_ratio": 0.000511
+    },
+    {
+      "id": 55,
+      "label": "plant",
+      "confidence": 0.013839177787303925,
+      "bounding_box": {
+        "x_min": 810.9656372070312,
+        "y_min": 215.1104736328125,
+        "x_max": 844.013916015625,
+        "y_max": 246.79148864746094,
+        "width": 33.04827880859375,
+        "height": 31.681015014648438
+      },
+      "description": "Object 55 (plant) with 1.4% confidence",
+      "mask_area_pixels": 271,
+      "mask_area_ratio": 0.000294
+    },
+    {
+      "id": 56,
+      "label": "plant",
+      "confidence": 0.02128075435757637,
+      "bounding_box": {
+        "x_min": 28.149988174438477,
+        "y_min": 294.1080322265625,
+        "x_max": 93.61927032470703,
+        "y_max": 445.5113220214844,
+        "width": 65.46928405761719,
+        "height": 151.40328979492188
+      },
+      "description": "Object 56 (plant) with 2.1% confidence",
+      "mask_area_pixels": 2614,
+      "mask_area_ratio": 0.002836
+    },
+    {
+      "id": 57,
+      "label": "plant",
+      "confidence": 0.018331004306674004,
+      "bounding_box": {
+        "x_min": 742.325439453125,
+        "y_min": 256.1144714355469,
+        "x_max": 761.780517578125,
+        "y_max": 275.48974609375,
+        "width": 19.455078125,
+        "height": 19.375274658203125
+      },
+      "description": "Object 57 (plant) with 1.8% confidence",
+      "mask_area_pixels": 571,
+      "mask_area_ratio": 0.00062
+    },
+    {
+      "id": 58,
+      "label": "plant",
+      "confidence": 0.25449514389038086,
+      "bounding_box": {
+        "x_min": 864.7455444335938,
+        "y_min": 393.2080078125,
+        "x_max": 956.5927734375,
+        "y_max": 503.3705139160156,
+        "width": 91.84722900390625,
+        "height": 110.16250610351562
+      },
+      "description": "Object 58 (plant) with 25.4% confidence",
+      "mask_area_pixels": 8600,
+      "mask_area_ratio": 0.009332
+    },
+    {
+      "id": 59,
+      "label": "plant",
+      "confidence": 0.012996010482311249,
+      "bounding_box": {
+        "x_min": 822.4566040039062,
+        "y_min": 233.2610321044922,
+        "x_max": 859.4684448242188,
+        "y_max": 267.6619873046875,
+        "width": 37.0118408203125,
+        "height": 34.40095520019531
+      },
+      "description": "Object 59 (plant) with 1.3% confidence",
+      "mask_area_pixels": 461,
+      "mask_area_ratio": 0.0005
+    },
+    {
+      "id": 60,
+      "label": "plant",
+      "confidence": 0.03195073828101158,
+      "bounding_box": {
+        "x_min": 211.19070434570312,
+        "y_min": 35.86198043823242,
+        "x_max": 253.52395629882812,
+        "y_max": 97.17079162597656,
+        "width": 42.333251953125,
+        "height": 61.30881118774414
+      },
+      "description": "Object 60 (plant) with 3.2% confidence",
+      "mask_area_pixels": 2254,
+      "mask_area_ratio": 0.002446
+    },
+    {
+      "id": 61,
+      "label": "plant",
+      "confidence": 0.012828530743718147,
+      "bounding_box": {
+        "x_min": 735.54736328125,
+        "y_min": 323.299560546875,
+        "x_max": 760.6045532226562,
+        "y_max": 346.7795104980469,
+        "width": 25.05718994140625,
+        "height": 23.479949951171875
+      },
+      "description": "Object 61 (plant) with 1.3% confidence",
+      "mask_area_pixels": 1006,
+      "mask_area_ratio": 0.001092
+    },
+    {
+      "id": 62,
+      "label": "plant",
+      "confidence": 0.08371677249670029,
+      "bounding_box": {
+        "x_min": 736.8811645507812,
+        "y_min": 453.0438537597656,
+        "x_max": 785.7178344726562,
+        "y_max": 503.4625244140625,
+        "width": 48.836669921875,
+        "height": 50.418670654296875
+      },
+      "description": "Object 62 (plant) with 8.4% confidence",
+      "mask_area_pixels": 1778,
+      "mask_area_ratio": 0.001929
+    },
+    {
+      "id": 63,
+      "label": "plant",
+      "confidence": 0.08480579406023026,
+      "bounding_box": {
+        "x_min": 883.7191772460938,
+        "y_min": 234.6971893310547,
+        "x_max": 920.0238037109375,
+        "y_max": 253.36553955078125,
+        "width": 36.30462646484375,
+        "height": 18.668350219726562
+      },
+      "description": "Object 63 (plant) with 8.5% confidence",
+      "mask_area_pixels": 658,
+      "mask_area_ratio": 0.000714
+    },
+    {
+      "id": 64,
+      "label": "plant",
+      "confidence": 0.06613589078187943,
+      "bounding_box": {
+        "x_min": 888.8524169921875,
+        "y_min": 392.1778259277344,
+        "x_max": 956.6737060546875,
+        "y_max": 439.99444580078125,
+        "width": 67.8212890625,
+        "height": 47.816619873046875
+      },
+      "description": "Object 64 (plant) with 6.6% confidence",
+      "mask_area_pixels": 2540,
+      "mask_area_ratio": 0.002756
+    },
+    {
+      "id": 65,
+      "label": "plant",
+      "confidence": 0.022648539394140244,
+      "bounding_box": {
+        "x_min": 921.3509521484375,
+        "y_min": 268.1786804199219,
+        "x_max": 944.6845092773438,
+        "y_max": 282.1313171386719,
+        "width": 23.33355712890625,
+        "height": 13.95263671875
+      },
+      "description": "Object 65 (plant) with 2.3% confidence",
+      "mask_area_pixels": 428,
+      "mask_area_ratio": 0.000464
+    },
+    {
+      "id": 66,
+      "label": "plant",
+      "confidence": 0.08967597782611847,
+      "bounding_box": {
+        "x_min": 865.2936401367188,
+        "y_min": 296.97113037109375,
+        "x_max": 954.9088134765625,
+        "y_max": 349.7035827636719,
+        "width": 89.61517333984375,
+        "height": 52.732452392578125
+      },
+      "description": "Object 66 (plant) with 9.0% confidence",
+      "mask_area_pixels": 3826,
+      "mask_area_ratio": 0.004151
+    },
+    {
+      "id": 67,
+      "label": "plant",
+      "confidence": 0.2266533523797989,
+      "bounding_box": {
+        "x_min": 761.7092895507812,
+        "y_min": 381.09869384765625,
+        "x_max": 816.1334228515625,
+        "y_max": 443.75244140625,
+        "width": 54.42413330078125,
+        "height": 62.65374755859375
+      },
+      "description": "Object 67 (plant) with 22.7% confidence",
+      "mask_area_pixels": 2198,
+      "mask_area_ratio": 0.002385
+    },
+    {
+      "id": 68,
+      "label": "plant",
+      "confidence": 0.011862969025969505,
+      "bounding_box": {
+        "x_min": 934.61865234375,
+        "y_min": 207.6737060546875,
+        "x_max": 960.28125,
+        "y_max": 242.08480834960938,
+        "width": 25.66259765625,
+        "height": 34.411102294921875
+      },
+      "description": "Object 68 (plant) with 1.2% confidence",
+      "mask_area_pixels": 1051,
+      "mask_area_ratio": 0.00114
+    },
+    {
+      "id": 69,
+      "label": "plant",
+      "confidence": 0.01857764646410942,
+      "bounding_box": {
+        "x_min": 263.2102966308594,
+        "y_min": 104.70033264160156,
+        "x_max": 320.17706298828125,
+        "y_max": 140.9828338623047,
+        "width": 56.966766357421875,
+        "height": 36.282501220703125
+      },
+      "description": "Object 69 (plant) with 1.9% confidence",
+      "mask_area_pixels": 3485,
+      "mask_area_ratio": 0.003781
+    },
+    {
+      "id": 70,
+      "label": "plant",
+      "confidence": 0.05708721652626991,
+      "bounding_box": {
+        "x_min": 885.201416015625,
+        "y_min": 234.8013458251953,
+        "x_max": 911.78515625,
+        "y_max": 251.4297637939453,
+        "width": 26.583740234375,
+        "height": 16.62841796875
+      },
+      "description": "Object 70 (plant) with 5.7% confidence",
+      "mask_area_pixels": 530,
+      "mask_area_ratio": 0.000575
+    },
+    {
+      "id": 71,
+      "label": "plant",
+      "confidence": 0.020989684388041496,
+      "bounding_box": {
+        "x_min": 421.5698547363281,
+        "y_min": 194.89039611816406,
+        "x_max": 522.5731811523438,
+        "y_max": 275.93475341796875,
+        "width": 101.00332641601562,
+        "height": 81.04435729980469
+      },
+      "description": "Object 71 (plant) with 2.1% confidence",
+      "mask_area_pixels": 11803,
+      "mask_area_ratio": 0.012807
+    },
+    {
+      "id": 72,
+      "label": "plant",
+      "confidence": 0.01507057249546051,
+      "bounding_box": {
+        "x_min": 400.1193542480469,
+        "y_min": 196.3331756591797,
+        "x_max": 509.2443542480469,
+        "y_max": 249.9423828125,
+        "width": 109.125,
+        "height": 53.60920715332031
+      },
+      "description": "Object 72 (plant) with 1.5% confidence",
+      "mask_area_pixels": 6844,
+      "mask_area_ratio": 0.007426
+    },
+    {
+      "id": 73,
+      "label": "plant",
+      "confidence": 0.03750497102737427,
+      "bounding_box": {
+        "x_min": 784.083740234375,
+        "y_min": 480.8111267089844,
+        "x_max": 818.3517456054688,
+        "y_max": 507.95867919921875,
+        "width": 34.26800537109375,
+        "height": 27.147552490234375
+      },
+      "description": "Object 73 (plant) with 3.8% confidence",
+      "mask_area_pixels": 987,
+      "mask_area_ratio": 0.001071
+    },
+    {
+      "id": 74,
+      "label": "plant",
+      "confidence": 0.02556282840669155,
+      "bounding_box": {
+        "x_min": 1014.2833251953125,
+        "y_min": 408.06158447265625,
+        "x_max": 1283.909912109375,
+        "y_max": 726.1126708984375,
+        "width": 269.6265869140625,
+        "height": 318.05108642578125
+      },
+      "description": "Object 74 (plant) with 2.6% confidence",
+      "mask_area_pixels": 16673,
+      "mask_area_ratio": 0.018091
+    },
+    {
+      "id": 75,
+      "label": "plant",
+      "confidence": 0.08773231506347656,
+      "bounding_box": {
+        "x_min": 864.6734619140625,
+        "y_min": 407.1833190917969,
+        "x_max": 890.218994140625,
+        "y_max": 440.2613525390625,
+        "width": 25.5455322265625,
+        "height": 33.078033447265625
+      },
+      "description": "Object 75 (plant) with 8.8% confidence",
+      "mask_area_pixels": 507,
+      "mask_area_ratio": 0.00055
+    },
+    {
+      "id": 76,
+      "label": "plant",
+      "confidence": 0.03372493386268616,
+      "bounding_box": {
+        "x_min": -8.1939697265625,
+        "y_min": 13.053667068481445,
+        "x_max": 809.2593994140625,
+        "y_max": 640.4674682617188,
+        "width": 817.453369140625,
+        "height": 627.413818359375
+      },
+      "description": "Object 76 (plant) with 3.4% confidence",
+      "mask_area_pixels": 162947,
+      "mask_area_ratio": 0.176809
+    },
+    {
+      "id": 77,
+      "label": "plant",
+      "confidence": 0.05131618306040764,
+      "bounding_box": {
+        "x_min": 743.9667358398438,
+        "y_min": 256.7942810058594,
+        "x_max": 766.9217529296875,
+        "y_max": 282.54656982421875,
+        "width": 22.95501708984375,
+        "height": 25.752288818359375
+      },
+      "description": "Object 77 (plant) with 5.1% confidence",
+      "mask_area_pixels": 883,
+      "mask_area_ratio": 0.000958
+    },
+    {
+      "id": 78,
+      "label": "plant",
+      "confidence": 0.044638536870479584,
+      "bounding_box": {
+        "x_min": 38.38111877441406,
+        "y_min": 12.141458511352539,
+        "x_max": 995.5721435546875,
+        "y_max": 611.7770385742188,
+        "width": 957.1910400390625,
+        "height": 599.6355590820312
+      },
+      "description": "Object 78 (plant) with 4.5% confidence",
+      "mask_area_pixels": 49824,
+      "mask_area_ratio": 0.054062
+    },
+    {
+      "id": 79,
+      "label": "plant",
+      "confidence": 0.015580563805997372,
+      "bounding_box": {
+        "x_min": 284.50482177734375,
+        "y_min": 109.27315521240234,
+        "x_max": 367.0016784667969,
+        "y_max": 152.39215087890625,
+        "width": 82.49685668945312,
+        "height": 43.118995666503906
+      },
+      "description": "Object 79 (plant) with 1.6% confidence",
+      "mask_area_pixels": 5810,
+      "mask_area_ratio": 0.006304
+    },
+    {
+      "id": 80,
+      "label": "plant",
+      "confidence": 0.11622989922761917,
+      "bounding_box": {
+        "x_min": 744.46240234375,
+        "y_min": 253.471435546875,
+        "x_max": 767.4287109375,
+        "y_max": 274.3584289550781,
+        "width": 22.96630859375,
+        "height": 20.886993408203125
+      },
+      "description": "Object 80 (plant) with 11.6% confidence",
+      "mask_area_pixels": 402,
+      "mask_area_ratio": 0.000436
+    },
+    {
+      "id": 81,
+      "label": "plant",
+      "confidence": 0.02129332534968853,
+      "bounding_box": {
+        "x_min": 234.04129028320312,
+        "y_min": 380.4465026855469,
+        "x_max": 334.05853271484375,
+        "y_max": 484.4185485839844,
+        "width": 100.01724243164062,
+        "height": 103.9720458984375
+      },
+      "description": "Object 81 (plant) with 2.1% confidence",
+      "mask_area_pixels": 15563,
+      "mask_area_ratio": 0.016887
+    },
+    {
+      "id": 82,
+      "label": "plant",
+      "confidence": 0.06250213086605072,
+      "bounding_box": {
+        "x_min": 740.2625732421875,
+        "y_min": 255.0811309814453,
+        "x_max": 768.6552734375,
+        "y_max": 306.9181823730469,
+        "width": 28.3927001953125,
+        "height": 51.83705139160156
+      },
+      "description": "Object 82 (plant) with 6.3% confidence",
+      "mask_area_pixels": 1436,
+      "mask_area_ratio": 0.001558
+    },
+    {
+      "id": 83,
+      "label": "plant",
+      "confidence": 0.021447019651532173,
+      "bounding_box": {
+        "x_min": 184.52072143554688,
+        "y_min": 311.6222839355469,
+        "x_max": 280.4891357421875,
+        "y_max": 448.133056640625,
+        "width": 95.96841430664062,
+        "height": 136.51077270507812
+      },
+      "description": "Object 83 (plant) with 2.1% confidence",
+      "mask_area_pixels": 12359,
+      "mask_area_ratio": 0.01341
+    },
+    {
+      "id": 84,
+      "label": "plant",
+      "confidence": 0.04767260327935219,
+      "bounding_box": {
+        "x_min": 741.5194091796875,
+        "y_min": 263.5710144042969,
+        "x_max": 776.5045776367188,
+        "y_max": 338.4544372558594,
+        "width": 34.98516845703125,
+        "height": 74.8834228515625
+      },
+      "description": "Object 84 (plant) with 4.8% confidence",
+      "mask_area_pixels": 2127,
+      "mask_area_ratio": 0.002308
+    },
+    {
+      "id": 85,
+      "label": "plant",
+      "confidence": 0.19374291598796844,
+      "bounding_box": {
+        "x_min": 1.6474032402038574,
+        "y_min": 20.263442993164062,
+        "x_max": 81.3047866821289,
+        "y_max": 108.67486572265625,
+        "width": 79.65738677978516,
+        "height": 88.41142272949219
+      },
+      "description": "Object 85 (plant) with 19.4% confidence",
+      "mask_area_pixels": 3561,
+      "mask_area_ratio": 0.003864
+    },
+    {
+      "id": 86,
+      "label": "plant",
+      "confidence": 0.034278593957424164,
+      "bounding_box": {
+        "x_min": 930.28564453125,
+        "y_min": 316.53228759765625,
+        "x_max": 956.9064331054688,
+        "y_max": 348.5645751953125,
+        "width": 26.62078857421875,
+        "height": 32.03228759765625
+      },
+      "description": "Object 86 (plant) with 3.4% confidence",
+      "mask_area_pixels": 1098,
+      "mask_area_ratio": 0.001191
+    },
+    {
+      "id": 87,
+      "label": "plant",
+      "confidence": 0.02364494651556015,
+      "bounding_box": {
+        "x_min": 747.6093139648438,
+        "y_min": 383.9345397949219,
+        "x_max": 810.9197387695312,
+        "y_max": 457.1949768066406,
+        "width": 63.3104248046875,
+        "height": 73.26043701171875
+      },
+      "description": "Object 87 (plant) with 2.4% confidence",
+      "mask_area_pixels": 3410,
+      "mask_area_ratio": 0.0037
+    },
+    {
+      "id": 88,
+      "label": "plant",
+      "confidence": 0.035537268966436386,
+      "bounding_box": {
+        "x_min": 989.9434814453125,
+        "y_min": 119.38151550292969,
+        "x_max": 1022.6016845703125,
+        "y_max": 211.78321838378906,
+        "width": 32.658203125,
+        "height": 92.40170288085938
+      },
+      "description": "Object 88 (plant) with 3.6% confidence",
+      "mask_area_pixels": 2585,
+      "mask_area_ratio": 0.002805
+    },
+    {
+      "id": 89,
+      "label": "plant",
+      "confidence": 0.012536322697997093,
+      "bounding_box": {
+        "x_min": 1166.86865234375,
+        "y_min": 64.73119354248047,
+        "x_max": 1220.0703125,
+        "y_max": 135.4407196044922,
+        "width": 53.20166015625,
+        "height": 70.70952606201172
+      },
+      "description": "Object 89 (plant) with 1.3% confidence",
+      "mask_area_pixels": 6636,
+      "mask_area_ratio": 0.007201
+    },
+    {
+      "id": 90,
+      "label": "plant",
+      "confidence": 0.06427822262048721,
+      "bounding_box": {
+        "x_min": 780.1300048828125,
+        "y_min": 227.15872192382812,
+        "x_max": 822.733154296875,
+        "y_max": 266.2490234375,
+        "width": 42.6031494140625,
+        "height": 39.090301513671875
+      },
+      "description": "Object 90 (plant) with 6.4% confidence",
+      "mask_area_pixels": 1649,
+      "mask_area_ratio": 0.001789
+    },
+    {
+      "id": 91,
+      "label": "plant",
+      "confidence": 0.026113387197256088,
+      "bounding_box": {
+        "x_min": 89.69122314453125,
+        "y_min": 24.542362213134766,
+        "x_max": 420.1271057128906,
+        "y_max": 128.7043914794922,
+        "width": 330.4358825683594,
+        "height": 104.16203308105469
+      },
+      "description": "Object 91 (plant) with 2.6% confidence",
+      "mask_area_pixels": 14883,
+      "mask_area_ratio": 0.016149
+    },
+    {
+      "id": 92,
+      "label": "plant",
+      "confidence": 0.020505234599113464,
+      "bounding_box": {
+        "x_min": 212.63995361328125,
+        "y_min": 334.13226318359375,
+        "x_max": 360.7063293457031,
+        "y_max": 481.8680725097656,
+        "width": 148.06637573242188,
+        "height": 147.73580932617188
+      },
+      "description": "Object 92 (plant) with 2.1% confidence",
+      "mask_area_pixels": 19222,
+      "mask_area_ratio": 0.020857
+    },
+    {
+      "id": 93,
+      "label": "plant",
+      "confidence": 0.05898487567901611,
+      "bounding_box": {
+        "x_min": 868.6920166015625,
+        "y_min": 439.0203552246094,
+        "x_max": 948.6709594726562,
+        "y_max": 495.79583740234375,
+        "width": 79.97894287109375,
+        "height": 56.775482177734375
+      },
+      "description": "Object 93 (plant) with 5.9% confidence",
+      "mask_area_pixels": 3386,
+      "mask_area_ratio": 0.003674
+    },
+    {
+      "id": 94,
+      "label": "plant",
+      "confidence": 0.07385421544313431,
+      "bounding_box": {
+        "x_min": 731.23388671875,
+        "y_min": 481.9740905761719,
+        "x_max": 777.25732421875,
+        "y_max": 505.1875,
+        "width": 46.0234375,
+        "height": 23.213409423828125
+      },
+      "description": "Object 94 (plant) with 7.4% confidence",
+      "mask_area_pixels": 870,
+      "mask_area_ratio": 0.000944
+    },
+    {
+      "id": 95,
+      "label": "plant",
+      "confidence": 0.03664357215166092,
+      "bounding_box": {
+        "x_min": 869.1021118164062,
+        "y_min": 423.7843933105469,
+        "x_max": 900.7744750976562,
+        "y_max": 443.45977783203125,
+        "width": 31.67236328125,
+        "height": 19.675384521484375
+      },
+      "description": "Object 95 (plant) with 3.7% confidence",
+      "mask_area_pixels": 1313,
+      "mask_area_ratio": 0.001425
+    },
+    {
+      "id": 96,
+      "label": "plant",
+      "confidence": 0.063958540558815,
+      "bounding_box": {
+        "x_min": 741.0426025390625,
+        "y_min": 248.74273681640625,
+        "x_max": 784.907958984375,
+        "y_max": 331.01470947265625,
+        "width": 43.8653564453125,
+        "height": 82.27197265625
+      },
+      "description": "Object 96 (plant) with 6.4% confidence",
+      "mask_area_pixels": 2951,
+      "mask_area_ratio": 0.003202
+    },
+    {
+      "id": 97,
+      "label": "plant",
+      "confidence": 0.29234743118286133,
+      "bounding_box": {
+        "x_min": 866.6199951171875,
+        "y_min": 233.60025024414062,
+        "x_max": 954.444580078125,
+        "y_max": 348.1305236816406,
+        "width": 87.8245849609375,
+        "height": 114.5302734375
+      },
+      "description": "Object 97 (plant) with 29.2% confidence",
+      "mask_area_pixels": 8346,
+      "mask_area_ratio": 0.009056
+    },
+    {
+      "id": 98,
+      "label": "plant",
+      "confidence": 0.015209944918751717,
+      "bounding_box": {
+        "x_min": 927.5792236328125,
+        "y_min": 225.61476135253906,
+        "x_max": 953.8470458984375,
+        "y_max": 252.7931365966797,
+        "width": 26.267822265625,
+        "height": 27.178375244140625
+      },
+      "description": "Object 98 (plant) with 1.5% confidence",
+      "mask_area_pixels": 1107,
+      "mask_area_ratio": 0.001201
+    },
+    {
+      "id": 99,
+      "label": "plant",
+      "confidence": 0.01657921075820923,
+      "bounding_box": {
+        "x_min": 907.4169311523438,
+        "y_min": 234.06011962890625,
+        "x_max": 927.6279296875,
+        "y_max": 246.961669921875,
+        "width": 20.21099853515625,
+        "height": 12.90155029296875
+      },
+      "description": "Object 99 (plant) with 1.7% confidence",
+      "mask_area_pixels": 395,
+      "mask_area_ratio": 0.000429
+    },
+    {
+      "id": 100,
+      "label": "plant",
+      "confidence": 0.04500317573547363,
+      "bounding_box": {
+        "x_min": 69.25294494628906,
+        "y_min": 339.8257141113281,
+        "x_max": 83.41233825683594,
+        "y_max": 372.9278259277344,
+        "width": 14.159393310546875,
+        "height": 33.10211181640625
+      },
+      "description": "Object 100 (plant) with 4.5% confidence",
+      "mask_area_pixels": 431,
+      "mask_area_ratio": 0.000468
+    },
+    {
+      "id": 101,
+      "label": "plant",
+      "confidence": 0.05150759220123291,
+      "bounding_box": {
+        "x_min": 772.4163818359375,
+        "y_min": 244.6004180908203,
+        "x_max": 794.4410400390625,
+        "y_max": 268.2721862792969,
+        "width": 22.024658203125,
+        "height": 23.671768188476562
+      },
+      "description": "Object 101 (plant) with 5.2% confidence",
+      "mask_area_pixels": 872,
+      "mask_area_ratio": 0.000946
+    },
+    {
+      "id": 102,
+      "label": "plant",
+      "confidence": 0.022097032517194748,
+      "bounding_box": {
+        "x_min": 309.06488037109375,
+        "y_min": 267.0687255859375,
+        "x_max": 332.12139892578125,
+        "y_max": 283.1180725097656,
+        "width": 23.0565185546875,
+        "height": 16.049346923828125
+      },
+      "description": "Object 102 (plant) with 2.2% confidence",
+      "mask_area_pixels": 167,
+      "mask_area_ratio": 0.000181
+    },
+    {
+      "id": 103,
+      "label": "plant",
+      "confidence": 0.01854100078344345,
+      "bounding_box": {
+        "x_min": 556.7328491210938,
+        "y_min": 378.81268310546875,
+        "x_max": 623.3460693359375,
+        "y_max": 424.911376953125,
+        "width": 66.61322021484375,
+        "height": 46.09869384765625
+      },
+      "description": "Object 103 (plant) with 1.9% confidence",
+      "mask_area_pixels": 1075,
+      "mask_area_ratio": 0.001166
+    },
+    {
+      "id": 104,
+      "label": "plant",
+      "confidence": 0.03840579837560654,
+      "bounding_box": {
+        "x_min": 740.1474609375,
+        "y_min": 37.86403274536133,
+        "x_max": 788.0945434570312,
+        "y_max": 61.72352600097656,
+        "width": 47.94708251953125,
+        "height": 23.859493255615234
+      },
+      "description": "Object 104 (plant) with 3.8% confidence",
+      "mask_area_pixels": 2346,
+      "mask_area_ratio": 0.002546
+    },
+    {
+      "id": 105,
+      "label": "plant",
+      "confidence": 0.019731849431991577,
+      "bounding_box": {
+        "x_min": 868.4634399414062,
+        "y_min": 474.3521728515625,
+        "x_max": 898.4506225585938,
+        "y_max": 503.9109802246094,
+        "width": 29.9871826171875,
+        "height": 29.558807373046875
+      },
+      "description": "Object 105 (plant) with 2.0% confidence",
+      "mask_area_pixels": 1119,
+      "mask_area_ratio": 0.001214
+    },
+    {
+      "id": 106,
+      "label": "plant",
+      "confidence": 0.03658192232251167,
+      "bounding_box": {
+        "x_min": 872.7379150390625,
+        "y_min": 285.5942687988281,
+        "x_max": 941.1068725585938,
+        "y_max": 347.8379821777344,
+        "width": 68.36895751953125,
+        "height": 62.24371337890625
+      },
+      "description": "Object 106 (plant) with 3.7% confidence",
+      "mask_area_pixels": 2210,
+      "mask_area_ratio": 0.002398
+    },
+    {
+      "id": 107,
+      "label": "plant",
+      "confidence": 0.029641656205058098,
+      "bounding_box": {
+        "x_min": 741.843505859375,
+        "y_min": 257.6885070800781,
+        "x_max": 762.1002807617188,
+        "y_max": 281.70849609375,
+        "width": 20.25677490234375,
+        "height": 24.019989013671875
+      },
+      "description": "Object 107 (plant) with 3.0% confidence",
+      "mask_area_pixels": 832,
+      "mask_area_ratio": 0.000903
+    },
+    {
+      "id": 108,
+      "label": "plant",
+      "confidence": 0.0924038216471672,
+      "bounding_box": {
+        "x_min": 917.5869140625,
+        "y_min": 447.61932373046875,
+        "x_max": 946.9791259765625,
+        "y_max": 481.6650085449219,
+        "width": 29.3922119140625,
+        "height": 34.045684814453125
+      },
+      "description": "Object 108 (plant) with 9.2% confidence",
+      "mask_area_pixels": 1262,
+      "mask_area_ratio": 0.001369
+    },
+    {
+      "id": 109,
+      "label": "plant",
+      "confidence": 0.034599583595991135,
+      "bounding_box": {
+        "x_min": 49.282569885253906,
+        "y_min": 27.22489356994629,
+        "x_max": 973.948486328125,
+        "y_max": 529.489501953125,
+        "width": 924.6658935546875,
+        "height": 502.2646179199219
+      },
+      "description": "Object 109 (plant) with 3.5% confidence",
+      "mask_area_pixels": 1818,
+      "mask_area_ratio": 0.001973
+    },
+    {
+      "id": 110,
+      "label": "plant",
+      "confidence": 0.058081381022930145,
+      "bounding_box": {
+        "x_min": 206.54171752929688,
+        "y_min": 25.112337112426758,
+        "x_max": 397.4364013671875,
+        "y_max": 136.68377685546875,
+        "width": 190.89468383789062,
+        "height": 111.57144165039062
+      },
+      "description": "Object 110 (plant) with 5.8% confidence",
+      "mask_area_pixels": 17019,
+      "mask_area_ratio": 0.018467
+    },
+    {
+      "id": 111,
+      "label": "plant",
+      "confidence": 0.08656506985425949,
+      "bounding_box": {
+        "x_min": 752.04345703125,
+        "y_min": 434.64447021484375,
+        "x_max": 789.5714111328125,
+        "y_max": 466.3832702636719,
+        "width": 37.5279541015625,
+        "height": 31.738800048828125
+      },
+      "description": "Object 111 (plant) with 8.7% confidence",
+      "mask_area_pixels": 948,
+      "mask_area_ratio": 0.001029
+    },
+    {
+      "id": 112,
+      "label": "plant",
+      "confidence": 0.015261197462677956,
+      "bounding_box": {
+        "x_min": 738.9214477539062,
+        "y_min": 476.3677062988281,
+        "x_max": 798.3942260742188,
+        "y_max": 506.637939453125,
+        "width": 59.4727783203125,
+        "height": 30.270233154296875
+      },
+      "description": "Object 112 (plant) with 1.5% confidence",
+      "mask_area_pixels": 1801,
+      "mask_area_ratio": 0.001954
+    },
+    {
+      "id": 113,
+      "label": "plant",
+      "confidence": 0.029083188623189926,
+      "bounding_box": {
+        "x_min": 929.8729858398438,
+        "y_min": 314.7750549316406,
+        "x_max": 957.9985961914062,
+        "y_max": 351.94598388671875,
+        "width": 28.1256103515625,
+        "height": 37.170928955078125
+      },
+      "description": "Object 113 (plant) with 2.9% confidence",
+      "mask_area_pixels": 1255,
+      "mask_area_ratio": 0.001362
+    },
+    {
+      "id": 114,
+      "label": "plant",
+      "confidence": 0.042800381779670715,
+      "bounding_box": {
+        "x_min": 1.8325996398925781,
+        "y_min": 21.89667510986328,
+        "x_max": 89.81698608398438,
+        "y_max": 449.1126708984375,
+        "width": 87.98439025878906,
+        "height": 427.21600341796875
+      },
+      "description": "Object 114 (plant) with 4.3% confidence",
+      "mask_area_pixels": 10524,
+      "mask_area_ratio": 0.011419
+    },
+    {
+      "id": 115,
+      "label": "plant",
+      "confidence": 0.027647657319903374,
+      "bounding_box": {
+        "x_min": 8.310842514038086,
+        "y_min": 608.7991333007812,
+        "x_max": 120.91424560546875,
+        "y_max": 666.98193359375,
+        "width": 112.60340118408203,
+        "height": 58.18280029296875
+      },
+      "description": "Object 115 (plant) with 2.8% confidence",
+      "mask_area_pixels": 1386,
+      "mask_area_ratio": 0.001504
+    },
+    {
+      "id": 116,
+      "label": "plant",
+      "confidence": 0.012004571966826916,
+      "bounding_box": {
+        "x_min": 885.5430908203125,
+        "y_min": 237.8664093017578,
+        "x_max": 938.4075927734375,
+        "y_max": 295.5203857421875,
+        "width": 52.864501953125,
+        "height": 57.65397644042969
+      },
+      "description": "Object 116 (plant) with 1.2% confidence",
+      "mask_area_pixels": 2617,
+      "mask_area_ratio": 0.00284
+    },
+    {
+      "id": 117,
+      "label": "plant",
+      "confidence": 0.03555017709732056,
+      "bounding_box": {
+        "x_min": 0.322113037109375,
+        "y_min": 18.775232315063477,
+        "x_max": 79.40792083740234,
+        "y_max": 46.86836242675781,
+        "width": 79.08580780029297,
+        "height": 28.093130111694336
+      },
+      "description": "Object 117 (plant) with 3.6% confidence",
+      "mask_area_pixels": 2293,
+      "mask_area_ratio": 0.002488
+    },
+    {
+      "id": 118,
+      "label": "plant",
+      "confidence": 0.10334675759077072,
+      "bounding_box": {
+        "x_min": 1035.4129638671875,
+        "y_min": 197.0106201171875,
+        "x_max": 1103.022705078125,
+        "y_max": 254.123046875,
+        "width": 67.6097412109375,
+        "height": 57.1124267578125
+      },
+      "description": "Object 118 (plant) with 10.3% confidence",
+      "mask_area_pixels": 2572,
+      "mask_area_ratio": 0.002791
+    },
+    {
+      "id": 119,
+      "label": "plant",
+      "confidence": 0.02881843037903309,
+      "bounding_box": {
+        "x_min": 782.9619140625,
+        "y_min": 387.6855773925781,
+        "x_max": 815.68310546875,
+        "y_max": 426.7856750488281,
+        "width": 32.72119140625,
+        "height": 39.10009765625
+      },
+      "description": "Object 119 (plant) with 2.9% confidence",
+      "mask_area_pixels": 1626,
+      "mask_area_ratio": 0.001764
+    },
+    {
+      "id": 120,
+      "label": "plant",
+      "confidence": 0.033518243581056595,
+      "bounding_box": {
+        "x_min": 769.74365234375,
+        "y_min": 481.5635070800781,
+        "x_max": 794.84619140625,
+        "y_max": 504.60888671875,
+        "width": 25.1025390625,
+        "height": 23.045379638671875
+      },
+      "description": "Object 120 (plant) with 3.4% confidence",
+      "mask_area_pixels": 591,
+      "mask_area_ratio": 0.000641
+    },
+    {
+      "id": 121,
+      "label": "plant",
+      "confidence": 0.013525054790079594,
+      "bounding_box": {
+        "x_min": 923.0333862304688,
+        "y_min": 220.14573669433594,
+        "x_max": 949.6868286132812,
+        "y_max": 248.45252990722656,
+        "width": 26.6534423828125,
+        "height": 28.306793212890625
+      },
+      "description": "Object 121 (plant) with 1.4% confidence",
+      "mask_area_pixels": 982,
+      "mask_area_ratio": 0.001066
+    },
+    {
+      "id": 122,
+      "label": "plant",
+      "confidence": 0.03669543191790581,
+      "bounding_box": {
+        "x_min": 735.598388671875,
+        "y_min": 224.62037658691406,
+        "x_max": 920.9606323242188,
+        "y_max": 351.86883544921875,
+        "width": 185.36224365234375,
+        "height": 127.24845886230469
+      },
+      "description": "Object 122 (plant) with 3.7% confidence",
+      "mask_area_pixels": 13462,
+      "mask_area_ratio": 0.014607
+    },
+    {
+      "id": 123,
+      "label": "plant",
+      "confidence": 0.06338555365800858,
+      "bounding_box": {
+        "x_min": 877.3404541015625,
+        "y_min": 235.34408569335938,
+        "x_max": 947.719970703125,
+        "y_max": 315.1092834472656,
+        "width": 70.3795166015625,
+        "height": 79.76519775390625
+      },
+      "description": "Object 123 (plant) with 6.3% confidence",
+      "mask_area_pixels": 3763,
+      "mask_area_ratio": 0.004083
+    },
+    {
+      "id": 124,
+      "label": "plant",
+      "confidence": 0.03232978284358978,
+      "bounding_box": {
+        "x_min": 85.1779556274414,
+        "y_min": 610.7709350585938,
+        "x_max": 112.14501953125,
+        "y_max": 651.8074951171875,
+        "width": 26.967063903808594,
+        "height": 41.03656005859375
+      },
+      "description": "Object 124 (plant) with 3.2% confidence",
+      "mask_area_pixels": 874,
+      "mask_area_ratio": 0.000948
+    },
+    {
+      "id": 125,
+      "label": "plant",
+      "confidence": 0.014603043906390667,
+      "bounding_box": {
+        "x_min": 870.7518920898438,
+        "y_min": 313.23486328125,
+        "x_max": 899.987548828125,
+        "y_max": 333.0939025878906,
+        "width": 29.23565673828125,
+        "height": 19.859039306640625
+      },
+      "description": "Object 125 (plant) with 1.5% confidence",
+      "mask_area_pixels": 845,
+      "mask_area_ratio": 0.000917
+    },
+    {
+      "id": 126,
+      "label": "plant",
+      "confidence": 0.057150330394506454,
+      "bounding_box": {
+        "x_min": 782.4014282226562,
+        "y_min": 310.9087829589844,
+        "x_max": 810.1331787109375,
+        "y_max": 341.3100891113281,
+        "width": 27.73175048828125,
+        "height": 30.40130615234375
+      },
+      "description": "Object 126 (plant) with 5.7% confidence",
+      "mask_area_pixels": 942,
+      "mask_area_ratio": 0.001022
+    },
+    {
+      "id": 127,
+      "label": "plant",
+      "confidence": 0.038038868457078934,
+      "bounding_box": {
+        "x_min": 869.4747314453125,
+        "y_min": 456.87957763671875,
+        "x_max": 901.84423828125,
+        "y_max": 493.5755615234375,
+        "width": 32.3695068359375,
+        "height": 36.69598388671875
+      },
+      "description": "Object 127 (plant) with 3.8% confidence",
+      "mask_area_pixels": 1198,
+      "mask_area_ratio": 0.0013
+    },
+    {
+      "id": 128,
+      "label": "plant",
+      "confidence": 0.030978335067629814,
+      "bounding_box": {
+        "x_min": 734.6483154296875,
+        "y_min": 379.7654724121094,
+        "x_max": 765.970458984375,
+        "y_max": 409.09716796875,
+        "width": 31.3221435546875,
+        "height": 29.331695556640625
+      },
+      "description": "Object 128 (plant) with 3.1% confidence",
+      "mask_area_pixels": 1335,
+      "mask_area_ratio": 0.001449
+    },
+    {
+      "id": 129,
+      "label": "plant",
+      "confidence": 0.045184507966041565,
+      "bounding_box": {
+        "x_min": 742.9302978515625,
+        "y_min": 247.60752868652344,
+        "x_max": 767.4913330078125,
+        "y_max": 274.6546630859375,
+        "width": 24.56103515625,
+        "height": 27.047134399414062
+      },
+      "description": "Object 129 (plant) with 4.5% confidence",
+      "mask_area_pixels": 721,
+      "mask_area_ratio": 0.000782
+    },
+    {
+      "id": 130,
+      "label": "plant",
+      "confidence": 0.01617092825472355,
+      "bounding_box": {
+        "x_min": 1219.7340087890625,
+        "y_min": 44.78083419799805,
+        "x_max": 1269.7784423828125,
+        "y_max": 90.84797668457031,
+        "width": 50.04443359375,
+        "height": 46.067142486572266
+      },
+      "description": "Object 130 (plant) with 1.6% confidence",
+      "mask_area_pixels": 2489,
+      "mask_area_ratio": 0.002701
+    },
+    {
+      "id": 131,
+      "label": "plant",
+      "confidence": 0.022363323718309402,
+      "bounding_box": {
+        "x_min": 866.638916015625,
+        "y_min": 243.3983154296875,
+        "x_max": 954.7280883789062,
+        "y_max": 346.8520812988281,
+        "width": 88.08917236328125,
+        "height": 103.45376586914062
+      },
+      "description": "Object 131 (plant) with 2.2% confidence",
+      "mask_area_pixels": 9070,
+      "mask_area_ratio": 0.009842
+    },
+    {
+      "id": 132,
+      "label": "plant",
+      "confidence": 0.200158953666687,
+      "bounding_box": {
+        "x_min": 867.0302734375,
+        "y_min": 427.3094482421875,
+        "x_max": 946.7389526367188,
+        "y_max": 486.02349853515625,
+        "width": 79.70867919921875,
+        "height": 58.71405029296875
+      },
+      "description": "Object 132 (plant) with 20.0% confidence",
+      "mask_area_pixels": 3035,
+      "mask_area_ratio": 0.003293
+    },
+    {
+      "id": 133,
+      "label": "plant",
+      "confidence": 0.023210201412439346,
+      "bounding_box": {
+        "x_min": 792.6614990234375,
+        "y_min": 484.3557434082031,
+        "x_max": 822.1439208984375,
+        "y_max": 506.52325439453125,
+        "width": 29.482421875,
+        "height": 22.167510986328125
+      },
+      "description": "Object 133 (plant) with 2.3% confidence",
+      "mask_area_pixels": 1096,
+      "mask_area_ratio": 0.001189
+    },
+    {
+      "id": 134,
+      "label": "plant",
+      "confidence": 0.050017885863780975,
+      "bounding_box": {
+        "x_min": 1091.5433349609375,
+        "y_min": 650.3817138671875,
+        "x_max": 1232.7208251953125,
+        "y_max": 726.5814819335938,
+        "width": 141.177490234375,
+        "height": 76.19976806640625
+      },
+      "description": "Object 134 (plant) with 5.0% confidence",
+      "mask_area_pixels": 7519,
+      "mask_area_ratio": 0.008159
+    },
+    {
+      "id": 135,
+      "label": "plant",
+      "confidence": 0.07281605154275894,
+      "bounding_box": {
+        "x_min": 877.896728515625,
+        "y_min": 455.07537841796875,
+        "x_max": 938.101806640625,
+        "y_max": 486.8807067871094,
+        "width": 60.205078125,
+        "height": 31.805328369140625
+      },
+      "description": "Object 135 (plant) with 7.3% confidence",
+      "mask_area_pixels": 1699,
+      "mask_area_ratio": 0.001844
+    },
+    {
+      "id": 136,
+      "label": "plant",
+      "confidence": 0.027193406596779823,
+      "bounding_box": {
+        "x_min": 214.42970275878906,
+        "y_min": 352.8373718261719,
+        "x_max": 277.7845764160156,
+        "y_max": 454.3568420410156,
+        "width": 63.35487365722656,
+        "height": 101.51947021484375
+      },
+      "description": "Object 136 (plant) with 2.7% confidence",
+      "mask_area_pixels": 9761,
+      "mask_area_ratio": 0.010591
+    },
+    {
+      "id": 137,
+      "label": "plant",
+      "confidence": 0.01776447705924511,
+      "bounding_box": {
+        "x_min": 778.4439697265625,
+        "y_min": 256.82257080078125,
+        "x_max": 817.64306640625,
+        "y_max": 304.9222717285156,
+        "width": 39.1990966796875,
+        "height": 48.099700927734375
+      },
+      "description": "Object 137 (plant) with 1.8% confidence",
+      "mask_area_pixels": 1699,
+      "mask_area_ratio": 0.001844
+    },
+    {
+      "id": 138,
+      "label": "plant",
+      "confidence": 0.018854869529604912,
+      "bounding_box": {
+        "x_min": 928.292724609375,
+        "y_min": 235.6744384765625,
+        "x_max": 955.3782958984375,
+        "y_max": 266.16497802734375,
+        "width": 27.0855712890625,
+        "height": 30.49053955078125
+      },
+      "description": "Object 138 (plant) with 1.9% confidence",
+      "mask_area_pixels": 876,
+      "mask_area_ratio": 0.000951
+    },
+    {
+      "id": 139,
+      "label": "plant",
+      "confidence": 0.045409079641103745,
+      "bounding_box": {
+        "x_min": 867.0335693359375,
+        "y_min": 391.40948486328125,
+        "x_max": 948.0029296875,
+        "y_max": 421.32843017578125,
+        "width": 80.9693603515625,
+        "height": 29.9189453125
+      },
+      "description": "Object 139 (plant) with 4.5% confidence",
+      "mask_area_pixels": 3203,
+      "mask_area_ratio": 0.003475
+    },
+    {
+      "id": 140,
+      "label": "plant",
+      "confidence": 0.3046528100967407,
+      "bounding_box": {
+        "x_min": 738.4992065429688,
+        "y_min": 226.60447692871094,
+        "x_max": 824.4150390625,
+        "y_max": 348.70355224609375,
+        "width": 85.91583251953125,
+        "height": 122.09907531738281
+      },
+      "description": "Object 140 (plant) with 30.5% confidence",
+      "mask_area_pixels": 8852,
+      "mask_area_ratio": 0.009605
+    },
+    {
+      "id": 141,
+      "label": "plant",
+      "confidence": 0.03745953366160393,
+      "bounding_box": {
+        "x_min": 1164.2225341796875,
+        "y_min": 60.40031051635742,
+        "x_max": 1281.9630126953125,
+        "y_max": 119.8896255493164,
+        "width": 117.740478515625,
+        "height": 59.489315032958984
+      },
+      "description": "Object 141 (plant) with 3.7% confidence",
+      "mask_area_pixels": 4053,
+      "mask_area_ratio": 0.004398
+    },
+    {
+      "id": 142,
+      "label": "plant",
+      "confidence": 0.1750875562429428,
+      "bounding_box": {
+        "x_min": 749.3355712890625,
+        "y_min": 432.7574768066406,
+        "x_max": 819.4759521484375,
+        "y_max": 503.6062316894531,
+        "width": 70.140380859375,
+        "height": 70.8487548828125
+      },
+      "description": "Object 142 (plant) with 17.5% confidence",
+      "mask_area_pixels": 3380,
+      "mask_area_ratio": 0.003668
+    },
+    {
+      "id": 143,
+      "label": "plant",
+      "confidence": 0.019377170130610466,
+      "bounding_box": {
+        "x_min": 951.5360107421875,
+        "y_min": 185.6658935546875,
+        "x_max": 980.6586303710938,
+        "y_max": 228.88470458984375,
+        "width": 29.12261962890625,
+        "height": 43.21881103515625
+      },
+      "description": "Object 143 (plant) with 1.9% confidence",
+      "mask_area_pixels": 1963,
+      "mask_area_ratio": 0.00213
+    },
+    {
+      "id": 144,
+      "label": "plant",
+      "confidence": 0.27346885204315186,
+      "bounding_box": {
+        "x_min": 736.661865234375,
+        "y_min": 380.4486389160156,
+        "x_max": 820.8721923828125,
+        "y_max": 505.5286865234375,
+        "width": 84.2103271484375,
+        "height": 125.08004760742188
+      },
+      "description": "Object 144 (plant) with 27.3% confidence",
+      "mask_area_pixels": 8754,
+      "mask_area_ratio": 0.009499
+    },
+    {
+      "id": 145,
+      "label": "plant",
+      "confidence": 0.01763940416276455,
+      "bounding_box": {
+        "x_min": 2.9149651527404785,
+        "y_min": 21.964590072631836,
+        "x_max": 59.491416931152344,
+        "y_max": 59.22365188598633,
+        "width": 56.57645034790039,
+        "height": 37.259063720703125
+      },
+      "description": "Object 145 (plant) with 1.8% confidence",
+      "mask_area_pixels": 1638,
+      "mask_area_ratio": 0.001777
+    },
+    {
+      "id": 146,
+      "label": "plant",
+      "confidence": 0.04483216628432274,
+      "bounding_box": {
+        "x_min": 732.0313720703125,
+        "y_min": 227.33169555664062,
+        "x_max": 957.73876953125,
+        "y_max": 501.715576171875,
+        "width": 225.7073974609375,
+        "height": 274.3838806152344
+      },
+      "description": "Object 146 (plant) with 4.5% confidence",
+      "mask_area_pixels": 29096,
+      "mask_area_ratio": 0.031571
+    },
+    {
+      "id": 147,
+      "label": "plant",
+      "confidence": 0.030506858602166176,
+      "bounding_box": {
+        "x_min": 791.0639038085938,
+        "y_min": 319.4327392578125,
+        "x_max": 820.5679931640625,
+        "y_max": 348.0746765136719,
+        "width": 29.50408935546875,
+        "height": 28.641937255859375
+      },
+      "description": "Object 147 (plant) with 3.1% confidence",
+      "mask_area_pixels": 1232,
+      "mask_area_ratio": 0.001337
+    },
+    {
+      "id": 148,
+      "label": "plant",
+      "confidence": 0.017253519967198372,
+      "bounding_box": {
+        "x_min": 860.868408203125,
+        "y_min": 267.6093444824219,
+        "x_max": 892.11181640625,
+        "y_max": 300.62042236328125,
+        "width": 31.243408203125,
+        "height": 33.011077880859375
+      },
+      "description": "Object 148 (plant) with 1.7% confidence",
+      "mask_area_pixels": 607,
+      "mask_area_ratio": 0.000659
+    },
+    {
+      "id": 149,
+      "label": "plant",
+      "confidence": 0.05317307263612747,
+      "bounding_box": {
+        "x_min": 866.3052368164062,
+        "y_min": 404.15447998046875,
+        "x_max": 897.8289794921875,
+        "y_max": 430.3585205078125,
+        "width": 31.52374267578125,
+        "height": 26.20404052734375
+      },
+      "description": "Object 149 (plant) with 5.3% confidence",
+      "mask_area_pixels": 1197,
+      "mask_area_ratio": 0.001299
+    },
+    {
+      "id": 150,
+      "label": "plant",
+      "confidence": 0.060869209468364716,
+      "bounding_box": {
+        "x_min": 756.239990234375,
+        "y_min": 229.05215454101562,
+        "x_max": 820.5013427734375,
+        "y_max": 272.8778076171875,
+        "width": 64.2613525390625,
+        "height": 43.825653076171875
+      },
+      "description": "Object 150 (plant) with 6.1% confidence",
+      "mask_area_pixels": 2473,
+      "mask_area_ratio": 0.002683
+    },
+    {
+      "id": 151,
+      "label": "plant",
+      "confidence": 0.019487518817186356,
+      "bounding_box": {
+        "x_min": 866.893798828125,
+        "y_min": 328.9552001953125,
+        "x_max": 898.7982177734375,
+        "y_max": 353.6903381347656,
+        "width": 31.9044189453125,
+        "height": 24.735137939453125
+      },
+      "description": "Object 151 (plant) with 1.9% confidence",
+      "mask_area_pixels": 1142,
+      "mask_area_ratio": 0.001239
+    },
+    {
+      "id": 152,
+      "label": "plant",
+      "confidence": 0.06616169214248657,
+      "bounding_box": {
+        "x_min": 783.3505249023438,
+        "y_min": 245.193603515625,
+        "x_max": 821.9801025390625,
+        "y_max": 298.9161376953125,
+        "width": 38.62957763671875,
+        "height": 53.7225341796875
+      },
+      "description": "Object 152 (plant) with 6.6% confidence",
+      "mask_area_pixels": 1878,
+      "mask_area_ratio": 0.002038
+    },
+    {
+      "id": 153,
+      "label": "plant",
+      "confidence": 0.027433304116129875,
+      "bounding_box": {
+        "x_min": 749.90576171875,
+        "y_min": 228.79824829101562,
+        "x_max": 808.609375,
+        "y_max": 258.76361083984375,
+        "width": 58.70361328125,
+        "height": 29.965362548828125
+      },
+      "description": "Object 153 (plant) with 2.7% confidence",
+      "mask_area_pixels": 1941,
+      "mask_area_ratio": 0.002106
+    },
+    {
+      "id": 154,
+      "label": "plant",
+      "confidence": 0.10662692785263062,
+      "bounding_box": {
+        "x_min": 917.3316650390625,
+        "y_min": 255.50157165527344,
+        "x_max": 945.9051513671875,
+        "y_max": 278.78643798828125,
+        "width": 28.573486328125,
+        "height": 23.284866333007812
+      },
+      "description": "Object 154 (plant) with 10.7% confidence",
+      "mask_area_pixels": 478,
+      "mask_area_ratio": 0.000519
+    },
+    {
+      "id": 155,
+      "label": "plant",
+      "confidence": 0.0566742867231369,
+      "bounding_box": {
+        "x_min": 891.3240966796875,
+        "y_min": 284.8230895996094,
+        "x_max": 939.3341674804688,
+        "y_max": 313.4972839355469,
+        "width": 48.01007080078125,
+        "height": 28.6741943359375
+      },
+      "description": "Object 155 (plant) with 5.7% confidence",
+      "mask_area_pixels": 1021,
+      "mask_area_ratio": 0.001108
+    },
+    {
+      "id": 156,
+      "label": "plant",
+      "confidence": 0.039870403707027435,
+      "bounding_box": {
+        "x_min": 788.1356811523438,
+        "y_min": 466.5823669433594,
+        "x_max": 819.0194702148438,
+        "y_max": 503.1375732421875,
+        "width": 30.8837890625,
+        "height": 36.555206298828125
+      },
+      "description": "Object 156 (plant) with 4.0% confidence",
+      "mask_area_pixels": 1077,
+      "mask_area_ratio": 0.001169
+    },
+    {
+      "id": 157,
+      "label": "plant",
+      "confidence": 0.024207286536693573,
+      "bounding_box": {
+        "x_min": 863.066162109375,
+        "y_min": 324.12890625,
+        "x_max": 887.2518310546875,
+        "y_max": 347.81396484375,
+        "width": 24.1856689453125,
+        "height": 23.68505859375
+      },
+      "description": "Object 157 (plant) with 2.4% confidence",
+      "mask_area_pixels": 1091,
+      "mask_area_ratio": 0.001184
+    },
+    {
+      "id": 158,
+      "label": "plant",
+      "confidence": 0.04844856262207031,
+      "bounding_box": {
+        "x_min": 881.28076171875,
+        "y_min": 235.3875274658203,
+        "x_max": 904.4585571289062,
+        "y_max": 268.5258483886719,
+        "width": 23.17779541015625,
+        "height": 33.13832092285156
+      },
+      "description": "Object 158 (plant) with 4.8% confidence",
+      "mask_area_pixels": 586,
+      "mask_area_ratio": 0.000636
+    },
+    {
+      "id": 159,
+      "label": "plant",
+      "confidence": 0.05547834932804108,
+      "bounding_box": {
+        "x_min": 910.1661376953125,
+        "y_min": 234.90618896484375,
+        "x_max": 931.560791015625,
+        "y_max": 250.5730438232422,
+        "width": 21.3946533203125,
+        "height": 15.666854858398438
+      },
+      "description": "Object 159 (plant) with 5.5% confidence",
+      "mask_area_pixels": 362,
+      "mask_area_ratio": 0.000393
+    },
+    {
+      "id": 160,
+      "label": "plant",
+      "confidence": 0.01529306173324585,
+      "bounding_box": {
+        "x_min": 241.95889282226562,
+        "y_min": 408.0227355957031,
+        "x_max": 290.1568298339844,
+        "y_max": 463.5760498046875,
+        "width": 48.19793701171875,
+        "height": 55.553314208984375
+      },
+      "description": "Object 160 (plant) with 1.5% confidence",
+      "mask_area_pixels": 8422,
+      "mask_area_ratio": 0.009138
+    },
+    {
+      "id": 161,
+      "label": "plant",
+      "confidence": 0.04075104743242264,
+      "bounding_box": {
+        "x_min": 741.9954833984375,
+        "y_min": 287.87628173828125,
+        "x_max": 764.0006103515625,
+        "y_max": 333.9601135253906,
+        "width": 22.005126953125,
+        "height": 46.083831787109375
+      },
+      "description": "Object 161 (plant) with 4.1% confidence",
+      "mask_area_pixels": 1139,
+      "mask_area_ratio": 0.001236
+    },
+    {
+      "id": 162,
+      "label": "plant",
+      "confidence": 0.09688939899206161,
+      "bounding_box": {
+        "x_min": 653.771240234375,
+        "y_min": -0.8744081854820251,
+        "x_max": 740.8509521484375,
+        "y_max": 8.714760780334473,
+        "width": 87.0797119140625,
+        "height": 9.589168548583984
+      },
+      "description": "Object 162 (plant) with 9.7% confidence",
+      "mask_area_pixels": 914,
+      "mask_area_ratio": 0.000992
+    },
+    {
+      "id": 163,
+      "label": "plant",
+      "confidence": 0.028416631743311882,
+      "bounding_box": {
+        "x_min": 207.12356567382812,
+        "y_min": 330.2021484375,
+        "x_max": 432.1667175292969,
+        "y_max": 606.8179931640625,
+        "width": 225.04315185546875,
+        "height": 276.6158447265625
+      },
+      "description": "Object 163 (plant) with 2.8% confidence",
+      "mask_area_pixels": 32815,
+      "mask_area_ratio": 0.035607
+    },
+    {
+      "id": 164,
+      "label": "plant",
+      "confidence": 0.017873259261250496,
+      "bounding_box": {
+        "x_min": 923.2994995117188,
+        "y_min": 302.6792297363281,
+        "x_max": 950.0986328125,
+        "y_max": 325.3380126953125,
+        "width": 26.79913330078125,
+        "height": 22.658782958984375
+      },
+      "description": "Object 164 (plant) with 1.8% confidence",
+      "mask_area_pixels": 447,
+      "mask_area_ratio": 0.000485
+    },
+    {
+      "id": 165,
+      "label": "plant",
+      "confidence": 0.3144153952598572,
+      "bounding_box": {
+        "x_min": 884.1586303710938,
+        "y_min": 285.0862121582031,
+        "x_max": 940.6536865234375,
+        "y_max": 327.2306213378906,
+        "width": 56.49505615234375,
+        "height": 42.1444091796875
+      },
+      "description": "Object 165 (plant) with 31.4% confidence",
+      "mask_area_pixels": 1411,
+      "mask_area_ratio": 0.001531
+    },
+    {
+      "id": 166,
+      "label": "plant",
+      "confidence": 0.09106253832578659,
+      "bounding_box": {
+        "x_min": 865.0556030273438,
+        "y_min": 414.8883361816406,
+        "x_max": 887.1471557617188,
+        "y_max": 435.96148681640625,
+        "width": 22.091552734375,
+        "height": 21.073150634765625
+      },
+      "description": "Object 166 (plant) with 9.1% confidence",
+      "mask_area_pixels": 373,
+      "mask_area_ratio": 0.000405
+    },
+    {
+      "id": 167,
+      "label": "plant",
+      "confidence": 0.034588951617479324,
+      "bounding_box": {
+        "x_min": 729.3746948242188,
+        "y_min": 386.1144714355469,
+        "x_max": 757.7501220703125,
+        "y_max": 505.232421875,
+        "width": 28.37542724609375,
+        "height": 119.11795043945312
+      },
+      "description": "Object 167 (plant) with 3.5% confidence",
+      "mask_area_pixels": 2994,
+      "mask_area_ratio": 0.003249
+    },
+    {
+      "id": 168,
+      "label": "plant",
+      "confidence": 0.054289158433675766,
+      "bounding_box": {
+        "x_min": 569.4393920898438,
+        "y_min": 10.593926429748535,
+        "x_max": 728.1216430664062,
+        "y_max": 154.95559692382812,
+        "width": 158.6822509765625,
+        "height": 144.36166381835938
+      },
+      "description": "Object 168 (plant) with 5.4% confidence",
+      "mask_area_pixels": 15353,
+      "mask_area_ratio": 0.016659
+    }
+  ],
+  "image_info": {
+    "width": 1280,
+    "height": 720,
+    "area_pixels": 921600,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.01,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 1.856,
+    "num_detections": 168
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1782353996.png",
+    "masked_segments": []
+  }
+}

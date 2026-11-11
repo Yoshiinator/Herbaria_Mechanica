@@ -1,0 +1,74 @@
+{
+  "summary": "Found 3 object(s) matching 'plant' in the image.",
+  "query": "plant",
+  "detections": [
+    {
+      "id": 1,
+      "label": "plant",
+      "confidence": 0.020745204761624336,
+      "bounding_box": {
+        "x_min": 691.513427734375,
+        "y_min": 405.6944274902344,
+        "x_max": 802.2948608398438,
+        "y_max": 439.19549560546875,
+        "width": 110.78143310546875,
+        "height": 33.501068115234375
+      },
+      "description": "Object 1 (plant) with 2.1% confidence",
+      "mask_area_pixels": 2760,
+      "mask_area_ratio": 0.002995
+    },
+    {
+      "id": 2,
+      "label": "plant",
+      "confidence": 0.05775797367095947,
+      "bounding_box": {
+        "x_min": 1.9349050521850586,
+        "y_min": 14.572297096252441,
+        "x_max": 86.12728118896484,
+        "y_max": 103.935302734375,
+        "width": 84.19237518310547,
+        "height": 89.36300659179688
+      },
+      "description": "Object 2 (plant) with 5.8% confidence",
+      "mask_area_pixels": 3473,
+      "mask_area_ratio": 0.003768
+    },
+    {
+      "id": 3,
+      "label": "plant",
+      "confidence": 0.04692106321454048,
+      "bounding_box": {
+        "x_min": 689.69921875,
+        "y_min": 406.1514587402344,
+        "x_max": 806.2652587890625,
+        "y_max": 494.2568359375,
+        "width": 116.5660400390625,
+        "height": 88.10537719726562
+      },
+      "description": "Object 3 (plant) with 4.7% confidence",
+      "mask_area_pixels": 9225,
+      "mask_area_ratio": 0.01001
+    }
+  ],
+  "image_info": {
+    "width": 1280,
+    "height": 720,
+    "area_pixels": 921600,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.02,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 1.059,
+    "num_detections": 3
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1781911277.png",
+    "masked_segments": []
+  }
+}

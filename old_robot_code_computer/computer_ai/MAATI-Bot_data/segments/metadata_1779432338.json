@@ -1,0 +1,26 @@
+{
+  "summary": "Found 0 object(s) matching 'green' in the image.",
+  "query": "green",
+  "detections": [],
+  "image_info": {
+    "width": 800,
+    "height": 600,
+    "area_pixels": 480000,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.2,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 0.82,
+    "num_detections": 0
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1779432338.png",
+    "masked_segments": []
+  },
+  "message": "No objects matching 'green' were found above the confidence threshold (0.2)."
+}

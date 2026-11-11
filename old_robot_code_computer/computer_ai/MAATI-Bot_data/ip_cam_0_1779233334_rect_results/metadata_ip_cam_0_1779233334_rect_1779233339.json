@@ -1,0 +1,28 @@
+{
+  "summary": "Found 0 object(s) matching 'leaf' in the image.",
+  "query": "leaf",
+  "detections": [],
+  "image_info": {
+    "width": 4000,
+    "height": 2000,
+    "area_pixels": 8000000,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.075,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 0.963,
+    "num_detections": 0
+  },
+  "file_paths": {
+    "input_image": "/mnt/MAATI-Bot_data/raw_capture/ip_cam_0_1779233334_rect.jpg",
+    "overlay_image": "/mnt/MAATI-Bot_data/ip_cam_0_1779233334_rect_results/result_1779233339.png",
+    "masked_segments": [],
+    "combined_masks_per_label": {},
+    "all_combined_mask": null
+  },
+  "message": "No objects matching 'leaf' were found above the confidence threshold (0.075)."
+}

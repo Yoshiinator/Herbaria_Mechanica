@@ -1,0 +1,66 @@
+{
+  "image": "img_2071869f9dab.jpg",
+  "plants_detected": 5,
+  "results": {
+    "plant_1": {
+      "bbox": [
+        45,
+        487,
+        412,
+        806
+      ],
+      "treatment": [
+        "none"
+      ],
+      "reason": "no json found"
+    },
+    "plant_2": {
+      "bbox": [
+        762,
+        518,
+        1064,
+        810
+      ],
+      "treatment": [
+        "pesticide"
+      ],
+      "reason": "chewed holes, shot-hole, flea beetles"
+    },
+    "plant_3": {
+      "bbox": [
+        80,
+        37,
+        346,
+        319
+      ],
+      "treatment": [
+        "none"
+      ],
+      "reason": "healthy vibrant green"
+    },
+    "plant_4": {
+      "bbox": [
+        802,
+        42,
+        1056,
+        312
+      ],
+      "treatment": [
+        "pesticide"
+      ],
+      "reason": "chewed holes, scalloped damage"
+    },
+    "plant_5": {
+      "bbox": [
+        464,
+        298,
+        707,
+        532
+      ],
+      "treatment": [
+        "fertilizer"
+      ],
+      "reason": "chlorosis, yellowing, nutrient deficiency"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "summary": "Found 2 object(s) matching 'thing' in the image.",
+  "query": "thing",
+  "detections": [
+    {
+      "id": 1,
+      "label": "thing",
+      "confidence": 0.012491986155509949,
+      "bounding_box": {
+        "x_min": 45.69694519042969,
+        "y_min": 606.0264892578125,
+        "x_max": 778.9689331054688,
+        "y_max": 1279.7119140625,
+        "width": 733.27197265625,
+        "height": 673.6854248046875
+      },
+      "description": "Object 1 (thing) with 1.2% confidence",
+      "mask_area_pixels": 132261,
+      "mask_area_ratio": 0.107634
+    },
+    {
+      "id": 2,
+      "label": "thing",
+      "confidence": 0.01143466867506504,
+      "bounding_box": {
+        "x_min": -1.2817668914794922,
+        "y_min": 14.631710052490234,
+        "x_max": 759.9402465820312,
+        "y_max": 585.2559814453125,
+        "width": 761.2219848632812,
+        "height": 570.624267578125
+      },
+      "description": "Object 2 (thing) with 1.1% confidence",
+      "mask_area_pixels": 195664,
+      "mask_area_ratio": 0.159232
+    }
+  ],
+  "image_info": {
+    "width": 960,
+    "height": 1280,
+    "area_pixels": 1228800,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.01,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 1.082,
+    "num_detections": 2
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1782348131.png",
+    "masked_segments": []
+  }
+}

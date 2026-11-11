@@ -1,0 +1,26 @@
+{
+  "summary": "Found 0 object(s) matching 'plant leaf crop' in the image.",
+  "query": "plant leaf crop",
+  "detections": [],
+  "image_info": {
+    "width": 640,
+    "height": 480,
+    "area_pixels": 307200,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.03,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 0.842,
+    "num_detections": 0
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1782353761.png",
+    "masked_segments": []
+  },
+  "message": "No objects matching 'plant leaf crop' were found above the confidence threshold (0.03)."
+}

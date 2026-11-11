@@ -1,0 +1,42 @@
+{
+  "summary": "Found 1 object(s) matching 'board' in the image.",
+  "query": "board",
+  "detections": [
+    {
+      "id": 1,
+      "label": "board",
+      "confidence": 0.44438299536705017,
+      "bounding_box": {
+        "x_min": 78.98127746582031,
+        "y_min": 54.503204345703125,
+        "x_max": 635.788330078125,
+        "y_max": 509.6524963378906,
+        "width": 556.8070678710938,
+        "height": 455.1492919921875
+      },
+      "description": "Object 1 (board) with 44.4% confidence",
+      "mask_area_pixels": 229575,
+      "mask_area_ratio": 0.478281
+    }
+  ],
+  "image_info": {
+    "width": 800,
+    "height": 600,
+    "area_pixels": 480000,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.15,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 0.893,
+    "num_detections": 1
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1779431515.png",
+    "masked_segments": []
+  }
+}

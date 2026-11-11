@@ -1,0 +1,26 @@
+{
+  "summary": "Found 0 object(s) matching 'plant' in the image.",
+  "query": "plant",
+  "detections": [],
+  "image_info": {
+    "width": 1280,
+    "height": 720,
+    "area_pixels": 921600,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.3,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 0.835,
+    "num_detections": 0
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1782351813.png",
+    "masked_segments": []
+  },
+  "message": "No objects matching 'plant' were found above the confidence threshold (0.3)."
+}

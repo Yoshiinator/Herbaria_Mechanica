@@ -1,0 +1,74 @@
+{
+  "summary": "Found 3 object(s) matching 'plant' in the image.",
+  "query": "plant",
+  "detections": [
+    {
+      "id": 1,
+      "label": "plant",
+      "confidence": 0.7591702938079834,
+      "bounding_box": {
+        "x_min": 493.56744384765625,
+        "y_min": 4.545130729675293,
+        "x_max": 621.8278198242188,
+        "y_max": 260.6715393066406,
+        "width": 128.2603759765625,
+        "height": 256.12640380859375
+      },
+      "description": "Object 1 (plant) with 75.9% confidence",
+      "mask_area_pixels": 15229,
+      "mask_area_ratio": 0.038738
+    },
+    {
+      "id": 2,
+      "label": "plant",
+      "confidence": 0.8492573499679565,
+      "bounding_box": {
+        "x_min": 3.8447961807250977,
+        "y_min": 4.427689075469971,
+        "x_max": 152.76768493652344,
+        "y_max": 235.09510803222656,
+        "width": 148.92288208007812,
+        "height": 230.66741943359375
+      },
+      "description": "Object 2 (plant) with 84.9% confidence",
+      "mask_area_pixels": 17398,
+      "mask_area_ratio": 0.044255
+    },
+    {
+      "id": 3,
+      "label": "plant",
+      "confidence": 0.9462382793426514,
+      "bounding_box": {
+        "x_min": 136.22267150878906,
+        "y_min": 32.757179260253906,
+        "x_max": 534.8937377929688,
+        "y_max": 500.52276611328125,
+        "width": 398.67108154296875,
+        "height": 467.7655944824219
+      },
+      "description": "Object 3 (plant) with 94.6% confidence",
+      "mask_area_pixels": 80515,
+      "mask_area_ratio": 0.204806
+    }
+  ],
+  "image_info": {
+    "width": 627,
+    "height": 627,
+    "area_pixels": 393129,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.6,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 0.918,
+    "num_detections": 3
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1783866077.png",
+    "masked_segments": []
+  }
+}

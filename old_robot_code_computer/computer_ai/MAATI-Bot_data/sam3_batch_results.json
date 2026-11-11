@@ -1,0 +1,815 @@
+{
+  "img_a9d4d4f4a70b.jpg": [
+    {
+      "plant": 1,
+      "treatment": [
+        "herbicide"
+      ],
+      "bbox": [
+        133,
+        647,
+        418,
+        937
+      ],
+      "main": "herbicide"
+    },
+    {
+      "plant": 2,
+      "treatment": [
+        "none"
+      ],
+      "bbox": [
+        708,
+        659,
+        938,
+        938
+      ],
+      "main": "none"
+    },
+    {
+      "plant": 3,
+      "treatment": "none",
+      "bbox": [
+        175,
+        317,
+        418,
+        553
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 4,
+      "treatment": [
+        "pesticide"
+      ],
+      "bbox": [
+        439,
+        685,
+        669,
+        910
+      ],
+      "main": "pesticide"
+    },
+    {
+      "plant": 5,
+      "treatment": [
+        "water",
+        "fertilizer"
+      ],
+      "bbox": [
+        725,
+        309,
+        938,
+        547
+      ],
+      "main": "water"
+    },
+    {
+      "plant": 6,
+      "treatment": [
+        "water"
+      ],
+      "bbox": [
+        466,
+        322,
+        652,
+        548
+      ],
+      "main": "water"
+    }
+  ],
+  "img_13316875b3db.jpg": [
+    {
+      "plant": 1,
+      "treatment": [
+        "herbicide"
+      ],
+      "bbox": [
+        140,
+        583,
+        405,
+        908
+      ],
+      "main": "herbicide"
+    },
+    {
+      "plant": 2,
+      "treatment": [
+        "none"
+      ],
+      "bbox": [
+        146,
+        218,
+        351,
+        442
+      ],
+      "main": "none"
+    },
+    {
+      "plant": 3,
+      "treatment": [
+        "water",
+        "fertilizer"
+      ],
+      "bbox": [
+        641,
+        215,
+        837,
+        436
+      ],
+      "main": "water"
+    },
+    {
+      "plant": 4,
+      "treatment": [
+        "water",
+        "fertilizer"
+      ],
+      "bbox": [
+        724,
+        522,
+        930,
+        722
+      ],
+      "main": "water"
+    },
+    {
+      "plant": 5,
+      "treatment": [],
+      "bbox": [
+        385,
+        414,
+        557,
+        609
+      ],
+      "main": "none"
+    },
+    {
+      "plant": 6,
+      "treatment": [
+        "pesticide"
+      ],
+      "bbox": [
+        433,
+        719,
+        601,
+        901
+      ],
+      "main": "pesticide"
+    }
+  ],
+  "img_1b1fe3fd7bb8.jpg": [
+    {
+      "plant": 1,
+      "treatment": "none",
+      "bbox": [
+        678,
+        462,
+        1091,
+        800
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 2,
+      "treatment": [
+        "pesticide"
+      ],
+      "bbox": [
+        228,
+        873,
+        509,
+        1187
+      ],
+      "main": "pesticide"
+    },
+    {
+      "plant": 3,
+      "treatment": [
+        "water"
+      ],
+      "bbox": [
+        235,
+        106,
+        515,
+        400
+      ],
+      "main": "water"
+    },
+    {
+      "plant": 4,
+      "treatment": [
+        "water",
+        "fertilizer"
+      ],
+      "bbox": [
+        227,
+        475,
+        496,
+        754
+      ],
+      "main": "water"
+    },
+    {
+      "plant": 5,
+      "treatment": [
+        "none"
+      ],
+      "bbox": [
+        757,
+        891,
+        1027,
+        1168
+      ],
+      "main": "none"
+    },
+    {
+      "plant": 6,
+      "treatment": [
+        "water"
+      ],
+      "bbox": [
+        787,
+        130,
+        1015,
+        378
+      ],
+      "main": "water"
+    }
+  ],
+  "img_b18304f8190f.jpg": [
+    {
+      "plant": 1,
+      "treatment": [
+        "herbicide"
+      ],
+      "bbox": [
+        32,
+        694,
+        405,
+        1122
+      ],
+      "main": "herbicide"
+    },
+    {
+      "plant": 2,
+      "treatment": [
+        "none"
+      ],
+      "bbox": [
+        81,
+        186,
+        388,
+        526
+      ],
+      "main": "none"
+    },
+    {
+      "plant": 3,
+      "treatment": "none",
+      "bbox": [
+        517,
+        762,
+        792,
+        1040
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 4,
+      "treatment": [
+        "water",
+        "fertilizer"
+      ],
+      "bbox": [
+        512,
+        204,
+        768,
+        482
+      ],
+      "main": "water"
+    },
+    {
+      "plant": 5,
+      "treatment": [
+        "pesticide"
+      ],
+      "bbox": [
+        916,
+        210,
+        1184,
+        455
+      ],
+      "main": "pesticide"
+    },
+    {
+      "plant": 6,
+      "treatment": [
+        "pesticide"
+      ],
+      "bbox": [
+        954,
+        774,
+        1150,
+        1020
+      ],
+      "main": "pesticide"
+    }
+  ],
+  "img_b8913c8a904b.jpg": [
+    {
+      "plant": 1,
+      "treatment": [
+        "water"
+      ],
+      "bbox": [
+        61,
+        355,
+        381,
+        673
+      ],
+      "main": "water"
+    },
+    {
+      "plant": 2,
+      "treatment": [
+        "none"
+      ],
+      "bbox": [
+        73,
+        33,
+        337,
+        317
+      ],
+      "main": "none"
+    },
+    {
+      "plant": 3,
+      "treatment": "none",
+      "bbox": [
+        962,
+        395,
+        1201,
+        640
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 4,
+      "treatment": "none",
+      "bbox": [
+        518,
+        93,
+        745,
+        311
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 5,
+      "treatment": [
+        "pesticide"
+      ],
+      "bbox": [
+        530,
+        405,
+        753,
+        615
+      ],
+      "main": "pesticide"
+    },
+    {
+      "plant": 6,
+      "treatment": [
+        "none"
+      ],
+      "bbox": [
+        979,
+        79,
+        1173,
+        271
+      ],
+      "main": "none"
+    }
+  ],
+  "img_f39776e2274c.jpg": [
+    {
+      "plant": 1,
+      "treatment": [
+        "herbicide"
+      ],
+      "bbox": [
+        798,
+        368,
+        1241,
+        684
+      ],
+      "main": "herbicide"
+    },
+    {
+      "plant": 2,
+      "treatment": [
+        "none"
+      ],
+      "bbox": [
+        33,
+        346,
+        426,
+        697
+      ],
+      "main": "none"
+    },
+    {
+      "plant": 3,
+      "treatment": [
+        "pesticide"
+      ],
+      "bbox": [
+        370,
+        136,
+        768,
+        459
+      ],
+      "main": "pesticide"
+    },
+    {
+      "plant": 4,
+      "treatment": [
+        "none"
+      ],
+      "bbox": [
+        65,
+        0,
+        428,
+        296
+      ],
+      "main": "none"
+    },
+    {
+      "plant": 5,
+      "treatment": [
+        "water"
+      ],
+      "bbox": [
+        880,
+        43,
+        1117,
+        291
+      ],
+      "main": "water"
+    }
+  ],
+  "img_ccf19fed1ea6.jpg": [
+    {
+      "plant": 1,
+      "treatment": "none",
+      "bbox": [
+        846,
+        331,
+        1214,
+        686
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 2,
+      "treatment": "none",
+      "bbox": [
+        52,
+        39,
+        385,
+        341
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 3,
+      "treatment": "none",
+      "bbox": [
+        78,
+        359,
+        359,
+        680
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 4,
+      "treatment": "none",
+      "bbox": [
+        902,
+        25,
+        1185,
+        321
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 5,
+      "treatment": "none",
+      "bbox": [
+        518,
+        392,
+        742,
+        621
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 6,
+      "treatment": "none",
+      "bbox": [
+        533,
+        98,
+        747,
+        300
+      ],
+      "main": "n"
+    }
+  ],
+  "img_bafa40f29772.jpg": [
+    {
+      "plant": 1,
+      "treatment": "none",
+      "bbox": [
+        663,
+        470,
+        1094,
+        836
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 2,
+      "treatment": "none",
+      "bbox": [
+        81,
+        38,
+        432,
+        359
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 3,
+      "treatment": "none",
+      "bbox": [
+        81,
+        517,
+        356,
+        750
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 4,
+      "treatment": "none",
+      "bbox": [
+        467,
+        292,
+        687,
+        555
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 5,
+      "treatment": "none",
+      "bbox": [
+        734,
+        55,
+        967,
+        265
+      ],
+      "main": "n"
+    }
+  ],
+  "img_bfff76a1455c.jpg": [
+    {
+      "plant": 1,
+      "treatment": "none",
+      "bbox": [
+        710,
+        495,
+        1077,
+        822
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 2,
+      "treatment": "none",
+      "bbox": [
+        413,
+        280,
+        752,
+        574
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 3,
+      "treatment": "none",
+      "bbox": [
+        50,
+        46,
+        345,
+        327
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 4,
+      "treatment": "none",
+      "bbox": [
+        789,
+        48,
+        1074,
+        322
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 5,
+      "treatment": "none",
+      "bbox": [
+        113,
+        534,
+        366,
+        788
+      ],
+      "main": "n"
+    }
+  ],
+  "img_29b7b796f590.jpg": [
+    {
+      "plant": 1,
+      "treatment": "none",
+      "bbox": [
+        90,
+        431,
+        436,
+        760
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 2,
+      "treatment": "none",
+      "bbox": [
+        59,
+        42,
+        358,
+        330
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 3,
+      "treatment": "none",
+      "bbox": [
+        677,
+        465,
+        995,
+        727
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 4,
+      "treatment": "none",
+      "bbox": [
+        484,
+        62,
+        746,
+        334
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 5,
+      "treatment": "none",
+      "bbox": [
+        863,
+        107,
+        1082,
+        342
+      ],
+      "main": "n"
+    }
+  ],
+  "img_d5f2aa84e0bb.jpg": [
+    {
+      "plant": 1,
+      "treatment": "none",
+      "bbox": [
+        45,
+        487,
+        412,
+        806
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 2,
+      "treatment": "none",
+      "bbox": [
+        762,
+        518,
+        1064,
+        810
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 3,
+      "treatment": "none",
+      "bbox": [
+        80,
+        37,
+        346,
+        319
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 4,
+      "treatment": "none",
+      "bbox": [
+        802,
+        42,
+        1056,
+        312
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 5,
+      "treatment": "none",
+      "bbox": [
+        464,
+        298,
+        707,
+        532
+      ],
+      "main": "n"
+    }
+  ],
+  "img_dc63d16ce2dd.jpg": [
+    {
+      "plant": 1,
+      "treatment": "none",
+      "bbox": [
+        775,
+        371,
+        1125,
+        660
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 2,
+      "treatment": "none",
+      "bbox": [
+        198,
+        30,
+        438,
+        303
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 3,
+      "treatment": "none",
+      "bbox": [
+        847,
+        52,
+        1079,
+        299
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 4,
+      "treatment": "none",
+      "bbox": [
+        224,
+        405,
+        424,
+        611
+      ],
+      "main": "n"
+    },
+    {
+      "plant": 5,
+      "treatment": "none",
+      "bbox": [
+        537,
+        251,
+        728,
+        458
+      ],
+      "main": "n"
+    }
+  ]
+}

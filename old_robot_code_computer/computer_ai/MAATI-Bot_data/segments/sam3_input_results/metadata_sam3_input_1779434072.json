@@ -1,0 +1,28 @@
+{
+  "summary": "Found 0 object(s) matching 'leaf,plant' in the image.",
+  "query": "leaf,plant",
+  "detections": [],
+  "image_info": {
+    "width": 704,
+    "height": 480,
+    "area_pixels": 337920,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.5,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 1.058,
+    "num_detections": 0
+  },
+  "file_paths": {
+    "input_image": "/mnt/MAATI-Bot_data/raw_capture/sam3_input.jpg",
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/sam3_input_results/result_1779434072.png",
+    "masked_segments": [],
+    "combined_masks_per_label": {},
+    "all_combined_mask": null
+  },
+  "message": "No objects matching 'leaf,plant' were found above the confidence threshold (0.5)."
+}

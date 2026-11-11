@@ -1,0 +1,74 @@
+{
+  "summary": "Found 2 object(s) matching 'marker' in the image.",
+  "query": "marker",
+  "detections": [
+    {
+      "id": 1,
+      "label": "marker",
+      "confidence": 0.355347216129303,
+      "bounding_box": {
+        "x_min": 400.8475646972656,
+        "y_min": 1471.7733154296875,
+        "x_max": 612.0375366210938,
+        "y_max": 1623.8323974609375,
+        "width": 211.18997192382812,
+        "height": 152.05908203125
+      },
+      "description": "Object 1 (marker) with 35.5% confidence",
+      "mask_area_pixels": 9090,
+      "mask_area_ratio": 0.001136
+    },
+    {
+      "id": 2,
+      "label": "marker",
+      "confidence": 0.9014608263969421,
+      "bounding_box": {
+        "x_min": 1862.357421875,
+        "y_min": 702.23388671875,
+        "x_max": 2120.737060546875,
+        "y_max": 1052.5103759765625,
+        "width": 258.379638671875,
+        "height": 350.2764892578125
+      },
+      "description": "Object 2 (marker) with 90.1% confidence",
+      "mask_area_pixels": 24697,
+      "mask_area_ratio": 0.003087
+    }
+  ],
+  "image_info": {
+    "width": 4000,
+    "height": 2000,
+    "area_pixels": 8000000,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.3,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 1.809,
+    "num_detections": 2
+  },
+  "file_paths": {
+    "input_image": "/mnt/MAATI-Bot_data/raw_capture/ip_cam_0_1781728734_rect.jpg",
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/ip_cam_0_1781728734_rect_results/result_1781728736.png",
+    "masked_segments": [],
+    "combined_masks_per_label": {},
+    "all_combined_mask": null
+  },
+  "grouped_detections": {
+    "marker": {
+      "label": "marker",
+      "count": 2,
+      "confidence_min": 0.355347216129303,
+      "confidence_max": 0.9014608263969421,
+      "total_mask_area_pixels": 33787,
+      "detection_ids": [
+        1,
+        2
+      ],
+      "total_mask_area_ratio": 0.42
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ssh *)",
+      "Bash(curl -s -X POST http://192.168.1.2:8000/api/gantry/move -H 'Content-Type: application/json' -d '{\"cmd\": \"z+10\"}')",
+      "Bash(curl -s http://192.168.1.2:8000/api/gantry/pos)"
+    ]
+  }
+}

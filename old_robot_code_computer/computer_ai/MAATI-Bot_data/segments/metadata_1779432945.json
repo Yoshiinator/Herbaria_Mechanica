@@ -1,0 +1,122 @@
+{
+  "summary": "Found 6 object(s) matching 'leaf' in the image.",
+  "query": "leaf",
+  "detections": [
+    {
+      "id": 1,
+      "label": "leaf",
+      "confidence": 0.8262855410575867,
+      "bounding_box": {
+        "x_min": 402.48046875,
+        "y_min": 313.19781494140625,
+        "x_max": 415.6595764160156,
+        "y_max": 326.968994140625,
+        "width": 13.179107666015625,
+        "height": 13.77117919921875
+      },
+      "description": "Object 1 (leaf) with 82.6% confidence",
+      "mask_area_pixels": 134,
+      "mask_area_ratio": 0.000279
+    },
+    {
+      "id": 2,
+      "label": "leaf",
+      "confidence": 0.8208925724029541,
+      "bounding_box": {
+        "x_min": 399.5820617675781,
+        "y_min": 326.5195617675781,
+        "x_max": 411.5207214355469,
+        "y_max": 340.70904541015625,
+        "width": 11.93865966796875,
+        "height": 14.189483642578125
+      },
+      "description": "Object 2 (leaf) with 82.1% confidence",
+      "mask_area_pixels": 134,
+      "mask_area_ratio": 0.000279
+    },
+    {
+      "id": 3,
+      "label": "leaf",
+      "confidence": 0.4864068031311035,
+      "bounding_box": {
+        "x_min": 394.7939147949219,
+        "y_min": 306.43560791015625,
+        "x_max": 410.6164855957031,
+        "y_max": 325.9667663574219,
+        "width": 15.82257080078125,
+        "height": 19.531158447265625
+      },
+      "description": "Object 3 (leaf) with 48.6% confidence",
+      "mask_area_pixels": 185,
+      "mask_area_ratio": 0.000385
+    },
+    {
+      "id": 4,
+      "label": "leaf",
+      "confidence": 0.2957971394062042,
+      "bounding_box": {
+        "x_min": 398.1781311035156,
+        "y_min": 333.3977355957031,
+        "x_max": 412.26934814453125,
+        "y_max": 347.763916015625,
+        "width": 14.091217041015625,
+        "height": 14.366180419921875
+      },
+      "description": "Object 4 (leaf) with 29.6% confidence",
+      "mask_area_pixels": 112,
+      "mask_area_ratio": 0.000233
+    },
+    {
+      "id": 5,
+      "label": "leaf",
+      "confidence": 0.159646138548851,
+      "bounding_box": {
+        "x_min": 396.2912902832031,
+        "y_min": 309.2952575683594,
+        "x_max": 421.01861572265625,
+        "y_max": 345.96954345703125,
+        "width": 24.727325439453125,
+        "height": 36.674285888671875
+      },
+      "description": "Object 5 (leaf) with 16.0% confidence",
+      "mask_area_pixels": 716,
+      "mask_area_ratio": 0.001492
+    },
+    {
+      "id": 6,
+      "label": "leaf",
+      "confidence": 0.8190168142318726,
+      "bounding_box": {
+        "x_min": 411.1180419921875,
+        "y_min": 324.8548278808594,
+        "x_max": 421.88616943359375,
+        "y_max": 343.8175354003906,
+        "width": 10.76812744140625,
+        "height": 18.96270751953125
+      },
+      "description": "Object 6 (leaf) with 81.9% confidence",
+      "mask_area_pixels": 168,
+      "mask_area_ratio": 0.00035
+    }
+  ],
+  "image_info": {
+    "width": 800,
+    "height": 600,
+    "area_pixels": 480000,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.15,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 0.948,
+    "num_detections": 6
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1779432945.png",
+    "masked_segments": []
+  }
+}

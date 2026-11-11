@@ -1,0 +1,170 @@
+{
+  "summary": "Found 9 object(s) matching 'plant' in the image.",
+  "query": "plant",
+  "detections": [
+    {
+      "id": 1,
+      "label": "plant",
+      "confidence": 0.6754730939865112,
+      "bounding_box": {
+        "x_min": 685.1945190429688,
+        "y_min": 397.9359436035156,
+        "x_max": 815.8623657226562,
+        "y_max": 511.4161682128906,
+        "width": 130.6678466796875,
+        "height": 113.480224609375
+      },
+      "description": "Object 1 (plant) with 67.5% confidence",
+      "mask_area_pixels": 8036,
+      "mask_area_ratio": 0.013079
+    },
+    {
+      "id": 2,
+      "label": "plant",
+      "confidence": 0.6614063382148743,
+      "bounding_box": {
+        "x_min": 695.7409057617188,
+        "y_min": 43.29278564453125,
+        "x_max": 802.2618408203125,
+        "y_max": 127.63510131835938,
+        "width": 106.52093505859375,
+        "height": 84.34231567382812
+      },
+      "description": "Object 2 (plant) with 66.1% confidence",
+      "mask_area_pixels": 4211,
+      "mask_area_ratio": 0.006854
+    },
+    {
+      "id": 3,
+      "label": "plant",
+      "confidence": 0.6992734670639038,
+      "bounding_box": {
+        "x_min": 677.1632690429688,
+        "y_min": 132.72982788085938,
+        "x_max": 806.18408203125,
+        "y_max": 249.5227813720703,
+        "width": 129.02081298828125,
+        "height": 116.79295349121094
+      },
+      "description": "Object 3 (plant) with 69.9% confidence",
+      "mask_area_pixels": 4737,
+      "mask_area_ratio": 0.00771
+    },
+    {
+      "id": 4,
+      "label": "plant",
+      "confidence": 0.4138345718383789,
+      "bounding_box": {
+        "x_min": 665.053955078125,
+        "y_min": 41.42876434326172,
+        "x_max": 826.5732421875,
+        "y_max": 255.56236267089844,
+        "width": 161.519287109375,
+        "height": 214.13360595703125
+      },
+      "description": "Object 4 (plant) with 41.4% confidence",
+      "mask_area_pixels": 29542,
+      "mask_area_ratio": 0.048083
+    },
+    {
+      "id": 5,
+      "label": "plant",
+      "confidence": 0.4004310667514801,
+      "bounding_box": {
+        "x_min": 682.2971801757812,
+        "y_min": 43.12885284423828,
+        "x_max": 807.7439575195312,
+        "y_max": 249.11119079589844,
+        "width": 125.44677734375,
+        "height": 205.98233032226562
+      },
+      "description": "Object 5 (plant) with 40.0% confidence",
+      "mask_area_pixels": 9097,
+      "mask_area_ratio": 0.014806
+    },
+    {
+      "id": 6,
+      "label": "plant",
+      "confidence": 0.3905916213989258,
+      "bounding_box": {
+        "x_min": 673.133056640625,
+        "y_min": 338.0730895996094,
+        "x_max": 836.7169799804688,
+        "y_max": 541.1424560546875,
+        "width": 163.58392333984375,
+        "height": 203.06936645507812
+      },
+      "description": "Object 6 (plant) with 39.1% confidence",
+      "mask_area_pixels": 30120,
+      "mask_area_ratio": 0.049023
+    },
+    {
+      "id": 7,
+      "label": "plant",
+      "confidence": 0.7595891356468201,
+      "bounding_box": {
+        "x_min": 440.597900390625,
+        "y_min": 325.73211669921875,
+        "x_max": 599.6256713867188,
+        "y_max": 549.1577758789062,
+        "width": 159.02777099609375,
+        "height": 223.4256591796875
+      },
+      "description": "Object 7 (plant) with 76.0% confidence",
+      "mask_area_pixels": 27097,
+      "mask_area_ratio": 0.044103
+    },
+    {
+      "id": 8,
+      "label": "plant",
+      "confidence": 0.6410171389579773,
+      "bounding_box": {
+        "x_min": 424.01446533203125,
+        "y_min": 39.41252899169922,
+        "x_max": 589.40869140625,
+        "y_max": 267.2740478515625,
+        "width": 165.39422607421875,
+        "height": 227.86151123046875
+      },
+      "description": "Object 8 (plant) with 64.1% confidence",
+      "mask_area_pixels": 30660,
+      "mask_area_ratio": 0.049902
+    },
+    {
+      "id": 9,
+      "label": "plant",
+      "confidence": 0.37313079833984375,
+      "bounding_box": {
+        "x_min": 674.8574829101562,
+        "y_min": 339.0333251953125,
+        "x_max": 750.585205078125,
+        "y_max": 416.49822998046875,
+        "width": 75.72772216796875,
+        "height": 77.46490478515625
+      },
+      "description": "Object 9 (plant) with 37.3% confidence",
+      "mask_area_pixels": 3336,
+      "mask_area_ratio": 0.00543
+    }
+  ],
+  "image_info": {
+    "width": 960,
+    "height": 640,
+    "area_pixels": 614400,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.3,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 0.989,
+    "num_detections": 9
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1783728806.png",
+    "masked_segments": []
+  }
+}

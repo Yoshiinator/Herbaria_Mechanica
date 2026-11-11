@@ -1,0 +1,40 @@
+# --- Large model weights (GitHub rejects files > 100 MB) ---
+**/models/huggingface/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+
+# --- Image / video data (too large for the repo) ---
+*.png
+*.PNG
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+*.tif
+*.tiff
+*.TIF
+*.gif
+*.mp4
+*.gz
+
+# --- Python / build artifacts ---
+__pycache__/
+*.pyc
+build/
+dist/
+*.egg-info/
+
+# --- Home-folder / personal files (may contain secrets) ---
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.sudo_as_admin_successful
+.nvidia-settings-rc
+.claude.json
+.env
+!.env.example
+twingate-setup.sh

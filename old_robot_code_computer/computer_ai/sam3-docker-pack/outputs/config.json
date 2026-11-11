@@ -1,0 +1,28 @@
+{
+  "confidence_threshold": 0.5,
+  "image_resolution": 1008,
+  "enable_instance_interactivity": false,
+  "model_compilation": false,
+  "save_segments_separately": false,
+  "save_combined_mask_per_label": true,
+  "save_all_combined_mask": true,
+  "save_individual_crops_with_legend": true,
+  "save_combined_per_label": true,
+  "save_overlay_result": true,
+  "show_bounding_box_labels": true,
+  "corner_annotation_enabled": true,
+  "corner_annotation_position": "bottom-right",
+  "allowed_base_paths": [
+    "/data",
+    "/outputs",
+    "/home/node/.n8n-files",
+    "/mnt",
+    "/mnt/share",
+    "/n8n_results"
+  ],
+  "network_storage_enabled": true,
+  "result_storage_path": "/outputs",
+  "network_path_whitelist": [
+    "//192.168.1.2/SharedFiles"
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "runs": 50,
+  "expected": {
+    "Img1": "water",
+    "Img2": "fertilizer",
+    "Img3": "herbicide",
+    "Img4": "pesticide"
+  },
+  "results": {
+    "Img1": [
+      {
+        "treatment": "water",
+        "reason": "The leaves are pale, yellow, and drooping, indicating a lack of water. This is a classic symptom of drought stress, which is most commonly caused by insufficient watering."
+      },
+      {
+        "treatment": "none",
+        "reason": "parse error"
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are dry, brittle, and curled, strongly indicating a lack of water (desiccation) \u2013 a common symptom of drought stress. This points to a need for hydration."
+      },
+      {
+        "treatment": "none",
+        "reason": "parse error"
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are pale yellow, crispy, wilting, or drooping, which strongly indicates a lack of water. This is a classic sign of drought stress in plants."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are yellow and wilted, strongly suggesting a lack of water. This is the most likely cause of the plant's condition, indicating a need for hydration."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are pale and drooping, which is a classic sign of dehydration \u2013 a common issue addressed with watering."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are brown, crispy, and drooping, indicating severe dehydration. This is consistent with a lack of water, which is a common symptom of water stress in plants. There are no signs of pests, insects, or other issues like herbicide damage or nutrient deficiencies."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are yellow and translucent, indicating dehydration. The wilting and drooping of the stems strongly suggests a lack of water, which is a classic symptom of water stress in plants."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are brown, crispy, wilting, and drooping. This indicates a lack of water, which is a common sign of dehydration in plants."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are brown, crispy, wilting, and drooping, indicating severe dehydration. This is consistent with a lack of water, which is the primary symptom of water stress in plants."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are brown, crispy, and wilting, indicating severe dehydration \u2013 a classic symptom of insufficient water. There are no signs of pests, insects, or herbicide damage."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are brown, crispy, and wilting, indicating a severe lack of water.  This is a classic symptom of drought stress in plants."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant shows signs of wilting and drooping leaves, which is characteristic of a lack of water. The leaves are also a pale green color, suggesting a need for hydration."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are yellow and curled, and drooping. This strongly indicates a lack of water \u2013 a common cause of wilting in plants. It's a clear sign of dehydration."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are dry, brittle, and curling, indicating a severe lack of water. This is the most common symptom of dehydration in plants."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are brown, crispy, wilting, and drooping, indicating severe dehydration. This is the classic symptom of a plant lacking water."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are brown, crispy, and drooping, indicating severe dehydration \u2013 a classic symptom of a plant lacking water. This is the most obvious and compelling visual cue in the image."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are brown and crispy, indicating severe dehydration. This is most consistent with a lack of water, which is the primary cause of this type of leaf damage."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are a pale, sickly yellow and are significantly wilted and drooping. This strongly suggests a lack of water, leading to dehydration and the characteristic symptoms of water stress in plants. The soil also appears dry, further supporting this conclusion."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are severely wilted and drooping, indicating a lack of water. This is the most likely cause of the observed symptoms."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are brown, crispy, and wilting, indicating a severe lack of water. This is the most consistent symptom in the image, suggesting drought stress."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are predominantly brown and crispy, indicating severe dehydration. This is characteristic of a plant suffering from lack of water, which is the primary symptom of water stress."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are yellow, crispy, wilting, and drooping, which is a classic sign of dehydration - the most likely cause for a plant to be in this condition is a lack of water."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are pale yellow-green, dry, and wilting, which is indicative of a lack of water. This is the most obvious symptom suggesting the plant is suffering from dehydration."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are predominantly brown and crispy, indicating severe dehydration (wilting). This is a classic symptom of a plant lacking water."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are yellow and dry, consistent with a plant suffering from severe dehydration. This strongly suggests the plants need water.  The droopy appearance confirms this."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are brown, crispy, wilting, and drooping, indicating a severe lack of water. This is a classic symptom of drought stress."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are extremely dry, brittle, and curled, strongly indicating a lack of water\u2014a classic sign of drought stress. This points to a need for irrigation."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant shows significant wilting and drooping, with leaves that appear brown and crispy. This indicates a lack of water, which is a common symptom of dehydration in plants."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are yellowing and crispy, indicative of dehydration. This is the most common symptom of a plant lacking water."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are pale, dry, and crispy, indicating severe dehydration \u2013 a classic symptom of lack of water. This is the most likely cause of the plant's condition."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are pale, wilting, and drooping, strongly suggesting a lack of water\u2014a classic symptom of drought stress. This is the most obvious and likely cause of the observed condition."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant shows significant wilting and drooping leaves, indicating a lack of water. The leaves are also a pale, sickly green, which is consistent with dehydration stress. There are no visible signs of pests, insects, holes, or other indications of pesticide or herbicide damage."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are pale, yellow, and drooping, strongly suggesting a lack of water. This is the most obvious symptom of dehydration in plants."
+      },
+      {
+        "treatment": "none",
+        "reason": "parse error"
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are yellow, crispy, and drooping, indicating a lack of water. This is the most likely cause of the plant's distress. While other factors could contribute, the overall appearance strongly suggests dehydration."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are yellow, brittle, and drooping, indicating a severe lack of water. This is a classic symptom of drought stress in plants."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are predominantly yellow and crispy, indicating a severe lack of hydration. This strongly suggests the plant is suffering from drought stress or water deficiency, which is typically addressed with watering."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are brown, crispy, wilting, and drooping, indicating a severe lack of water. This is a classic symptom of drought stress. There are no visible signs of pests, insects, holes, or any other indication of pesticide or herbicide damage."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are significantly wilted and drooping, exhibiting classic signs of dehydration \u2013 brown edges and a generally limp appearance. This strongly suggests a lack of water, leading to wilting. There are no visible insects, holes, or other indications of pesticide, herbicide, or fertilizer damage."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are pale, thin, and drooping, which is a strong indicator of drought stress and a lack of water.  This strongly suggests the plant needs watering."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are brown, crispy, wilting, or drooping. This strongly suggests a lack of water, which is the most common cause of this type of distress in plants.  It's a clear sign of drought stress."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are dry, crispy, and drooping, indicating a severe lack of water. This is the most consistent symptom of water stress in plants. The other options (pesticide, herbicide, fertilizer, none) do not fit the observed symptoms as well."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are brown, crispy, wilting, and drooping, indicating severe dehydration. This is a classic symptom of insufficient water."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are yellow, brittle, and drooping, strongly suggesting a lack of water. This is the most consistent symptom of drought stress and therefore points to a lack of water."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are brown, crispy, wilting, and drooping. This indicates a severe lack of water, leading to dehydration. This is the most likely cause of the plant's condition, suggesting it needs watering."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are brown, crispy, and drooping, indicating severe dehydration \u2013 a classic sign of a lack of water. The overall appearance strongly suggests the plant is suffering from drought stress."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are yellow, crispy, and drooping, which is a classic symptom of drought stress - lack of water. This suggests the plants are likely suffering from dehydration, and therefore, the most appropriate treatment is water."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are pale yellow-green and drooping, consistent with severe dehydration and a possible nutrient deficiency. The primary need for the plants is water."
+      }
+    ],
+    "Img2": [
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow, but they appear generally healthy and green underneath. This indicates a nutrient deficiency, commonly addressed with fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow, but they appear to be alive and green underneath. This suggests a nutrient deficiency, often associated with fertilizer application. There are no signs of pests, insects, or damage indicating pesticide or herbicide use. The leaves are not wilting or drooping, indicating a lack of water stress."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow, indicating a potential nutrient deficiency (likely nitrogen).  While they aren't completely brown or crispy, the color change suggests a need for fertilizer rather than a lack of water or a pest infestation."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow but still appear green and alive, which is characteristic of nutrient deficiency (specifically, a lack of nitrogen) often addressed with fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow, but they appear healthy and vibrant green underneath, suggesting a lack of nutrients rather than a deficiency caused by pests, disease, or lack of water. This points to a possible nutrient imbalance, which is typical of a fertilizer issue."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow but still green and appear alive, suggesting a nutrient deficiency rather than a severe water stress or disease. This is consistent with a fertilizer issue, where the plant is not receiving sufficient nutrients."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The plant shows yellowing leaves, which is a common symptom of nutrient deficiency (specifically nitrogen deficiency). While it's not a definitive diagnosis, the leaves are still green and appear alive, suggesting a lack of essential nutrients rather than severe stress like water shortage or disease.  It looks like the plant is being fed."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow, indicating a nutrient deficiency, which is a common symptom of fertilizer application. While not overtly wilting, the yellowing suggests the plant is seeking nutrients rather than suffering from lack of water."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow, but they appear green and alive. This suggests a nutrient deficiency, which is often treated with fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow but still appear relatively healthy and green. This is consistent with a nutrient deficiency, commonly addressed with fertilizer. There are no signs of pests, disease, or water stress."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow and pale but still green and appear healthy. This indicates a potential nutrient deficiency, which is often treated with fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow, but they appear healthy and alive. This suggests a nutrient deficiency, which is often treated with fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow but still green and alive, which is characteristic of a nutrient deficiency, specifically a lack of nitrogen.  The overall appearance suggests the plant is not receiving enough nutrients to maintain its vibrant green color."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The plant has uniformly yellow leaves, indicating a nutrient deficiency rather than disease, pests, or water stress. This is a common symptom of a lack of nitrogen or other essential nutrients. The leaves are still green, suggesting the plant is not severely stressed."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow but still appear green and healthy, indicating a nutrient deficiency rather than a disease or water stress. This is consistent with a fertilizer issue."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow and pale but appear generally healthy and alive. This suggests a nutrient deficiency (likely lacking nitrogen) rather than a disease or environmental stress, which would cause more severe wilting or damage. It\u2019s a classic sign of needing fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are a pale yellow-green color, indicating a nutrient deficiency (likely nitrogen). They appear alive and aren't wilting or showing signs of extreme stress, which would suggest water or herbicide issues. The leaves are not damaged by insects or holes."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The plant shows signs of nutrient deficiency \u2013 leaves are yellow and pale, but they appear green and alive. This is indicative of a plant needing more fertilizer rather than suffering from a water stress, pest infestation, or herbicide damage."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow but appear generally healthy and alive, suggesting a nutrient deficiency rather than a disease or environmental stress like water shortage or pesticide damage. It looks like the plant is lacking in some nutrients."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow and pale, but they appear green and alive. This indicates a potential nutrient deficiency, commonly addressed with fertilizer. There are no signs of pests, disease, or extreme water stress (wilting) that would point to other classifications."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are yellow and faded, which strongly suggests a lack of water. This is a common symptom of dehydration in plants."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow, indicating a potential nutrient deficiency, rather than signs of pests, disease, or lack of water. This suggests the plant needs fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are a pale yellow color, indicating a nutrient deficiency (likely nitrogen). They appear healthy and green, suggesting the plant isn't suffering from extreme stress or disease.  This matches the appearance of a plant receiving fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The plant appears to have yellowing leaves, which is a common symptom of nutrient deficiency, particularly a lack of nitrogen. This suggests it's receiving fertilizer rather than suffering from water stress, pest damage, or herbicide exposure."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow, but they appear to be alive and green underneath. This suggests a nutrient deficiency, which is often addressed with fertilizer. There are no signs of pests, herbicide damage (separate plants), or water stress (wilting)."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow and pale green, but they are still alive. This strongly suggests a nutrient deficiency, particularly a lack of nitrogen, which is often addressed with fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The plant shows signs of nutrient deficiency - leaves are yellow but still green and alive, a characteristic of a plant needing fertilizer. There are no visible insects, holes, or signs of wilting."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow and pale but still green and alive, indicating a nutrient deficiency rather than a disease or water stress. This is consistent with a fertilizer issue."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow and pale green, which is a common indicator of nutrient deficiency, suggesting a need for fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow and pale green, but they appear to be alive and not wilting. This indicates a nutrient deficiency, which is often addressed with fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow, but still appear green and alive, suggesting a nutrient deficiency rather than severe stress. This is characteristic of a plant receiving too much fertilizer \u2013 often an overabundance of nitrogen \u2013 which can cause leaf yellowing."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The plant shows yellowing leaves, which is a classic symptom of nutrient deficiency (specifically nitrogen deficiency).  While not immediately obvious, it's more indicative of a lack of nutrients than other issues like water stress or pest damage. The plant appears alive and green, indicating that it isn't stressed by lack of water or damaged by insects. It is also not showing signs of herbicide exposure as it's a single plant."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The plant shows signs of yellowing leaves, but the leaves appear green and alive, indicating a potential nutrient deficiency rather than severe stress like wilting or disease. It's more consistent with a lack of fertilizer than a problem with water, herbicide, or pesticide damage."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are a pale yellow color, indicating a nutrient deficiency (likely nitrogen). They appear healthy and alive, suggesting the issue is a lack of fertilizer rather than disease, pests, or water stress."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow, indicating a nutrient deficiency. They are still green and appear alive, suggesting a lack of essential elements rather than damage from pests, herbicides, or water stress."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are a pale yellow color, indicating a nutrient deficiency (likely nitrogen).  The leaves appear healthy and green overall, just showing signs of nutrient imbalance rather than severe stress like wilting or damage."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow and pale, but still green and alive. This indicates a possible nutrient deficiency \u2013 particularly nitrogen \u2013 which is often addressed with fertilizer. The yellowing is a common symptom of a lack of nutrients rather than signs of severe water stress or disease."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow and pale, indicating a nutrient deficiency.  They are still green and appear alive, suggesting a lack of essential nutrients rather than a disease or water stress. It looks as if the plant needs fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow and pale green, indicating a nutrient deficiency. While the plant appears alive, the color suggests a lack of essential elements like nitrogen or potassium, which is typical of a fertilizer issue."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow, but they appear green and alive, indicating a nutrient deficiency rather than severe stress like wilting or water shortage. It\u2019s a classic sign of needing fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow and pale green, indicating a lack of nutrients rather than a problem with water, pests, or herbicides. This suggests a nutrient deficiency, commonly treated with fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are a pale yellow color, indicating a nutrient deficiency, most likely a lack of nitrogen. The plant appears alive and green, so it's not suffering from water stress or wilting. It doesn\u2019t show any signs of pests, insects or holes."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow and pale, indicating a nutrient deficiency (likely a lack of nitrogen).  They appear alive and green, suggesting the issue isn't severe wilting or water stress.  It\u2019s more consistent with a plant needing supplemental fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow and pale green, indicating a potential nutrient deficiency. This is a common symptom of a plant needing fertilizer rather than suffering from water stress, pest damage, or herbicide exposure."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow but still green and alive, indicating a nutrient deficiency rather than a severe water stress or pest issue. This is the most likely scenario given the observed symptoms."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are a pale yellow color, indicating a nutrient deficiency (likely nitrogen) rather than signs of pests, disease, or water stress. This is a classic symptom of a plant needing fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow, but they appear green and healthy. This suggests a nutrient deficiency, commonly addressed with fertilizer. There are no signs of pests, disease, or severe water stress."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow and pale, but they appear alive and green, indicating a potential nutrient deficiency rather than a disease or water stress. It looks like the plant is lacking in nutrients."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The leaves are yellow, but still appear green and alive. This indicates a nutrient deficiency rather than a problem with watering, pests, or herbicides. It\u2019s most likely the plant needs fertilizer."
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "The plant shows yellowing leaves, which is a common symptom of nutrient deficiency (specifically, a lack of nitrogen). While the leaves appear green, the yellowing indicates a lack of adequate nutrients, suggesting the plant is receiving a fertilizer treatment."
+      }
+    ],
+    "Img3": [
+      {
+        "treatment": "water",
+        "reason": "The leaves are a vibrant green and appear healthy, indicating no signs of stress or damage from pests, herbicides, or pesticides. They appear hydrated and thriving."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears healthy with vibrant green leaves. There are no visible signs of pests, damage, wilting, or nutrient deficiencies. The leaves are uniformly green and don't exhibit any discoloration or drooping. It looks like the plant is receiving adequate water."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears to be wilting or drooping. The leaves are soft and appear to lack their usual vibrancy. This is indicative of a lack of water, a common cause of wilting in plants."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears healthy with vibrant green leaves. There are no visible signs of pests, damage, or stress like wilting, discoloration, or holes. The image suggests normal healthy growth."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears healthy and vibrant green. There are no signs of pests, damage, or stress (no wilting, discoloration, or holes)."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves appear to be slightly wilted and drooping, suggesting a lack of water. The overall appearance indicates a need for hydration."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears healthy and vibrant, with green leaves. There are no signs of pests, disease, or stress like wilting or discoloration. It looks like a normal, well-watered plant."
+      },
+      {
+        "treatment": "none",
+        "reason": "The plant appears to be healthy with vibrant green leaves and no visible signs of disease, pests, or nutrient deficiencies."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears healthy and vibrant green with no visible signs of distress, damage, or infestation. It resembles a normal, healthy plant. The leaves have a consistent, uniform color and appear to be well-hydrated."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves appear healthy and vibrant green, with no signs of damage, pests, or wilting. This suggests the plant is receiving adequate water and nutrients, indicating a healthy state."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears healthy and vibrant green. There are no signs of pests, disease, or nutrient deficiencies that would indicate pesticide, herbicide, or fertilizer treatment. The leaves are not wilting or drooping, suggesting adequate hydration."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are a vibrant green, but they appear to be slightly curled or rolled inward, suggesting that the plant may be dehydrated and need watering."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves appear healthy and vibrant green, showing no signs of yellowing, wilting, or distress. There are no visible insects, holes, or other indicators of a problem.  The plant appears to be thriving."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears to be wilting or drooping, indicating a lack of water. The leaves are somewhat limp and not vibrant green. This is the most consistent observation from the image."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears healthy and vibrant green with no visible signs of stress, damage, or disease.  It doesn't exhibit any of the symptoms associated with pesticide, herbicide, or fertilizer issues. It looks like a normal healthy plant."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears healthy and vibrant, with green leaves. There are no signs of pests, damage, or distress (like wilting or discoloration) that would indicate pesticide, herbicide, or fertilizer use. The overall appearance suggests adequate hydration."
+      },
+      {
+        "treatment": "none",
+        "reason": "The plants appear to be healthy and thriving with no signs of distress, damage, or disease. The leaves are a bright green color, and there are no indications of pests, herbicide damage, or water stress."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears to be showing signs of wilting and drooping, suggesting a lack of water. The leaves are not vibrant green but rather appear slightly pale and limp, characteristic of water stress."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears healthy with vibrant green leaves. There are no visible signs of pests, disease, or nutrient deficiencies that would indicate pesticide, herbicide, or fertilizer treatment."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves appear relatively healthy and vibrant green, indicating sufficient water and nutrients. There are no obvious signs of pests, disease, or nutrient deficiencies (like yellowing or browning) to suggest other treatments."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears to be wilting and drooping. This is most indicative of a lack of water, a common symptom of water stress in plants. The leaves appear somewhat pale and limp, further supporting the water deficiency diagnosis."
+      },
+      {
+        "treatment": "none",
+        "reason": "parse error"
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are a vibrant green and appear healthy. There are no visible signs of pests, damage, or stress like wilting or discoloration. This suggests the plant is receiving adequate water and nutrients."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are a vibrant green and appear healthy, indicating the plant is receiving adequate water and nutrients. There are no signs of pests, disease, or stress (like wilting or discoloration) visible in the image."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears to be drooping and slightly wilted, suggesting a lack of water. The leaves are not exhibiting any signs of pests, disease, or herbicide damage.  It's a classic sign of dehydration."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are a vibrant green and appear healthy. There are no obvious signs of pests, damage, or stress (like wilting or discoloration) to suggest a problem requiring pesticide, herbicide, or fertilizer treatment."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears healthy with vibrant green leaves. There are no obvious signs of pests, disease, or nutrient deficiencies that would indicate a need for pesticide, herbicide, or fertilizer. The leaves are full and not wilting or drooping, suggesting adequate hydration."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears to be drooping and wilting, suggesting a lack of water. The leaves are pale and not vibrant green, a common sign of dehydration."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears relatively healthy with vibrant green leaves. There are no visible signs of pests, disease, or nutrient deficiencies (like yellowing or browning). It looks like a typical, well-watered plant.  It appears to be a single plant, with no distinct separation between multiple plants."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears to be experiencing signs of water stress. The leaves are drooping and slightly wilted, which is a classic symptom of dehydration. While there isn't obvious evidence of pests or disease, the overall appearance strongly suggests a lack of sufficient water."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves of the plant appear healthy and vibrant green, with no signs of discoloration, damage, or wilting. They are not exhibiting any symptoms indicative of pesticide, herbicide, or fertilizer issues. The plant looks to be well-hydrated."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears healthy with vibrant green leaves, exhibiting no signs of pests, disease, or nutrient deficiency that would indicate pesticide, herbicide, or fertilizer issues. It looks like it's adequately watered."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are a vibrant green and appear healthy, indicating sufficient water and nutrients. There are no signs of distress like wilting, browning, or insect infestation."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves of the plant appear relatively healthy and vibrant green, suggesting adequate hydration. There are no obvious signs of distress like wilting, browning, or insect damage."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears to be wilting and drooping. This indicates a lack of water, a common cause of distress in plants.  The leaves are a muted green, suggesting they aren't receiving adequate hydration."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves appear healthy and vibrant green, lacking any signs of discoloration, damage, or wilting. There are no visible insects or holes. This suggests the plant is receiving adequate water and nutrients."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears to be showing signs of mild wilting or drooping. The leaves are not dramatically brown or crispy, indicating a lack of severe water stress. While not vibrant, the plant is still green and alive, suggesting a need for hydration rather than a drastic issue like herbicide exposure or severe pest infestation."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears to be exhibiting signs of wilting or drooping. The leaves are slightly curled and lack the vibrant green color typically associated with healthy plants. This suggests a lack of water, a common cause of wilting in plants."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are a vibrant green and appear healthy, indicating adequate hydration and no signs of stress or disease. There are no visible insects, holes, or wilting characteristics."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves appear to be healthy and vibrant green, showing no signs of discoloration, wilting, or damage. There are no visible insects or holes. The plant looks hydrated and in good condition."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears healthy with vibrant green leaves. There are no signs of pests, herbicide damage (multiple plants), or drought stress (wilting/crispy leaves). The plant appears to be receiving adequate hydration."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are a vibrant green and appear healthy. There are no signs of pests, disease, or nutrient deficiency. The plant looks well-hydrated."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears healthy and vibrant with green leaves. There are no signs of pests, damage, or distress such as wilting, browning, or discoloration. The overall appearance suggests adequate hydration and nutrition."
+      },
+      {
+        "treatment": "none",
+        "reason": "The plants appear to be healthy and vibrant with no signs of distress (no wilting, holes, insects, or discoloration)."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears healthy with vibrant green leaves. There are no visible signs of pests, disease, or nutrient deficiencies that would indicate pesticide, herbicide, or fertilizer application."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears healthy with vibrant green leaves. There are no visible signs of pests, damage, or wilting. It looks like the plant is receiving adequate water."
+      },
+      {
+        "treatment": "none",
+        "reason": "The plants appear to be healthy and vibrant green with no visible signs of distress (no insects, holes, or wilting)."
+      },
+      {
+        "treatment": "water",
+        "reason": "The leaves are a vibrant green and appear healthy, indicating adequate hydration and nutrient levels. There are no signs of pests, disease, or damage."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears healthy and vibrant green with no obvious signs of distress (brown, crispy, wilting leaves). It\u2019s a single plant, and there are no insects or holes visible in the leaves."
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant appears to be wilting and drooping, indicating a lack of water. The leaves are pale and not vibrant green, which is a classic symptom of underwatering."
+      }
+    ],
+    "Img4": [
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows a plant with significant holes in the leaves, indicative of insect damage or pesticide application. While it's difficult to definitively identify the cause, the damage strongly suggests a pest infestation which is a pesticide issue."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows several distinct holes in the leaves, indicating insect damage, which is a common sign of pesticide application or insect infestation. It's likely that the plant has been affected by pests needing to be controlled."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The leaves show significant holes, indicating insect damage. This strongly suggests the presence of pests and the use of a pesticide to control them."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows significant damage to the leaves \u2013 holes and likely insect feeding. This is a strong indicator of a pest infestation, which would require pesticide treatment."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The plant shows signs of significant damage \u2013 numerous small holes in the leaves, indicating insect feeding (likely pests). This strongly suggests the presence of pesticide residue or damage from insects, rather than disease, nutrient deficiency, or environmental stress."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The leaves show signs of significant damage \u2013 numerous small holes, likely created by insects. This strongly suggests the presence of pests and a likely application of pesticide to control them."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The leaves have numerous small holes, indicating insect damage. This is a common sign of pests and would warrant the use of a pesticide treatment."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows several holes in the leaves, indicating damage likely caused by insects or pests. This suggests the need for a pesticide treatment to control the infestation."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows significant damage to the leaves \u2013 there are numerous holes, indicating insect feeding (likely pests). This strongly suggests a pesticide application was made to control the insects."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The leaves show significant damage, likely from insect feeding (holes). This suggests a pest issue requiring intervention, hence 'pesticide'."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "There are visible holes in the leaves, indicating damage likely caused by insects (a pest infestation).  This suggests the use of a pesticide to control the pests."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The leaves exhibit significant damage, specifically holes and signs of insect feeding. This strongly suggests a pest infestation, and therefore, a pesticide treatment would be appropriate."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows significant damage to the leaves, specifically holes, suggesting insect infestation or damage from pesticide application. It\u2019s difficult to determine the exact cause from the image alone but the damage is the strongest indicator of pesticide treatment."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows significant damage to the leaves, appearing as holes, suggesting insect infestation or damage from pesticides. There are numerous holes present across the leaves."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows a plant with distinct, circular holes in the leaves, which is a classic sign of insect damage.  This strongly suggests the presence of insects (likely pests) feeding on the plant, necessitating a pesticide treatment."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows significant damage to the leaves, specifically irregular holes. This strongly suggests the presence of insects (likely pests) which are a common cause of damage needing pesticide treatment."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows significant damage to the leaves, specifically holes. This is indicative of insect feeding, which would be classified as a pesticide issue. While it's not definitively a specific beetle or insect, the presence of holes strongly suggests pest damage."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "There are visible holes in the leaves, indicating insect damage. This suggests a potential pest infestation, justifying the 'pesticide' classification."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows several holes in the leaves, which is a common sign of insect damage. This suggests the presence of pests, warranting a pesticide treatment."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows significant holes in the leaves, indicating damage likely caused by insects, a common reason for pesticide use in gardening."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows significant holes in the leaves, indicating insect damage. This is consistent with a pest infestation, suggesting the need for a pesticide treatment."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The plant shows significant damage in the form of numerous small holes in the leaves, indicative of insect feeding or potentially pesticide damage. The leaves appear to be actively being eaten."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "There are visible holes in the leaves, indicating insect damage. This strongly suggests a pest infestation, necessitating a pesticide treatment."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "There are visible holes in the leaves, indicating insect damage, which is a common sign of pesticide application or insect infestation."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows a plant with significant holes in the leaves, indicating insect damage. This suggests the presence of pests, warranting a pesticide treatment."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows multiple plants, and there are noticeable holes in the leaves, indicating insect damage or pest infestation. This strongly suggests a need for pest control measures."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "There are visible holes in the leaves of the plant, indicating insect damage (likely pests). This suggests the plant is being affected by a pest, which is a common reason for pesticide application."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "There are visible holes in the leaves, indicating damage likely caused by insects or pests. This suggests a need for a pesticide treatment."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows significant holes in the leaves, indicating insect damage (likely pests). This suggests a need for pesticide treatment."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "There are several distinct holes in the leaves, indicative of insect damage (likely pests). This suggests a need for pest control rather than a lack of water, nutrients, or herbicides."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows significant holes in the leaves, indicating insect damage. This suggests a pest problem, and the use of a pesticide would be a likely response to control the infestation."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows a plant with noticeable holes in its leaves, indicating damage likely caused by insects or pests. This strongly suggests a pesticide application or an infestation requiring treatment."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The leaves show significant holes, indicative of insect damage, likely from pests. This suggests a need for pest control measures (pesticide)."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "There are visible holes in the leaves of the plant, indicating damage likely caused by insects (a common sign of pesticide damage). While it's difficult to definitively identify the cause, the presence of these holes strongly suggests a pesticide issue."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows several distinct holes in the leaves, indicating insect damage. This strongly suggests a pest infestation, which is a common reason for using pesticides."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows a plant with significant holes in its leaves, indicating damage likely caused by insects. This is a classic sign of pest infestation, warranting a pesticide treatment."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "There are visible holes in the leaves, indicating insect damage. This suggests a pest problem that would necessitate a pesticide treatment."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The plant shows signs of significant damage \u2013 numerous holes in the leaves, indicating insect feeding, likely from pests. This strongly suggests a need for pesticide intervention."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The plant shows significant signs of damage, with several holes in the leaves. This strongly indicates insect infestation or damage caused by a pesticide."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows significant damage to the leaves, specifically holes, which is indicative of insect infestation or pest damage.  This suggests a need for a pesticide treatment to control the insects."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows a single plant with several visible holes in the leaves, strongly suggesting insect damage (likely pests). This aligns with the 'pesticide' classification, as pesticides are often used to combat insect infestations."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows distinct holes in the leaves, indicating insect damage (likely pests). This is a classic sign of a pest infestation, and thus warrants a 'pesticide' classification."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "There are visible holes in the leaves, indicating damage likely caused by insects (e.g., pests). This strongly suggests the presence of a pesticide being used to control them."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The leaves show signs of significant insect damage, with numerous holes present. This strongly suggests the presence of insects, a common target of pesticides."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "There are visible holes in the leaves, indicating insect damage. This strongly suggests a pest infestation, warranting a 'pesticide' classification."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "There are visible holes in the leaves, indicating insect damage. This strongly suggests the presence of pests requiring pesticide treatment."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows a plant with significant holes in its leaves, strongly suggesting damage caused by insects or a pesticide application. There are noticeable leaf gaps, indicating a targeted attack, not general leaf discoloration or wilting."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The image shows several distinct holes in the leaves, which is a common sign of insect damage. This suggests the plant is being affected by pests, and thus, a pesticide would be a relevant treatment."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "There are several small holes in the leaves, indicating damage likely caused by insects (a common pest control measure - pesticide use). While the leaves appear green, the holes are a clear sign of distress and potential pest infestation."
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The leaves show clear signs of insect damage, specifically holes. This indicates a pest infestation, which is a common reason for using pesticide treatments."
+      }
+    ]
+  }
+}

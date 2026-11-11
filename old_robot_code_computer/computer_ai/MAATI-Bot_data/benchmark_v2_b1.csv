@@ -1,0 +1,201 @@
+image,run,treatment,reason,expected,correct
+B1_Img1,1,water,"Leaves are brown, crispy, wilted, and soil is extremely dry ",water,True
+B1_Img1,2,none,no json found,water,False
+B1_Img1,3,water,"Plant shows severe wilting, drooping, crispy/scorched leaf e",water,True
+B1_Img1,4,none,no json found,water,False
+B1_Img1,5,water,Plant shows severe drought stress with crispy dry leaf edges,water,True
+B1_Img1,6,water,"The plant shows severe drought stress: wilting, drooping lea",water,True
+B1_Img1,7,water,"The plant shows severe dehydration with crispy edges, wiltin",water,True
+B1_Img1,8,water,"Plant shows severe drought stress with wilted leaves, dry cr",water,True
+B1_Img1,9,water,"Plant shows severe water stress with wilting, drooping, cris",water,True
+B1_Img1,10,water,"The plant shows severe water stress with wilted, crispy, dro",water,True
+B1_Img1,11,water,"Plant exhibits severe water stress with wilting, drooping le",water,True
+B1_Img1,12,none,no json found,water,False
+B1_Img1,13,none,no json found,water,False
+B1_Img1,14,water,"Plant exhibits severe wilting, crispy brown leaf edges, dehy",water,True
+B1_Img1,15,water,"Plant shows severe drought stress with wilted, drooping leav",water,True
+B1_Img1,16,none,no json found,water,False
+B1_Img1,17,none,no json found,water,False
+B1_Img1,18,water,"Soil is extremely dry and cracked with deep fissures, and le",water,True
+B1_Img1,19,none,no json found,water,False
+B1_Img1,20,water,"Plant exhibits severe wilting, drooping, and crispy leaf edg",water,True
+B1_Img1,21,none,no json found,water,False
+B1_Img1,22,water,"Plant exhibits severe wilting, drooping, crispy brown leaf e",water,True
+B1_Img1,23,none,no json found,water,False
+B1_Img1,24,water,"Plant shows severe wilting, crispy leaf edges, and dry crack",water,True
+B1_Img1,25,none,no json found,water,False
+B1_Img1,26,water,"The plant exhibits severe drought stress with wilted, droopi",water,True
+B1_Img1,27,water,"Plant shows severe water stress with wilted, crispy leaves a",water,True
+B1_Img1,28,water,"Leaves are brown, crispy, and wilted with crispy edges; soil",water,True
+B1_Img1,29,water,"Plant shows severe drought stress with wilting, drooping, cr",water,True
+B1_Img1,30,none,no json found,water,False
+B1_Img1,31,water,"Soil is extremely dry and cracked indicating severe drought,",water,True
+B1_Img1,32,water,"Plant exhibits severe wilting, drooping leaves, and dry crac",water,True
+B1_Img1,33,water,"Plant shows severe drought stress with wilted, drooping leav",water,True
+B1_Img1,34,water,"Plant shows severe wilting, drooping leaves, and crispy brow",water,True
+B1_Img1,35,water,"Plant exhibits severe drought stress with wilting, drooping,",water,True
+B1_Img1,36,water,"Leaves are severely brown, crispy, wilted, and shriveled wit",water,True
+B1_Img1,37,water,Plant shows severe drought stress: wilted and drooping leave,water,True
+B1_Img1,38,none,no json found,water,False
+B1_Img1,39,water,"Plant shows severe wilting, crispy dry edges, and extremely ",water,True
+B1_Img1,40,water,Plant shows classic drought stress symptoms including crispy,water,True
+B1_Img1,41,water,"Plant shows severe wilting, crispy leaf edges, and dehydrati",water,True
+B1_Img1,42,water,"Leaves are wilted, drooping, brown and crispy; soil is dry a",water,True
+B1_Img1,43,water,"Plant shows severe drought stress with wilted, crispy leaves",water,True
+B1_Img1,44,none,no json found,water,False
+B1_Img1,45,water,"Leaves are severely wilted, drooping, brown, crispy, and dry",water,True
+B1_Img1,46,water,Plant shows severe drought stress with extremely dry/cracked,water,True
+B1_Img1,47,none,no json found,water,False
+B1_Img1,48,none,no json found,water,False
+B1_Img1,49,water,"Plant shows severe wilting, drooping, and crispy leaf edges ",water,True
+B1_Img1,50,water,Plant exhibits classic dehydration symptoms including severe,water,True
+B1_Img2,1,none,no json found,fertilizer,False
+B1_Img2,2,none,no json found,fertilizer,False
+B1_Img2,3,none,no json found,fertilizer,False
+B1_Img2,4,none,no json found,fertilizer,False
+B1_Img2,5,water,"Soil is dry and cracked with no moisture, and leaves show br",fertilizer,False
+B1_Img2,6,none,no json found,fertilizer,False
+B1_Img2,7,none,no json found,fertilizer,False
+B1_Img2,8,none,no json found,fertilizer,False
+B1_Img2,9,none,no json found,fertilizer,False
+B1_Img2,10,none,no json found,fertilizer,False
+B1_Img2,11,none,no json found,fertilizer,False
+B1_Img2,12,none,no json found,fertilizer,False
+B1_Img2,13,none,no json found,fertilizer,False
+B1_Img2,14,fertilizer,"Leaves show yellowing at margins with green centers, indicat",fertilizer,True
+B1_Img2,15,fertilizer,"Leaves show widespread yellowing along margins and patches, ",fertilizer,True
+B1_Img2,16,water,"Plant shows dehydration stress with crispy leaf edges, droop",fertilizer,False
+B1_Img2,17,none,no json found,fertilizer,False
+B1_Img2,18,none,no json found,fertilizer,False
+B1_Img2,19,fertilizer,Leaves show widespread yellowing (especially lower/older lea,fertilizer,True
+B1_Img2,20,none,no json found,fertilizer,False
+B1_Img2,21,none,no json found,fertilizer,False
+B1_Img2,22,none,no json found,fertilizer,False
+B1_Img2,23,fertilizer,Leaves show yellowing at edges with crispy margins and the p,fertilizer,True
+B1_Img2,24,none,no json found,fertilizer,False
+B1_Img2,25,none,no json found,fertilizer,False
+B1_Img2,26,herbicide,soil is overrun with multiple weed species (broadleaf weeds ,fertilizer,False
+B1_Img2,27,fertilizer,"Primary symptom is widespread yellowing of leaves, particula",fertilizer,True
+B1_Img2,28,none,no json found,fertilizer,False
+B1_Img2,29,none,no json found,fertilizer,False
+B1_Img2,30,fertilizer,Leaves show extensive yellowing (especially at margins) with,fertilizer,True
+B1_Img2,31,none,no json found,fertilizer,False
+B1_Img2,32,none,no json found,fertilizer,False
+B1_Img2,33,none,no json found,fertilizer,False
+B1_Img2,34,fertilizer,"Leaves show widespread yellowing (chlorosis), pale green col",fertilizer,True
+B1_Img2,35,water,"Soil is dry and cracked, leaves have crispy edges and show w",fertilizer,False
+B1_Img2,36,fertilizer,Plant exhibits extensive yellowing with pale green areas and,fertilizer,True
+B1_Img2,37,none,no json found,fertilizer,False
+B1_Img2,38,none,no json found,fertilizer,False
+B1_Img2,39,none,no json found,fertilizer,False
+B1_Img2,40,none,no json found,fertilizer,False
+B1_Img2,41,none,no json found,fertilizer,False
+B1_Img2,42,fertilizer,Leaves display uneven yellowing in upper portions while vein,fertilizer,True
+B1_Img2,43,none,no json found,fertilizer,False
+B1_Img2,44,none,no json found,fertilizer,False
+B1_Img2,45,none,no json found,fertilizer,False
+B1_Img2,46,water,"Leaves are crispy, wilted, and soil is dry and cracked indic",fertilizer,False
+B1_Img2,47,none,no json found,fertilizer,False
+B1_Img2,48,none,no json found,fertilizer,False
+B1_Img2,49,none,no json found,fertilizer,False
+B1_Img2,50,none,no json found,fertilizer,False
+B1_Img3,1,none,"Plant leaves are vibrant green, healthy, and undamaged with ",herbicide,False
+B1_Img3,2,none,no json found,herbicide,False
+B1_Img3,3,none,no json found,herbicide,False
+B1_Img3,4,none,no json found,herbicide,False
+B1_Img3,5,none,no json found,herbicide,False
+B1_Img3,6,none,no json found,herbicide,False
+B1_Img3,7,none,no json found,herbicide,False
+B1_Img3,8,water,"Leaves are brown, crispy, wilted, and severely dehydrated; s",herbicide,False
+B1_Img3,9,none,no json found,herbicide,False
+B1_Img3,10,none,no json found,herbicide,False
+B1_Img3,11,none,no json found,herbicide,False
+B1_Img3,12,none,no json found,herbicide,False
+B1_Img3,13,none,no json found,herbicide,False
+B1_Img3,14,none,no json found,herbicide,False
+B1_Img3,15,herbicide,Multiple weed species present (white clover and broad-leaved,herbicide,True
+B1_Img3,16,none,no json found,herbicide,False
+B1_Img3,17,none,"Plant is relatively healthy with vibrant green leaves, no se",herbicide,False
+B1_Img3,18,none,no json found,herbicide,False
+B1_Img3,19,none,no json found,herbicide,False
+B1_Img3,20,none,no json found,herbicide,False
+B1_Img3,21,pesticide,Visible chewing damage with holes in leaves and cabbage worm,herbicide,False
+B1_Img3,22,none,no json found,herbicide,False
+B1_Img3,23,none,no json found,herbicide,False
+B1_Img3,24,pesticide,Visible beetle on plant with chewed holes in leaves indicati,herbicide,False
+B1_Img3,25,none,no json found,herbicide,False
+B1_Img3,26,none,no json found,herbicide,False
+B1_Img3,27,herbicide,"Multiple plant species (dandelion, grass-like weed, and radi",herbicide,True
+B1_Img3,28,none,no json found,herbicide,False
+B1_Img3,29,none,no json found,herbicide,False
+B1_Img3,30,fertilizer,Significant yellowing (chlorosis) on lower leaves indicates ,herbicide,False
+B1_Img3,31,none,no json found,herbicide,False
+B1_Img3,32,herbicide,Multiple plant species present - main Brassica seedling alon,herbicide,True
+B1_Img3,33,herbicide,Several weed species present in the background alongside the,herbicide,True
+B1_Img3,34,pesticide,Small irregular holes visible on leaves indicate insect dama,herbicide,False
+B1_Img3,35,none,no json found,herbicide,False
+B1_Img3,36,none,no json found,herbicide,False
+B1_Img3,37,none,no json found,herbicide,False
+B1_Img3,38,water,"Leaves are crispy, wilted, and curled inwards; soil is dry a",herbicide,False
+B1_Img3,39,none,no json found,herbicide,False
+B1_Img3,40,none,no json found,herbicide,False
+B1_Img3,41,none,no json found,herbicide,False
+B1_Img3,42,water,Leaves have brown crispy edges and the soil is severely dry ,herbicide,False
+B1_Img3,43,none,no json found,herbicide,False
+B1_Img3,44,none,no json found,herbicide,False
+B1_Img3,45,none,no json found,herbicide,False
+B1_Img3,46,none,The seedling is described as healthy with vibrant green leav,herbicide,False
+B1_Img3,47,water,Soil is heavily cracked and dry with crispy leaf edges indic,herbicide,False
+B1_Img3,48,none,no json found,herbicide,False
+B1_Img3,49,none,no json found,herbicide,False
+B1_Img3,50,pesticide,Visible beetles/insects (likely flea beetles) on leaves with,herbicide,False
+B1_Img4,1,pesticide,Visible black beetles (flea beetles) feeding on leaves causi,pesticide,True
+B1_Img4,2,none,no json found,pesticide,False
+B1_Img4,3,pesticide,Visible beetles/insects and extensive hole damage from insec,pesticide,True
+B1_Img4,4,none,no json found,pesticide,False
+B1_Img4,5,pesticide,Colorado potato beetles are visible and actively feeding on ,pesticide,True
+B1_Img4,6,pesticide,Black beetles (flea beetles) visible on leaves causing exten,pesticide,True
+B1_Img4,7,pesticide,The plant shows extensive pest damage with visible black bee,pesticide,True
+B1_Img4,8,pesticide,Visible flea beetles actively feeding on leaves with extensi,pesticide,True
+B1_Img4,9,none,no json found,pesticide,False
+B1_Img4,10,pesticide,Colorado potato beetles are visible on the plant and extensi,pesticide,True
+B1_Img4,11,pesticide,Visible Colorado potato beetles on the plant with extensive ,pesticide,True
+B1_Img4,12,pesticide,Flea beetles are visible on the plant and have caused extens,pesticide,True
+B1_Img4,13,none,no json found,pesticide,False
+B1_Img4,14,pesticide,Colorado potato beetles visible on plant causing extensive l,pesticide,True
+B1_Img4,15,pesticide,Visible flea beetles and extensive hole damage from insect f,pesticide,True
+B1_Img4,16,none,no json found,pesticide,False
+B1_Img4,17,pesticide,Visible beetles (flea beetles) and numerous holes in leaves ,pesticide,True
+B1_Img4,18,none,no json found,pesticide,False
+B1_Img4,19,none,no json found,pesticide,False
+B1_Img4,20,pesticide,Visible flea beetles on the plant causing extensive holes an,pesticide,True
+B1_Img4,21,pesticide,Visible black beetles on leaves and extensive irregular hole,pesticide,True
+B1_Img4,22,pesticide,Visible flea beetles and extensive chewing damage with holes,pesticide,True
+B1_Img4,23,none,no json found,pesticide,False
+B1_Img4,24,none,no json found,pesticide,False
+B1_Img4,25,none,no json found,pesticide,False
+B1_Img4,26,none,no json found,pesticide,False
+B1_Img4,27,none,no json found,pesticide,False
+B1_Img4,28,pesticide,Severe leaf beetle infestation with numerous holes visible a,pesticide,True
+B1_Img4,29,none,no json found,pesticide,False
+B1_Img4,30,none,no json found,pesticide,False
+B1_Img4,31,pesticide,Beetles (ladybugs) are visible on the plant and there are nu,pesticide,True
+B1_Img4,32,none,no json found,pesticide,False
+B1_Img4,33,pesticide,Colorado potato beetles visibly feeding on leaves with exten,pesticide,True
+B1_Img4,34,pesticide,Colorado potato beetles are visible on the leaves and there ,pesticide,True
+B1_Img4,35,none,no json found,pesticide,False
+B1_Img4,36,none,no json found,pesticide,False
+B1_Img4,37,pesticide,Visible flea beetles on leaves with extensive chewing damage,pesticide,True
+B1_Img4,38,none,no json found,pesticide,False
+B1_Img4,39,pesticide,Visible flea beetles (Phyllotreta) on leaves with extensive ,pesticide,True
+B1_Img4,40,none,no json found,pesticide,False
+B1_Img4,41,pesticide,Visible beetles (likely Japanese beetles) and extensive hole,pesticide,True
+B1_Img4,42,pesticide,Visible flea beetles on leaves with extensive hole damage fr,pesticide,True
+B1_Img4,43,pesticide,Visible flea beetles on leaves causing extensive hole damage,pesticide,True
+B1_Img4,44,pesticide,Visible flea beetles (Phyllotreta species) on leaves with ex,pesticide,True
+B1_Img4,45,pesticide,Flea beetles are visible on leaves with extensive feeding da,pesticide,True
+B1_Img4,46,pesticide,Visible flea beetles feeding on leaves with extensive chewin,pesticide,True
+B1_Img4,47,none,no json found,pesticide,False
+B1_Img4,48,none,no json found,pesticide,False
+B1_Img4,49,pesticide,Visible flea beetles and extensive hole damage from insect f,pesticide,True
+B1_Img4,50,pesticide,Colorado Potato Beetle larvae visible on leaves causing exte,pesticide,True

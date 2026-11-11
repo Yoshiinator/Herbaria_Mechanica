@@ -1,0 +1,57 @@
+{
+  "summary": "Found 1 object(s) matching 'marker' in the image.",
+  "query": "marker",
+  "detections": [
+    {
+      "id": 1,
+      "label": "marker",
+      "confidence": 0.967661440372467,
+      "bounding_box": {
+        "x_min": 677.421630859375,
+        "y_min": 308.9576416015625,
+        "x_max": 764.8346557617188,
+        "y_max": 393.19305419921875,
+        "width": 87.41302490234375,
+        "height": 84.23541259765625
+      },
+      "description": "Object 1 (marker) with 96.8% confidence",
+      "mask_area_pixels": 1854,
+      "mask_area_ratio": 0.002012
+    }
+  ],
+  "image_info": {
+    "width": 1280,
+    "height": 720,
+    "area_pixels": 921600,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.3,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 1.131,
+    "num_detections": 1
+  },
+  "file_paths": {
+    "input_image": "/mnt/MAATI-Bot_data/raw_capture/usb_capture_1781816938.jpg",
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/usb_capture_1781816938_results/result_1781816939.png",
+    "masked_segments": [],
+    "combined_masks_per_label": {},
+    "all_combined_mask": null
+  },
+  "grouped_detections": {
+    "marker": {
+      "label": "marker",
+      "count": 1,
+      "confidence_min": 0.967661440372467,
+      "confidence_max": 0.967661440372467,
+      "total_mask_area_pixels": 0,
+      "detection_ids": [
+        1
+      ],
+      "total_mask_area_ratio": 0.0
+    }
+  }
+}

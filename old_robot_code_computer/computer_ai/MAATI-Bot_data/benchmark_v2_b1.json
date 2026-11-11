@@ -1,0 +1,1213 @@
+{
+  "runs": 50,
+  "results": {
+    "B1_Img1": [
+      {
+        "treatment": "water",
+        "reason": "Leaves are brown, crispy, wilted, and soil is extremely dry ",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "water",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows severe wilting, drooping, crispy/scorched leaf e",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "water",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows severe drought stress with crispy dry leaf edges",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant shows severe drought stress: wilting, drooping lea",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant shows severe dehydration with crispy edges, wiltin",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows severe drought stress with wilted leaves, dry cr",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows severe water stress with wilting, drooping, cris",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant shows severe water stress with wilted, crispy, dro",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant exhibits severe water stress with wilting, drooping le",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "water",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "water",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant exhibits severe wilting, crispy brown leaf edges, dehy",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows severe drought stress with wilted, drooping leav",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "water",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "water",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Soil is extremely dry and cracked with deep fissures, and le",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "water",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant exhibits severe wilting, drooping, and crispy leaf edg",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "water",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant exhibits severe wilting, drooping, crispy brown leaf e",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "water",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows severe wilting, crispy leaf edges, and dry crack",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "water",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "The plant exhibits severe drought stress with wilted, droopi",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows severe water stress with wilted, crispy leaves a",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Leaves are brown, crispy, and wilted with crispy edges; soil",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows severe drought stress with wilting, drooping, cr",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "water",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Soil is extremely dry and cracked indicating severe drought,",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant exhibits severe wilting, drooping leaves, and dry crac",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows severe drought stress with wilted, drooping leav",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows severe wilting, drooping leaves, and crispy brow",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant exhibits severe drought stress with wilting, drooping,",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Leaves are severely brown, crispy, wilted, and shriveled wit",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows severe drought stress: wilted and drooping leave",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "water",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows severe wilting, crispy dry edges, and extremely ",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows classic drought stress symptoms including crispy",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows severe wilting, crispy leaf edges, and dehydrati",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Leaves are wilted, drooping, brown and crispy; soil is dry a",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows severe drought stress with wilted, crispy leaves",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "water",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Leaves are severely wilted, drooping, brown, crispy, and dry",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows severe drought stress with extremely dry/cracked",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "water",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "water",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows severe wilting, drooping, and crispy leaf edges ",
+        "expected": "water",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant exhibits classic dehydration symptoms including severe",
+        "expected": "water",
+        "correct": true
+      }
+    ],
+    "B1_Img2": [
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Soil is dry and cracked with no moisture, and leaves show br",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "Leaves show yellowing at margins with green centers, indicat",
+        "expected": "fertilizer",
+        "correct": true
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "Leaves show widespread yellowing along margins and patches, ",
+        "expected": "fertilizer",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Plant shows dehydration stress with crispy leaf edges, droop",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "Leaves show widespread yellowing (especially lower/older lea",
+        "expected": "fertilizer",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "Leaves show yellowing at edges with crispy margins and the p",
+        "expected": "fertilizer",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "herbicide",
+        "reason": "soil is overrun with multiple weed species (broadleaf weeds ",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "Primary symptom is widespread yellowing of leaves, particula",
+        "expected": "fertilizer",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "Leaves show extensive yellowing (especially at margins) with",
+        "expected": "fertilizer",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "Leaves show widespread yellowing (chlorosis), pale green col",
+        "expected": "fertilizer",
+        "correct": true
+      },
+      {
+        "treatment": "water",
+        "reason": "Soil is dry and cracked, leaves have crispy edges and show w",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "Plant exhibits extensive yellowing with pale green areas and",
+        "expected": "fertilizer",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "Leaves display uneven yellowing in upper portions while vein",
+        "expected": "fertilizer",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Leaves are crispy, wilted, and soil is dry and cracked indic",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "fertilizer",
+        "correct": false
+      }
+    ],
+    "B1_Img3": [
+      {
+        "treatment": "none",
+        "reason": "Plant leaves are vibrant green, healthy, and undamaged with ",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Leaves are brown, crispy, wilted, and severely dehydrated; s",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "herbicide",
+        "reason": "Multiple weed species present (white clover and broad-leaved",
+        "expected": "herbicide",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "Plant is relatively healthy with vibrant green leaves, no se",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible chewing damage with holes in leaves and cabbage worm",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible beetle on plant with chewed holes in leaves indicati",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "herbicide",
+        "reason": "Multiple plant species (dandelion, grass-like weed, and radi",
+        "expected": "herbicide",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "fertilizer",
+        "reason": "Significant yellowing (chlorosis) on lower leaves indicates ",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "herbicide",
+        "reason": "Multiple plant species present - main Brassica seedling alon",
+        "expected": "herbicide",
+        "correct": true
+      },
+      {
+        "treatment": "herbicide",
+        "reason": "Several weed species present in the background alongside the",
+        "expected": "herbicide",
+        "correct": true
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Small irregular holes visible on leaves indicate insect dama",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Leaves are crispy, wilted, and curled inwards; soil is dry a",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Leaves have brown crispy edges and the soil is severely dry ",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "The seedling is described as healthy with vibrant green leav",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "water",
+        "reason": "Soil is heavily cracked and dry with crispy leaf edges indic",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "herbicide",
+        "correct": false
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible beetles/insects (likely flea beetles) on leaves with",
+        "expected": "herbicide",
+        "correct": false
+      }
+    ],
+    "B1_Img4": [
+      {
+        "treatment": "pesticide",
+        "reason": "Visible black beetles (flea beetles) feeding on leaves causi",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible beetles/insects and extensive hole damage from insec",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Colorado potato beetles are visible and actively feeding on ",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Black beetles (flea beetles) visible on leaves causing exten",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "The plant shows extensive pest damage with visible black bee",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible flea beetles actively feeding on leaves with extensi",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Colorado potato beetles are visible on the plant and extensi",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible Colorado potato beetles on the plant with extensive ",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Flea beetles are visible on the plant and have caused extens",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Colorado potato beetles visible on plant causing extensive l",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible flea beetles and extensive hole damage from insect f",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible beetles (flea beetles) and numerous holes in leaves ",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible flea beetles on the plant causing extensive holes an",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible black beetles on leaves and extensive irregular hole",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible flea beetles and extensive chewing damage with holes",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Severe leaf beetle infestation with numerous holes visible a",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Beetles (ladybugs) are visible on the plant and there are nu",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Colorado potato beetles visibly feeding on leaves with exten",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Colorado potato beetles are visible on the leaves and there ",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible flea beetles on leaves with extensive chewing damage",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible flea beetles (Phyllotreta) on leaves with extensive ",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible beetles (likely Japanese beetles) and extensive hole",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible flea beetles on leaves with extensive hole damage fr",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible flea beetles on leaves causing extensive hole damage",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible flea beetles (Phyllotreta species) on leaves with ex",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Flea beetles are visible on leaves with extensive feeding da",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible flea beetles feeding on leaves with extensive chewin",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "none",
+        "reason": "no json found",
+        "expected": "pesticide",
+        "correct": false
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Visible flea beetles and extensive hole damage from insect f",
+        "expected": "pesticide",
+        "correct": true
+      },
+      {
+        "treatment": "pesticide",
+        "reason": "Colorado Potato Beetle larvae visible on leaves causing exte",
+        "expected": "pesticide",
+        "correct": true
+      }
+    ]
+  }
+}

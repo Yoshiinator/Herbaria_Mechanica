@@ -1,0 +1,864 @@
+{
+  "img_2071869f9dab.jpg": {
+    "plants": 5,
+    "results": {
+      "1": {
+        "bbox": [
+          45,
+          487,
+          412,
+          806
+        ],
+        "treatment": [
+          "herbicide"
+        ],
+        "reason": "Multiple plant species present - central crop plant surrounded by various broadleaf weeds (purslane,"
+      },
+      "2": {
+        "bbox": [
+          762,
+          518,
+          1064,
+          810
+        ],
+        "treatment": [
+          "pesticide"
+        ],
+        "reason": "Plant shows extensive chewed holes (shot-hole damage, irregular holes, skeletonization) consistent w"
+      },
+      "3": {
+        "bbox": [
+          80,
+          37,
+          346,
+          319
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "Plant is healthy with vibrant green leaves, no damage, no pests, and no weeds present"
+      },
+      "4": {
+        "bbox": [
+          802,
+          42,
+          1056,
+          312
+        ],
+        "treatment": [
+          "water",
+          "fertilizer"
+        ],
+        "reason": "Plant shows severe drought stress with crispy brown leaf edges, severe wilting/drooping, and dry soi"
+      },
+      "5": {
+        "bbox": [
+          464,
+          298,
+          707,
+          532
+        ],
+        "treatment": [
+          "water",
+          "fertilizer"
+        ],
+        "reason": "Most prominent symptom is interveinal chlorosis (yellowing between green veins) indicating nutrient "
+      }
+    }
+  },
+  "img_aecb81397a1e.jpg": {
+    "plants": 5,
+    "results": {
+      "1": {
+        "bbox": [
+          775,
+          371,
+          1125,
+          660
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "2": {
+        "bbox": [
+          198,
+          30,
+          438,
+          303
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "3": {
+        "bbox": [
+          847,
+          52,
+          1079,
+          299
+        ],
+        "treatment": [
+          "pesticide"
+        ],
+        "reason": "Leaves show extensive chewed holes and shot-hole damage characteristic of flea beetle infestation"
+      },
+      "4": {
+        "bbox": [
+          224,
+          405,
+          424,
+          611
+        ],
+        "treatment": [
+          "water",
+          "fertilizer"
+        ],
+        "reason": "Leaves show chlorosis (pale yellow-green) and purplish tint indicating nutrient deficiency (likely n"
+      },
+      "5": {
+        "bbox": [
+          537,
+          251,
+          728,
+          458
+        ],
+        "treatment": [
+          "pesticide"
+        ],
+        "reason": "Large irregular chewed holes consistent with chewing insects (caterpillars/slugs) visible across lea"
+      }
+    }
+  },
+  "img_08cbec150698.jpg": {
+    "plants": 6,
+    "results": {
+      "1": {
+        "bbox": [
+          133,
+          647,
+          418,
+          937
+        ],
+        "treatment": [
+          "herbicide"
+        ],
+        "reason": "lettuce crop is mixed with clover-like weeds - multiple clearly different plant species present requ"
+      },
+      "2": {
+        "bbox": [
+          708,
+          659,
+          938,
+          938
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "3": {
+        "bbox": [
+          175,
+          317,
+          418,
+          553
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "Plant is healthy with vibrant green leaves, no pest damage, no weeds, and no signs of wilting, yello"
+      },
+      "4": {
+        "bbox": [
+          439,
+          685,
+          669,
+          910
+        ],
+        "treatment": [
+          "pesticide"
+        ],
+        "reason": "Plant shows classic chewing damage with large irregular holes, shot-hole patterns, and skeletonized "
+      },
+      "5": {
+        "bbox": [
+          725,
+          309,
+          938,
+          547
+        ],
+        "treatment": [
+          "water",
+          "fertilizer"
+        ],
+        "reason": "Plant shows severe wilting, crispy leaf tips, marginal necrosis, and dry soil (water needed), combin"
+      },
+      "6": {
+        "bbox": [
+          466,
+          322,
+          652,
+          548
+        ],
+        "treatment": [
+          "water"
+        ],
+        "reason": "Plant shows severe water stress with crispy brown necrotic leaf edges, wilting/drooping, and dry cra"
+      }
+    }
+  },
+  "img_8d19c7d050a2.jpg": {
+    "plants": 6,
+    "results": {
+      "1": {
+        "bbox": [
+          140,
+          583,
+          405,
+          908
+        ],
+        "treatment": [
+          "herbicide"
+        ],
+        "reason": "Multiple weed species present (clover and grass weeds mixed with main crop), requiring weed control"
+      },
+      "2": {
+        "bbox": [
+          146,
+          218,
+          351,
+          442
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "3": {
+        "bbox": [
+          641,
+          215,
+          837,
+          436
+        ],
+        "treatment": [
+          "water",
+          "fertilizer"
+        ],
+        "reason": "Plant shows both water stress (crispy dried edges, wilting, drooping, cracked dry soil) and nutrient"
+      },
+      "4": {
+        "bbox": [
+          724,
+          522,
+          930,
+          722
+        ],
+        "treatment": [
+          "water",
+          "fertilizer"
+        ],
+        "reason": "Leaves show brown crispy margins (marginal necrosis) and dry soil indicates water stress, while chlo"
+      },
+      "5": {
+        "bbox": [
+          385,
+          414,
+          557,
+          609
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "6": {
+        "bbox": [
+          433,
+          719,
+          601,
+          901
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      }
+    }
+  },
+  "img_32fecf92b906.jpg": {
+    "plants": 6,
+    "results": {
+      "1": {
+        "bbox": [
+          678,
+          462,
+          1091,
+          800
+        ],
+        "treatment": [
+          "herbicide"
+        ],
+        "reason": "different plant species present - central brassica crop surrounded by broadleaf weeds (different spe"
+      },
+      "2": {
+        "bbox": [
+          228,
+          873,
+          509,
+          1187
+        ],
+        "treatment": [
+          "pesticide"
+        ],
+        "reason": "Chewed holes (shot-hole and large irregular holes) with visible insects (flea beetles and caterpilla"
+      },
+      "3": {
+        "bbox": [
+          235,
+          106,
+          515,
+          400
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "Plant is healthy with vibrant green leaves, no pest damage, no weeds, and no signs of nutrient or wa"
+      },
+      "4": {
+        "bbox": [
+          227,
+          475,
+          496,
+          754
+        ],
+        "treatment": [
+          "pesticide"
+        ],
+        "reason": "Plant shows characteristic shot-hole damage and chewing damage from pest infestation (likely flea be"
+      },
+      "5": {
+        "bbox": [
+          757,
+          891,
+          1027,
+          1168
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "6": {
+        "bbox": [
+          787,
+          130,
+          1015,
+          378
+        ],
+        "treatment": [
+          "water",
+          "fertilizer"
+        ],
+        "reason": "Crispy brown necrotic leaf margins and wilting from dry soil indicate water stress, while pale yello"
+      }
+    }
+  },
+  "img_611ac2bca3a0.jpg": {
+    "plants": 6,
+    "results": {
+      "1": {
+        "bbox": [
+          32,
+          694,
+          405,
+          1122
+        ],
+        "treatment": [
+          "herbicide"
+        ],
+        "reason": "Two distinct plant species mixed together - central crop plant surrounded by broadleaf weed infestat"
+      },
+      "2": {
+        "bbox": [
+          81,
+          186,
+          388,
+          526
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "Plant is healthy with vibrant green leaves, no pest damage, no weeds, and no signs of disease or nut"
+      },
+      "3": {
+        "bbox": [
+          517,
+          762,
+          792,
+          1040
+        ],
+        "treatment": [
+          "pesticide"
+        ],
+        "reason": "Severe chewed holes and pest damage throughout leaves, with damage pattern consistent with flea beet"
+      },
+      "4": {
+        "bbox": [
+          512,
+          204,
+          768,
+          482
+        ],
+        "treatment": [
+          "water",
+          "fertilizer"
+        ],
+        "reason": "Severe wilting and crispy brown edges indicate water stress as primary issue; yellowing chlorosis su"
+      },
+      "5": {
+        "bbox": [
+          916,
+          210,
+          1184,
+          455
+        ],
+        "treatment": [
+          "fertilizer"
+        ],
+        "reason": "Plant shows severe chlorosis with yellowing, pale green leaves, and interveinal yellowing on most ou"
+      },
+      "6": {
+        "bbox": [
+          954,
+          774,
+          1150,
+          1020
+        ],
+        "treatment": [
+          "water",
+          "fertilizer"
+        ],
+        "reason": "prominent yellowing and interveinal chlorosis indicating nutrient deficiency, combined with dry soil"
+      }
+    }
+  },
+  "img_e6af07aa7945.jpg": {
+    "plants": 6,
+    "results": {
+      "1": {
+        "bbox": [
+          61,
+          355,
+          381,
+          673
+        ],
+        "treatment": [
+          "herbicide"
+        ],
+        "reason": "Multiple distinct plant species present - main crop mixed with grass-type and broadleaf weeds"
+      },
+      "2": {
+        "bbox": [
+          73,
+          33,
+          337,
+          317
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "Plant is healthy, vibrant green, turgid leaves, no pest damage, no weeds, and no disease signs detec"
+      },
+      "3": {
+        "bbox": [
+          962,
+          395,
+          1201,
+          640
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "4": {
+        "bbox": [
+          518,
+          93,
+          745,
+          311
+        ],
+        "treatment": [
+          "water",
+          "fertilizer"
+        ],
+        "reason": "Leaves are pale and dull green indicating early nitrogen deficiency; soil is also dry"
+      },
+      "5": {
+        "bbox": [
+          530,
+          405,
+          753,
+          615
+        ],
+        "treatment": [
+          "pesticide"
+        ],
+        "reason": "Severe chewing damage with multiple hole types (small round holes, irregular holes, shot-hole appear"
+      },
+      "6": {
+        "bbox": [
+          979,
+          79,
+          1173,
+          271
+        ],
+        "treatment": [
+          "fertilizer"
+        ],
+        "reason": "Leaves show pale/yellowish new growth and purple discoloration indicating phosphorus deficiency; no "
+      }
+    }
+  },
+  "img_91e73a12ac22.jpg": {
+    "plants": 5,
+    "results": {
+      "1": {
+        "bbox": [
+          798,
+          368,
+          1241,
+          684
+        ],
+        "treatment": [
+          "herbicide"
+        ],
+        "reason": "broadleaf weed (lamb's quarters) growing adjacent to maize crop - multiple plant species present req"
+      },
+      "2": {
+        "bbox": [
+          33,
+          346,
+          426,
+          697
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "Plant is healthy with vibrant green color, no pest damage, no insects visible, no weeds, and leaves "
+      },
+      "3": {
+        "bbox": [
+          370,
+          136,
+          768,
+          459
+        ],
+        "treatment": [
+          "pesticide"
+        ],
+        "reason": "Chewed holes and insect feeding damage present - shot-hole, skeletonized tissue, and irregular holes"
+      },
+      "4": {
+        "bbox": [
+          65,
+          0,
+          428,
+          296
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "5": {
+        "bbox": [
+          880,
+          43,
+          1117,
+          291
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      }
+    }
+  },
+  "img_0cf6b748978f.jpg": {
+    "plants": 6,
+    "results": {
+      "1": {
+        "bbox": [
+          846,
+          331,
+          1214,
+          686
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "2": {
+        "bbox": [
+          52,
+          39,
+          385,
+          341
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "3": {
+        "bbox": [
+          78,
+          359,
+          359,
+          680
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "4": {
+        "bbox": [
+          902,
+          25,
+          1185,
+          321
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "5": {
+        "bbox": [
+          518,
+          392,
+          742,
+          621
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "6": {
+        "bbox": [
+          533,
+          98,
+          747,
+          300
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      }
+    }
+  },
+  "img_a80132926d21.jpg": {
+    "plants": 5,
+    "results": {
+      "1": {
+        "bbox": [
+          663,
+          470,
+          1094,
+          836
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "2": {
+        "bbox": [
+          81,
+          38,
+          432,
+          359
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "3": {
+        "bbox": [
+          81,
+          517,
+          356,
+          750
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "4": {
+        "bbox": [
+          467,
+          292,
+          687,
+          555
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "5": {
+        "bbox": [
+          734,
+          55,
+          967,
+          265
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      }
+    }
+  },
+  "img_f50340cb3d02.jpg": {
+    "plants": 5,
+    "results": {
+      "1": {
+        "bbox": [
+          710,
+          495,
+          1077,
+          822
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "2": {
+        "bbox": [
+          413,
+          280,
+          752,
+          574
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "3": {
+        "bbox": [
+          50,
+          46,
+          345,
+          327
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "4": {
+        "bbox": [
+          789,
+          48,
+          1074,
+          322
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "5": {
+        "bbox": [
+          113,
+          534,
+          366,
+          788
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      }
+    }
+  },
+  "img_5223072a5f85.jpg": {
+    "plants": 5,
+    "results": {
+      "1": {
+        "bbox": [
+          90,
+          431,
+          436,
+          760
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "2": {
+        "bbox": [
+          59,
+          42,
+          358,
+          330
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "3": {
+        "bbox": [
+          677,
+          465,
+          995,
+          727
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "4": {
+        "bbox": [
+          484,
+          62,
+          746,
+          334
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      },
+      "5": {
+        "bbox": [
+          863,
+          107,
+          1082,
+          342
+        ],
+        "treatment": [
+          "none"
+        ],
+        "reason": "no json found"
+      }
+    }
+  }
+}

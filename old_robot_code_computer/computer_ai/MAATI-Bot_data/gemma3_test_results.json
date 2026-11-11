@@ -1,0 +1,189 @@
+{
+  "results": {
+    "img_610e2bc3a2e9.jpg": [
+      {
+        "run": 1,
+        "treatment": [
+          "pesticide"
+        ],
+        "reason": "small black beetles visible on leaves...",
+        "time_s": 19.0
+      },
+      {
+        "run": 2,
+        "treatment": [
+          "pesticide"
+        ],
+        "reason": "small black beetles visible on leaves...",
+        "time_s": 21.8
+      },
+      {
+        "run": 3,
+        "treatment": [
+          "pesticide"
+        ],
+        "reason": "small black beetles visible on leaves...",
+        "time_s": 21.4
+      },
+      {
+        "run": 4,
+        "treatment": [
+          "pesticide"
+        ],
+        "reason": "small black beetles visible on leaves...",
+        "time_s": 16.9
+      },
+      {
+        "run": 5,
+        "treatment": [
+          "pesticide"
+        ],
+        "reason": "small black beetles visible on leaves...",
+        "time_s": 18.9
+      }
+    ],
+    "img_08ee68572fb8.jpg": [
+      {
+        "run": 1,
+        "treatment": [
+          "herbicide"
+        ],
+        "reason": "multiple plant species...",
+        "time_s": 27.0
+      },
+      {
+        "run": 2,
+        "treatment": [
+          "herbicide"
+        ],
+        "reason": "multiple plant species...",
+        "time_s": 30.2
+      },
+      {
+        "run": 3,
+        "treatment": [
+          "herbicide"
+        ],
+        "reason": "multiple plant species...",
+        "time_s": 30.9
+      },
+      {
+        "run": 4,
+        "treatment": [
+          "none"
+        ],
+        "reason": "",
+        "time_s": 28.5
+      },
+      {
+        "run": 5,
+        "treatment": [
+          "none"
+        ],
+        "reason": "",
+        "time_s": 30.6
+      }
+    ],
+    "img_4dd58897d9e9.jpg": [
+      {
+        "run": 1,
+        "treatment": [
+          "fertilizer"
+        ],
+        "reason": "yellowing leaves...",
+        "time_s": 28.0
+      },
+      {
+        "run": 2,
+        "treatment": [
+          "herbicide"
+        ],
+        "reason": "",
+        "time_s": 32.8
+      },
+      {
+        "run": 3,
+        "treatment": [
+          "fertilizer"
+        ],
+        "reason": "yellowing leaves...",
+        "time_s": 25.0
+      },
+      {
+        "run": 4,
+        "treatment": [
+          "fertilizer"
+        ],
+        "reason": "yellowing leaves...",
+        "time_s": 28.8
+      },
+      {
+        "run": 5,
+        "treatment": [
+          "fertilizer"
+        ],
+        "reason": "yellowing leaves...",
+        "time_s": 28.6
+      }
+    ],
+    "img_fb6981f4c3c0.jpg": [
+      {
+        "run": 1,
+        "treatment": [
+          "herbicide"
+        ],
+        "reason": "",
+        "time_s": 27.8
+      },
+      {
+        "run": 2,
+        "treatment": [
+          "water"
+        ],
+        "reason": "drooping/wilted...",
+        "time_s": 29.6
+      },
+      {
+        "run": 3,
+        "treatment": [
+          "water"
+        ],
+        "reason": "drooping/wilted...",
+        "time_s": 29.8
+      },
+      {
+        "run": 4,
+        "treatment": [
+          "water"
+        ],
+        "reason": "drooping/wilted...",
+        "time_s": 25.9
+      },
+      {
+        "run": 5,
+        "treatment": [
+          "water"
+        ],
+        "reason": "drooping/wilted...",
+        "time_s": 24.0
+      }
+    ]
+  },
+  "expected": {
+    "img_610e2bc3a2e9.jpg": [
+      "pesticide"
+    ],
+    "img_08ee68572fb8.jpg": [
+      "herbicide"
+    ],
+    "img_4dd58897d9e9.jpg": [
+      "fertilizer"
+    ],
+    "img_fb6981f4c3c0.jpg": [
+      "water"
+    ]
+  },
+  "model": "gemma3:latest",
+  "prompt": "generic open-ended",
+  "runs": 5
+}

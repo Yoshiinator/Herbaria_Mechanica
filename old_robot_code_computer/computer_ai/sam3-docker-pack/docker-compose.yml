@@ -1,0 +1,22 @@
+services:
+  sam3-gpu:
+    build:
+      context: .
+      dockerfile: Dockerfile.cuda
+    image: sam3fastapidocker-sam3-gpu:latest
+    container_name: sam3-fastapi-gpu
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+      - DEVICE=cuda
+      - HF_TOKEN=${HF_TOKEN}
+      - HF_HOME=/models/huggingface
+      - RESULT_STORAGE_PATH=/mnt/MAATI-Bot_data
+    volumes:
+      - /home/pairaiworkstation/MAATI-Bot_data:/mnt/MAATI-Bot_data
+      - ./models:/models:rw
+    ports:
+      - "8222:8000"
+    restart: unless-stopped
+

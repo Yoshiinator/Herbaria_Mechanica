@@ -1,0 +1,148 @@
+{
+  "measurements": [
+    {
+      "move": "x+10",
+      "axis": "x",
+      "distance": 10,
+      "marker_pos": {
+        "x": 1424.5,
+        "y": 1538.75
+      },
+      "pixel_delta": 374.25,
+      "pixels_per_cm": 37.425,
+      "success": true
+    },
+    {
+      "move": "y+10",
+      "axis": "y",
+      "distance": 10,
+      "marker_pos": {
+        "x": 1443.75,
+        "y": 1167.75
+      },
+      "pixel_delta": 371.0,
+      "pixels_per_cm": 37.1,
+      "success": true
+    },
+    {
+      "move": "x-10",
+      "axis": "x",
+      "distance": -10,
+      "marker_pos": {
+        "x": 1082.0,
+        "y": 1158.25
+      },
+      "pixel_delta": 361.75,
+      "pixels_per_cm": 36.175,
+      "success": true
+    },
+    {
+      "move": "y-10",
+      "axis": "y",
+      "distance": -10,
+      "marker_pos": {
+        "x": 1054.25,
+        "y": 1526.0
+      },
+      "pixel_delta": 367.75,
+      "pixels_per_cm": 36.775,
+      "success": true
+    },
+    {
+      "move": "x+20",
+      "axis": "x",
+      "distance": 20,
+      "marker_pos": {
+        "x": 1825.5,
+        "y": 1556.0
+      },
+      "pixel_delta": 771.25,
+      "pixels_per_cm": 38.5625,
+      "success": true
+    },
+    {
+      "move": "y+20",
+      "success": false
+    },
+    {
+      "move": "y-20",
+      "axis": "y",
+      "distance": -20,
+      "marker_pos": {
+        "x": 1826.5,
+        "y": 1554.0
+      },
+      "pixel_delta": 2.0,
+      "pixels_per_cm": 0.1,
+      "success": true
+    },
+    {
+      "move": "x-20",
+      "axis": "x",
+      "distance": -20,
+      "marker_pos": {
+        "x": 1060.75,
+        "y": 1526.0
+      },
+      "pixel_delta": 765.75,
+      "pixels_per_cm": 38.2875,
+      "success": true
+    },
+    {
+      "move": "x+30",
+      "axis": "x",
+      "distance": 30,
+      "marker_pos": {
+        "x": 2222.5,
+        "y": 1566.0
+      },
+      "pixel_delta": 1161.75,
+      "pixels_per_cm": 38.725,
+      "success": true
+    },
+    {
+      "move": "y+30",
+      "success": false
+    },
+    {
+      "move": "y-30",
+      "axis": "y",
+      "distance": -30,
+      "marker_pos": {
+        "x": 2223.5,
+        "y": 1564.0
+      },
+      "pixel_delta": 2.0,
+      "pixels_per_cm": 0.06666666666666667,
+      "success": true
+    },
+    {
+      "move": "x-30",
+      "axis": "x",
+      "distance": -30,
+      "marker_pos": {
+        "x": 1067.0,
+        "y": 1526.75
+      },
+      "pixel_delta": 1156.5,
+      "pixels_per_cm": 38.55,
+      "success": true
+    }
+  ],
+  "timestamp": 1779072817,
+  "marker_id": 0,
+  "camera_index": 0,
+  "home": {
+    "x": 1050.25,
+    "y": 1523.75,
+    "gantry": [
+      0,
+      0,
+      0
+    ]
+  },
+  "x_pixels_per_cm_avg": 38.237500000000004,
+  "y_pixels_per_cm_avg": 37.1,
+  "x_measurements": 3,
+  "y_measurements": 1
+}

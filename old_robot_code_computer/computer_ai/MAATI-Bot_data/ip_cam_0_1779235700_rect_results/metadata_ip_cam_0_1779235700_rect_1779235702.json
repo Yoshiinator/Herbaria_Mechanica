@@ -1,0 +1,91 @@
+{
+  "summary": "Found 3 object(s) matching 'leaf' in the image.",
+  "query": "leaf",
+  "detections": [
+    {
+      "id": 1,
+      "label": "leaf",
+      "confidence": 0.9264479875564575,
+      "bounding_box": {
+        "x_min": 1301.8218994140625,
+        "y_min": 817.3333129882812,
+        "x_max": 1380.3739013671875,
+        "y_max": 890.2348022460938,
+        "width": 78.552001953125,
+        "height": 72.9014892578125
+      },
+      "description": "Object 1 (leaf) with 92.6% confidence",
+      "mask_area_pixels": 4153,
+      "mask_area_ratio": 0.000519
+    },
+    {
+      "id": 2,
+      "label": "leaf",
+      "confidence": 0.9229750633239746,
+      "bounding_box": {
+        "x_min": 1376.7283935546875,
+        "y_min": 848.7027587890625,
+        "x_max": 1460.3370361328125,
+        "y_max": 903.2742919921875,
+        "width": 83.608642578125,
+        "height": 54.571533203125
+      },
+      "description": "Object 2 (leaf) with 92.3% confidence",
+      "mask_area_pixels": 3324,
+      "mask_area_ratio": 0.000416
+    },
+    {
+      "id": 3,
+      "label": "leaf",
+      "confidence": 0.9253350496292114,
+      "bounding_box": {
+        "x_min": 1367.190185546875,
+        "y_min": 780.487060546875,
+        "x_max": 1435.5765380859375,
+        "y_max": 859.5254516601562,
+        "width": 68.3863525390625,
+        "height": 79.03839111328125
+      },
+      "description": "Object 3 (leaf) with 92.5% confidence",
+      "mask_area_pixels": 3917,
+      "mask_area_ratio": 0.00049
+    }
+  ],
+  "image_info": {
+    "width": 4000,
+    "height": 2000,
+    "area_pixels": 8000000,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.3,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 1.906,
+    "num_detections": 3
+  },
+  "file_paths": {
+    "input_image": "/mnt/MAATI-Bot_data/raw_capture/ip_cam_0_1779235700_rect.jpg",
+    "overlay_image": "/mnt/MAATI-Bot_data/ip_cam_0_1779235700_rect_results/result_1779235702.png",
+    "masked_segments": [],
+    "combined_masks_per_label": {},
+    "all_combined_mask": null
+  },
+  "grouped_detections": {
+    "leaf": {
+      "label": "leaf",
+      "count": 3,
+      "confidence_min": 0.9229750633239746,
+      "confidence_max": 0.9264479875564575,
+      "total_mask_area_pixels": 11394,
+      "detection_ids": [
+        1,
+        2,
+        3
+      ],
+      "total_mask_area_ratio": 0.14
+    }
+  }
+}

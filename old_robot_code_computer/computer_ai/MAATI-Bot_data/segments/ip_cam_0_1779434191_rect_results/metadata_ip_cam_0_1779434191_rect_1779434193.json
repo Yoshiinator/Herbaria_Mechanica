@@ -1,0 +1,74 @@
+{
+  "summary": "Found 2 object(s) matching 'plant' in the image.",
+  "query": "plant",
+  "detections": [
+    {
+      "id": 1,
+      "label": "plant",
+      "confidence": 0.4378977417945862,
+      "bounding_box": {
+        "x_min": 2738.33544921875,
+        "y_min": 1188.7821044921875,
+        "x_max": 2924.762451171875,
+        "y_max": 1403.7093505859375,
+        "width": 186.427001953125,
+        "height": 214.92724609375
+      },
+      "description": "Object 1 (plant) with 43.8% confidence",
+      "mask_area_pixels": 27499,
+      "mask_area_ratio": 0.003437
+    },
+    {
+      "id": 2,
+      "label": "plant",
+      "confidence": 0.45722922682762146,
+      "bounding_box": {
+        "x_min": 2766.696533203125,
+        "y_min": 1229.3189697265625,
+        "x_max": 2922.951171875,
+        "y_max": 1374.0220947265625,
+        "width": 156.254638671875,
+        "height": 144.703125
+      },
+      "description": "Object 2 (plant) with 45.7% confidence",
+      "mask_area_pixels": 14391,
+      "mask_area_ratio": 0.001799
+    }
+  ],
+  "image_info": {
+    "width": 4000,
+    "height": 2000,
+    "area_pixels": 8000000,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.3,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 1.813,
+    "num_detections": 2
+  },
+  "file_paths": {
+    "input_image": "/mnt/MAATI-Bot_data/raw_capture/ip_cam_0_1779434191_rect.jpg",
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/ip_cam_0_1779434191_rect_results/result_1779434193.png",
+    "masked_segments": [],
+    "combined_masks_per_label": {},
+    "all_combined_mask": null
+  },
+  "grouped_detections": {
+    "plant": {
+      "label": "plant",
+      "count": 2,
+      "confidence_min": 0.4378977417945862,
+      "confidence_max": 0.45722922682762146,
+      "total_mask_area_pixels": 41890,
+      "detection_ids": [
+        1,
+        2
+      ],
+      "total_mask_area_ratio": 0.52
+    }
+  }
+}

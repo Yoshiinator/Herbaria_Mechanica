@@ -1,0 +1,74 @@
+{
+  "summary": "Found 2 object(s) matching 'marker' in the image.",
+  "query": "marker",
+  "detections": [
+    {
+      "id": 1,
+      "label": "marker",
+      "confidence": 0.33833688497543335,
+      "bounding_box": {
+        "x_min": 374.8192443847656,
+        "y_min": 1442.0615234375,
+        "x_max": 590.1685791015625,
+        "y_max": 1593.23486328125,
+        "width": 215.34933471679688,
+        "height": 151.17333984375
+      },
+      "description": "Object 1 (marker) with 33.8% confidence",
+      "mask_area_pixels": 9232,
+      "mask_area_ratio": 0.001154
+    },
+    {
+      "id": 2,
+      "label": "marker",
+      "confidence": 0.9123710989952087,
+      "bounding_box": {
+        "x_min": 1862.5152587890625,
+        "y_min": 707.5061645507812,
+        "x_max": 2124.524169921875,
+        "y_max": 1058.6619873046875,
+        "width": 262.0089111328125,
+        "height": 351.15582275390625
+      },
+      "description": "Object 2 (marker) with 91.2% confidence",
+      "mask_area_pixels": 25558,
+      "mask_area_ratio": 0.003195
+    }
+  ],
+  "image_info": {
+    "width": 4000,
+    "height": 2000,
+    "area_pixels": 8000000,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.3,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 1.611,
+    "num_detections": 2
+  },
+  "file_paths": {
+    "input_image": "/mnt/MAATI-Bot_data/raw_capture/ip_cam_0_1781728912_rect.jpg",
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/ip_cam_0_1781728912_rect_results/result_1781728914.png",
+    "masked_segments": [],
+    "combined_masks_per_label": {},
+    "all_combined_mask": null
+  },
+  "grouped_detections": {
+    "marker": {
+      "label": "marker",
+      "count": 2,
+      "confidence_min": 0.33833688497543335,
+      "confidence_max": 0.9123710989952087,
+      "total_mask_area_pixels": 34790,
+      "detection_ids": [
+        1,
+        2
+      ],
+      "total_mask_area_ratio": 0.43
+    }
+  }
+}

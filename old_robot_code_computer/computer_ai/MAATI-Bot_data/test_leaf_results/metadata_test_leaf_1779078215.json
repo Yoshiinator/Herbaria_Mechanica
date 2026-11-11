@@ -1,0 +1,57 @@
+{
+  "summary": "Found 1 object(s) matching 'leaf,plant' in the image.",
+  "query": "leaf,plant",
+  "detections": [
+    {
+      "id": 1,
+      "label": "leaf",
+      "confidence": 0.09734942018985748,
+      "bounding_box": {
+        "x_min": 2262.976806640625,
+        "y_min": 1590.64697265625,
+        "x_max": 2333.26611328125,
+        "y_max": 1657.573974609375,
+        "width": 70.289306640625,
+        "height": 66.927001953125
+      },
+      "description": "Object 1 (leaf) with 9.7% confidence",
+      "mask_area_pixels": 3617,
+      "mask_area_ratio": 0.000436
+    }
+  ],
+  "image_info": {
+    "width": 3840,
+    "height": 2160,
+    "area_pixels": 8294400,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.5,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 2.12,
+    "num_detections": 1
+  },
+  "file_paths": {
+    "input_image": "/mnt/MAATI-Bot_data/raw_capture/test_leaf.jpg",
+    "overlay_image": "/mnt/MAATI-Bot_data/test_leaf_results/result_1779078215.png",
+    "masked_segments": [],
+    "combined_masks_per_label": {},
+    "all_combined_mask": null
+  },
+  "grouped_detections": {
+    "leaf": {
+      "label": "leaf",
+      "count": 1,
+      "confidence_min": 0.09734942018985748,
+      "confidence_max": 0.09734942018985748,
+      "total_mask_area_pixels": 0,
+      "detection_ids": [
+        1
+      ],
+      "total_mask_area_ratio": 0.0
+    }
+  }
+}

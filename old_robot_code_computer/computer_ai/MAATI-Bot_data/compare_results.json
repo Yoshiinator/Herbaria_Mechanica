@@ -1,0 +1,76 @@
+{
+  "minimax": {
+    "1": {
+      "treatment": [
+        "herbicide"
+      ],
+      "reason": "Multiple plant species present - central crop plant mixed with clover-type weeds and grass weeds com"
+    },
+    "2": {
+      "treatment": "none",
+      "reason": "no json found"
+    },
+    "3": {
+      "treatment": "none",
+      "reason": "no json found"
+    },
+    "4": {
+      "treatment": [
+        "pesticide"
+      ],
+      "reason": "Leaves have extensive chewed holes and shot-hole damage from caterpillar/insect feeding - pesticide "
+    },
+    "5": {
+      "treatment": [
+        "water",
+        "fertilizer"
+      ],
+      "reason": "Plant shows both water stress (brown crispy leaves, severe wilting/drooping, dry soil) and nutrient "
+    },
+    "6": {
+      "treatment": [
+        "water",
+        "fertilizer"
+      ],
+      "reason": "Plant shows severe wilting and crispy/burned leaf edges from drought stress (prominent), combined wi"
+    }
+  },
+  "ollama": {
+    "1": {
+      "treatment": [
+        "none"
+      ],
+      "reason": "no json found"
+    },
+    "2": {
+      "treatment": [
+        "herbicide"
+      ],
+      "reason": "Multiple different plant species present - crop mixed with clover and grass/weeds competing for reso"
+    },
+    "3": {
+      "treatment": [
+        "herbicide"
+      ],
+      "reason": "Mixed species present - tomato crop with broadleaf weeds growing amongst the plants"
+    },
+    "4": {
+      "treatment": [
+        "herbicide"
+      ],
+      "reason": "Multiple weed species (grasses and broadleaf weeds) are mixed with the tomato crop, competing for re"
+    },
+    "5": {
+      "treatment": [
+        "water"
+      ],
+      "reason": "Severe water stress evident from dry cracked soil, wilting leaves, leaf curling, and slight crisping"
+    },
+    "6": {
+      "treatment": [
+        "herbicide"
+      ],
+      "reason": "Multiple weed species present (clover, grass, wildflowers) mixed with main crop"
+    }
+  }
+}

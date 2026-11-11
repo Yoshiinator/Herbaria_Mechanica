@@ -1,0 +1,26 @@
+{
+  "summary": "Found 0 object(s) matching 'a' in the image.",
+  "query": "a",
+  "detections": [],
+  "image_info": {
+    "width": 960,
+    "height": 1280,
+    "area_pixels": 1228800,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.01,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 0.848,
+    "num_detections": 0
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1782348133.png",
+    "masked_segments": []
+  },
+  "message": "No objects matching 'a' were found above the confidence threshold (0.01)."
+}

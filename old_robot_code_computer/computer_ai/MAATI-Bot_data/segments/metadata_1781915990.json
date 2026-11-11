@@ -1,0 +1,74 @@
+{
+  "summary": "Found 3 object(s) matching 'plant' in the image.",
+  "query": "plant",
+  "detections": [
+    {
+      "id": 1,
+      "label": "plant",
+      "confidence": 0.5709834694862366,
+      "bounding_box": {
+        "x_min": 645.3084716796875,
+        "y_min": 447.1359558105469,
+        "x_max": 707.307373046875,
+        "y_max": 506.78692626953125,
+        "width": 61.9989013671875,
+        "height": 59.650970458984375
+      },
+      "description": "Object 1 (plant) with 57.1% confidence",
+      "mask_area_pixels": 1450,
+      "mask_area_ratio": 0.001573
+    },
+    {
+      "id": 2,
+      "label": "plant",
+      "confidence": 0.4226241111755371,
+      "bounding_box": {
+        "x_min": 641.2747192382812,
+        "y_min": 433.7047119140625,
+        "x_max": 760.492431640625,
+        "y_max": 523.9363403320312,
+        "width": 119.21771240234375,
+        "height": 90.23162841796875
+      },
+      "description": "Object 2 (plant) with 42.3% confidence",
+      "mask_area_pixels": 9106,
+      "mask_area_ratio": 0.009881
+    },
+    {
+      "id": 3,
+      "label": "plant",
+      "confidence": 0.6844111084938049,
+      "bounding_box": {
+        "x_min": 685.8890380859375,
+        "y_min": 200.3937530517578,
+        "x_max": 811.264404296875,
+        "y_max": 285.4409484863281,
+        "width": 125.3753662109375,
+        "height": 85.04719543457031
+      },
+      "description": "Object 3 (plant) with 68.4% confidence",
+      "mask_area_pixels": 9159,
+      "mask_area_ratio": 0.009938
+    }
+  ],
+  "image_info": {
+    "width": 1280,
+    "height": 720,
+    "area_pixels": 921600,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.4,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 1.093,
+    "num_detections": 3
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1781915990.png",
+    "masked_segments": []
+  }
+}

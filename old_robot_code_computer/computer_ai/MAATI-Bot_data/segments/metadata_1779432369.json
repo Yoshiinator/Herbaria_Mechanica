@@ -1,0 +1,42 @@
+{
+  "summary": "Found 1 object(s) matching 'plug' in the image.",
+  "query": "plug",
+  "detections": [
+    {
+      "id": 1,
+      "label": "plug",
+      "confidence": 0.10219204425811768,
+      "bounding_box": {
+        "x_min": 393.02099609375,
+        "y_min": 218.7935333251953,
+        "x_max": 416.3393859863281,
+        "y_max": 265.2799377441406,
+        "width": 23.318389892578125,
+        "height": 46.48640441894531
+      },
+      "description": "Object 1 (plug) with 10.2% confidence",
+      "mask_area_pixels": 504,
+      "mask_area_ratio": 0.00105
+    }
+  ],
+  "image_info": {
+    "width": 800,
+    "height": 600,
+    "area_pixels": 480000,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.1,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 0.927,
+    "num_detections": 1
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1779432369.png",
+    "masked_segments": []
+  }
+}

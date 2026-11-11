@@ -1,0 +1,3194 @@
+{
+  "summary": "Found 198 object(s) matching 'seedling' in the image.",
+  "query": "seedling",
+  "detections": [
+    {
+      "id": 1,
+      "label": "seedling",
+      "confidence": 0.020879460498690605,
+      "bounding_box": {
+        "x_min": 2.3277230262756348,
+        "y_min": 1245.72705078125,
+        "x_max": 56.59918212890625,
+        "y_max": 1280.9644775390625,
+        "width": 54.27145767211914,
+        "height": 35.2374267578125
+      },
+      "description": "Object 1 (seedling) with 2.1% confidence",
+      "mask_area_pixels": 1755,
+      "mask_area_ratio": 0.001428
+    },
+    {
+      "id": 2,
+      "label": "seedling",
+      "confidence": 0.06714379042387009,
+      "bounding_box": {
+        "x_min": 17.13003158569336,
+        "y_min": 669.81884765625,
+        "x_max": 931.1205444335938,
+        "y_max": 1250.485107421875,
+        "width": 913.9905395507812,
+        "height": 580.666259765625
+      },
+      "description": "Object 2 (seedling) with 6.7% confidence",
+      "mask_area_pixels": 40553,
+      "mask_area_ratio": 0.033002
+    },
+    {
+      "id": 3,
+      "label": "seedling",
+      "confidence": 0.6918964385986328,
+      "bounding_box": {
+        "x_min": 777.8231201171875,
+        "y_min": 241.1622314453125,
+        "x_max": 942.83740234375,
+        "y_max": 423.9269714355469,
+        "width": 165.0142822265625,
+        "height": 182.76473999023438
+      },
+      "description": "Object 3 (seedling) with 69.2% confidence",
+      "mask_area_pixels": 12556,
+      "mask_area_ratio": 0.010218
+    },
+    {
+      "id": 4,
+      "label": "seedling",
+      "confidence": 0.023958610370755196,
+      "bounding_box": {
+        "x_min": 239.36717224121094,
+        "y_min": 919.1415405273438,
+        "x_max": 771.8975830078125,
+        "y_max": 1248.2666015625,
+        "width": 532.5303955078125,
+        "height": 329.12506103515625
+      },
+      "description": "Object 4 (seedling) with 2.4% confidence",
+      "mask_area_pixels": 0,
+      "mask_area_ratio": 0.0
+    },
+    {
+      "id": 5,
+      "label": "seedling",
+      "confidence": 0.04337300732731819,
+      "bounding_box": {
+        "x_min": 325.6908874511719,
+        "y_min": -11.253719329833984,
+        "x_max": 768.0181884765625,
+        "y_max": 577.5745239257812,
+        "width": 442.3273010253906,
+        "height": 588.8282470703125
+      },
+      "description": "Object 5 (seedling) with 4.3% confidence",
+      "mask_area_pixels": 4359,
+      "mask_area_ratio": 0.003547
+    },
+    {
+      "id": 6,
+      "label": "seedling",
+      "confidence": 0.05124538764357567,
+      "bounding_box": {
+        "x_min": 313.3276672363281,
+        "y_min": 867.8479614257812,
+        "x_max": 686.266845703125,
+        "y_max": 943.7201538085938,
+        "width": 372.9391784667969,
+        "height": 75.8721923828125
+      },
+      "description": "Object 6 (seedling) with 5.1% confidence",
+      "mask_area_pixels": 14323,
+      "mask_area_ratio": 0.011656
+    },
+    {
+      "id": 7,
+      "label": "seedling",
+      "confidence": 0.03510937839746475,
+      "bounding_box": {
+        "x_min": 275.50018310546875,
+        "y_min": 629.694580078125,
+        "x_max": 342.67791748046875,
+        "y_max": 791.4727172851562,
+        "width": 67.177734375,
+        "height": 161.77813720703125
+      },
+      "description": "Object 7 (seedling) with 3.5% confidence",
+      "mask_area_pixels": 6147,
+      "mask_area_ratio": 0.005002
+    },
+    {
+      "id": 8,
+      "label": "seedling",
+      "confidence": 0.02123459428548813,
+      "bounding_box": {
+        "x_min": 159.31494140625,
+        "y_min": 205.169677734375,
+        "x_max": 210.42218017578125,
+        "y_max": 264.1811828613281,
+        "width": 51.10723876953125,
+        "height": 59.011505126953125
+      },
+      "description": "Object 8 (seedling) with 2.1% confidence",
+      "mask_area_pixels": 8466,
+      "mask_area_ratio": 0.00689
+    },
+    {
+      "id": 9,
+      "label": "seedling",
+      "confidence": 0.034578174352645874,
+      "bounding_box": {
+        "x_min": 48.371742248535156,
+        "y_min": 840.3470458984375,
+        "x_max": 200.019287109375,
+        "y_max": 923.490234375,
+        "width": 151.64755249023438,
+        "height": 83.1431884765625
+      },
+      "description": "Object 9 (seedling) with 3.5% confidence",
+      "mask_area_pixels": 5069,
+      "mask_area_ratio": 0.004125
+    },
+    {
+      "id": 10,
+      "label": "seedling",
+      "confidence": 0.6780698895454407,
+      "bounding_box": {
+        "x_min": 723.8229370117188,
+        "y_min": -2.1633028984069824,
+        "x_max": 821.765625,
+        "y_max": 72.14786529541016,
+        "width": 97.94268798828125,
+        "height": 74.31116485595703
+      },
+      "description": "Object 10 (seedling) with 67.8% confidence",
+      "mask_area_pixels": 4992,
+      "mask_area_ratio": 0.004063
+    },
+    {
+      "id": 11,
+      "label": "seedling",
+      "confidence": 0.0970350131392479,
+      "bounding_box": {
+        "x_min": 45.55624008178711,
+        "y_min": 607.3831176757812,
+        "x_max": 778.146484375,
+        "y_max": 1277.0791015625,
+        "width": 732.5902709960938,
+        "height": 669.6959838867188
+      },
+      "description": "Object 11 (seedling) with 9.7% confidence",
+      "mask_area_pixels": 124625,
+      "mask_area_ratio": 0.10142
+    },
+    {
+      "id": 12,
+      "label": "seedling",
+      "confidence": 0.1124999150633812,
+      "bounding_box": {
+        "x_min": 597.7821655273438,
+        "y_min": 619.712158203125,
+        "x_max": 744.256591796875,
+        "y_max": 824.55712890625,
+        "width": 146.47442626953125,
+        "height": 204.844970703125
+      },
+      "description": "Object 12 (seedling) with 11.2% confidence",
+      "mask_area_pixels": 8557,
+      "mask_area_ratio": 0.006964
+    },
+    {
+      "id": 13,
+      "label": "seedling",
+      "confidence": 0.02548922784626484,
+      "bounding_box": {
+        "x_min": 830.3031005859375,
+        "y_min": 1140.47216796875,
+        "x_max": 934.2713012695312,
+        "y_max": 1270.722900390625,
+        "width": 103.96820068359375,
+        "height": 130.250732421875
+      },
+      "description": "Object 13 (seedling) with 2.5% confidence",
+      "mask_area_pixels": 1932,
+      "mask_area_ratio": 0.001572
+    },
+    {
+      "id": 14,
+      "label": "seedling",
+      "confidence": 0.03521367534995079,
+      "bounding_box": {
+        "x_min": 811.0863647460938,
+        "y_min": 352.4197082519531,
+        "x_max": 867.160400390625,
+        "y_max": 425.62969970703125,
+        "width": 56.07403564453125,
+        "height": 73.20999145507812
+      },
+      "description": "Object 14 (seedling) with 3.5% confidence",
+      "mask_area_pixels": 3320,
+      "mask_area_ratio": 0.002702
+    },
+    {
+      "id": 15,
+      "label": "seedling",
+      "confidence": 0.17535048723220825,
+      "bounding_box": {
+        "x_min": 640.733154296875,
+        "y_min": 620.2492065429688,
+        "x_max": 742.1275634765625,
+        "y_max": 700.3582763671875,
+        "width": 101.3944091796875,
+        "height": 80.10906982421875
+      },
+      "description": "Object 15 (seedling) with 17.5% confidence",
+      "mask_area_pixels": 4463,
+      "mask_area_ratio": 0.003632
+    },
+    {
+      "id": 16,
+      "label": "seedling",
+      "confidence": 0.024476774036884308,
+      "bounding_box": {
+        "x_min": -3.4798836708068848,
+        "y_min": 63.826847076416016,
+        "x_max": 187.03236389160156,
+        "y_max": 642.5491333007812,
+        "width": 190.5122528076172,
+        "height": 578.7222900390625
+      },
+      "description": "Object 16 (seedling) with 2.4% confidence",
+      "mask_area_pixels": 22546,
+      "mask_area_ratio": 0.018348
+    },
+    {
+      "id": 17,
+      "label": "seedling",
+      "confidence": 0.10678572952747345,
+      "bounding_box": {
+        "x_min": 391.6264343261719,
+        "y_min": 270.9307556152344,
+        "x_max": 750.2334594726562,
+        "y_max": 572.8873291015625,
+        "width": 358.6070251464844,
+        "height": 301.9565734863281
+      },
+      "description": "Object 17 (seedling) with 10.7% confidence",
+      "mask_area_pixels": 66925,
+      "mask_area_ratio": 0.054464
+    },
+    {
+      "id": 18,
+      "label": "seedling",
+      "confidence": 0.048428405076265335,
+      "bounding_box": {
+        "x_min": 123.02063751220703,
+        "y_min": 26.63738250732422,
+        "x_max": 744.4495239257812,
+        "y_max": 569.6070556640625,
+        "width": 621.4288940429688,
+        "height": 542.9696655273438
+      },
+      "description": "Object 18 (seedling) with 4.8% confidence",
+      "mask_area_pixels": 51702,
+      "mask_area_ratio": 0.042075
+    },
+    {
+      "id": 19,
+      "label": "seedling",
+      "confidence": 0.13955004513263702,
+      "bounding_box": {
+        "x_min": 811.2029418945312,
+        "y_min": 665.2792358398438,
+        "x_max": 935.7346801757812,
+        "y_max": 757.277099609375,
+        "width": 124.53173828125,
+        "height": 91.99786376953125
+      },
+      "description": "Object 19 (seedling) with 14.0% confidence",
+      "mask_area_pixels": 5830,
+      "mask_area_ratio": 0.004744
+    },
+    {
+      "id": 20,
+      "label": "seedling",
+      "confidence": 0.3291546404361725,
+      "bounding_box": {
+        "x_min": 517.0150756835938,
+        "y_min": 150.528076171875,
+        "x_max": 628.1283569335938,
+        "y_max": 224.74327087402344,
+        "width": 111.11328125,
+        "height": 74.21519470214844
+      },
+      "description": "Object 20 (seedling) with 32.9% confidence",
+      "mask_area_pixels": 4725,
+      "mask_area_ratio": 0.003845
+    },
+    {
+      "id": 21,
+      "label": "seedling",
+      "confidence": 0.014995199628174305,
+      "bounding_box": {
+        "x_min": 892.8453979492188,
+        "y_min": 608.7454833984375,
+        "x_max": 942.8489990234375,
+        "y_max": 703.799072265625,
+        "width": 50.00360107421875,
+        "height": 95.0535888671875
+      },
+      "description": "Object 21 (seedling) with 1.5% confidence",
+      "mask_area_pixels": 5495,
+      "mask_area_ratio": 0.004472
+    },
+    {
+      "id": 22,
+      "label": "seedling",
+      "confidence": 0.5591424107551575,
+      "bounding_box": {
+        "x_min": 860.5462036132812,
+        "y_min": -1.9817781448364258,
+        "x_max": 944.640380859375,
+        "y_max": 97.15127563476562,
+        "width": 84.09417724609375,
+        "height": 99.133056640625
+      },
+      "description": "Object 22 (seedling) with 55.9% confidence",
+      "mask_area_pixels": 5360,
+      "mask_area_ratio": 0.004362
+    },
+    {
+      "id": 23,
+      "label": "seedling",
+      "confidence": 0.028442518785595894,
+      "bounding_box": {
+        "x_min": 843.3947143554688,
+        "y_min": 258.58062744140625,
+        "x_max": 896.1865234375,
+        "y_max": 325.9184265136719,
+        "width": 52.79180908203125,
+        "height": 67.33779907226562
+      },
+      "description": "Object 23 (seedling) with 2.8% confidence",
+      "mask_area_pixels": 7536,
+      "mask_area_ratio": 0.006133
+    },
+    {
+      "id": 24,
+      "label": "seedling",
+      "confidence": 0.01202931348234415,
+      "bounding_box": {
+        "x_min": 221.1414337158203,
+        "y_min": 17.32553482055664,
+        "x_max": 294.3830871582031,
+        "y_max": 109.27374267578125,
+        "width": 73.24165344238281,
+        "height": 91.94821166992188
+      },
+      "description": "Object 24 (seedling) with 1.2% confidence",
+      "mask_area_pixels": 398,
+      "mask_area_ratio": 0.000324
+    },
+    {
+      "id": 25,
+      "label": "seedling",
+      "confidence": 0.06422406435012817,
+      "bounding_box": {
+        "x_min": 623.55859375,
+        "y_min": 620.1480712890625,
+        "x_max": 898.0120239257812,
+        "y_max": 915.71142578125,
+        "width": 274.45343017578125,
+        "height": 295.5633544921875
+      },
+      "description": "Object 25 (seedling) with 6.4% confidence",
+      "mask_area_pixels": 22299,
+      "mask_area_ratio": 0.018147
+    },
+    {
+      "id": 26,
+      "label": "seedling",
+      "confidence": 0.030605122447013855,
+      "bounding_box": {
+        "x_min": 902.5572509765625,
+        "y_min": 214.82955932617188,
+        "x_max": 941.1350708007812,
+        "y_max": 290.16937255859375,
+        "width": 38.57781982421875,
+        "height": 75.33981323242188
+      },
+      "description": "Object 26 (seedling) with 3.1% confidence",
+      "mask_area_pixels": 287,
+      "mask_area_ratio": 0.000234
+    },
+    {
+      "id": 27,
+      "label": "seedling",
+      "confidence": 0.038342177867889404,
+      "bounding_box": {
+        "x_min": 583.6904296875,
+        "y_min": 710.3827514648438,
+        "x_max": 628.0986938476562,
+        "y_max": 765.2880249023438,
+        "width": 44.40826416015625,
+        "height": 54.9052734375
+      },
+      "description": "Object 27 (seedling) with 3.8% confidence",
+      "mask_area_pixels": 1024,
+      "mask_area_ratio": 0.000833
+    },
+    {
+      "id": 28,
+      "label": "seedling",
+      "confidence": 0.01840735413134098,
+      "bounding_box": {
+        "x_min": 195.7852325439453,
+        "y_min": 786.0914306640625,
+        "x_max": 257.23760986328125,
+        "y_max": 874.151123046875,
+        "width": 61.45237731933594,
+        "height": 88.0596923828125
+      },
+      "description": "Object 28 (seedling) with 1.8% confidence",
+      "mask_area_pixels": 3814,
+      "mask_area_ratio": 0.003104
+    },
+    {
+      "id": 29,
+      "label": "seedling",
+      "confidence": 0.4247884154319763,
+      "bounding_box": {
+        "x_min": 859.5770874023438,
+        "y_min": 1083.0107421875,
+        "x_max": 938.933837890625,
+        "y_max": 1281.36572265625,
+        "width": 79.35675048828125,
+        "height": 198.35498046875
+      },
+      "description": "Object 29 (seedling) with 42.5% confidence",
+      "mask_area_pixels": 4275,
+      "mask_area_ratio": 0.003479
+    },
+    {
+      "id": 30,
+      "label": "seedling",
+      "confidence": 0.024558082222938538,
+      "bounding_box": {
+        "x_min": 611.1396484375,
+        "y_min": 44.719207763671875,
+        "x_max": 664.3692016601562,
+        "y_max": 141.2147216796875,
+        "width": 53.22955322265625,
+        "height": 96.49551391601562
+      },
+      "description": "Object 30 (seedling) with 2.5% confidence",
+      "mask_area_pixels": 2542,
+      "mask_area_ratio": 0.002069
+    },
+    {
+      "id": 31,
+      "label": "seedling",
+      "confidence": 0.384541392326355,
+      "bounding_box": {
+        "x_min": 777.8861694335938,
+        "y_min": 242.29576110839844,
+        "x_max": 944.0372314453125,
+        "y_max": 334.7819519042969,
+        "width": 166.15106201171875,
+        "height": 92.48619079589844
+      },
+      "description": "Object 31 (seedling) with 38.5% confidence",
+      "mask_area_pixels": 9199,
+      "mask_area_ratio": 0.007486
+    },
+    {
+      "id": 32,
+      "label": "seedling",
+      "confidence": 0.0239696204662323,
+      "bounding_box": {
+        "x_min": 549.2281494140625,
+        "y_min": 746.6365966796875,
+        "x_max": 616.6674194335938,
+        "y_max": 814.614501953125,
+        "width": 67.43927001953125,
+        "height": 67.9779052734375
+      },
+      "description": "Object 32 (seedling) with 2.4% confidence",
+      "mask_area_pixels": 1185,
+      "mask_area_ratio": 0.000964
+    },
+    {
+      "id": 33,
+      "label": "seedling",
+      "confidence": 0.7600396275520325,
+      "bounding_box": {
+        "x_min": 805.7651977539062,
+        "y_min": 637.4892578125,
+        "x_max": 936.9066772460938,
+        "y_max": 760.9302368164062,
+        "width": 131.1414794921875,
+        "height": 123.44097900390625
+      },
+      "description": "Object 33 (seedling) with 76.0% confidence",
+      "mask_area_pixels": 8064,
+      "mask_area_ratio": 0.006562
+    },
+    {
+      "id": 34,
+      "label": "seedling",
+      "confidence": 0.11032992601394653,
+      "bounding_box": {
+        "x_min": 182.9515380859375,
+        "y_min": 759.412841796875,
+        "x_max": 232.21131896972656,
+        "y_max": 869.6839599609375,
+        "width": 49.25978088378906,
+        "height": 110.2711181640625
+      },
+      "description": "Object 34 (seedling) with 11.0% confidence",
+      "mask_area_pixels": 3399,
+      "mask_area_ratio": 0.002766
+    },
+    {
+      "id": 35,
+      "label": "seedling",
+      "confidence": 0.025142045691609383,
+      "bounding_box": {
+        "x_min": 609.782470703125,
+        "y_min": 175.2991485595703,
+        "x_max": 675.33740234375,
+        "y_max": 243.90780639648438,
+        "width": 65.554931640625,
+        "height": 68.60865783691406
+      },
+      "description": "Object 35 (seedling) with 2.5% confidence",
+      "mask_area_pixels": 43,
+      "mask_area_ratio": 3.5e-05
+    },
+    {
+      "id": 36,
+      "label": "seedling",
+      "confidence": 0.027086032554507256,
+      "bounding_box": {
+        "x_min": 205.75863647460938,
+        "y_min": 837.64453125,
+        "x_max": 271.9811096191406,
+        "y_max": 924.3848876953125,
+        "width": 66.22247314453125,
+        "height": 86.7403564453125
+      },
+      "description": "Object 36 (seedling) with 2.7% confidence",
+      "mask_area_pixels": 639,
+      "mask_area_ratio": 0.00052
+    },
+    {
+      "id": 37,
+      "label": "seedling",
+      "confidence": 0.03787323087453842,
+      "bounding_box": {
+        "x_min": 139.91944885253906,
+        "y_min": 914.3222045898438,
+        "x_max": 754.6734008789062,
+        "y_max": 1276.6790771484375,
+        "width": 614.7539672851562,
+        "height": 362.35687255859375
+      },
+      "description": "Object 37 (seedling) with 3.8% confidence",
+      "mask_area_pixels": 30728,
+      "mask_area_ratio": 0.025007
+    },
+    {
+      "id": 38,
+      "label": "seedling",
+      "confidence": 0.3971558213233948,
+      "bounding_box": {
+        "x_min": 778.4840698242188,
+        "y_min": 255.63955688476562,
+        "x_max": 821.5584716796875,
+        "y_max": 316.33404541015625,
+        "width": 43.07440185546875,
+        "height": 60.694488525390625
+      },
+      "description": "Object 38 (seedling) with 39.7% confidence",
+      "mask_area_pixels": 1882,
+      "mask_area_ratio": 0.001532
+    },
+    {
+      "id": 39,
+      "label": "seedling",
+      "confidence": 0.06990601867437363,
+      "bounding_box": {
+        "x_min": -1.1534446477890015,
+        "y_min": 999.216552734375,
+        "x_max": 26.398548126220703,
+        "y_max": 1113.86865234375,
+        "width": 27.551992416381836,
+        "height": 114.652099609375
+      },
+      "description": "Object 39 (seedling) with 7.0% confidence",
+      "mask_area_pixels": 3122,
+      "mask_area_ratio": 0.002541
+    },
+    {
+      "id": 40,
+      "label": "seedling",
+      "confidence": 0.19191919267177582,
+      "bounding_box": {
+        "x_min": 186.748291015625,
+        "y_min": 391.4306640625,
+        "x_max": 327.6128234863281,
+        "y_max": 588.6878051757812,
+        "width": 140.86453247070312,
+        "height": 197.25714111328125
+      },
+      "description": "Object 40 (seedling) with 19.2% confidence",
+      "mask_area_pixels": 16961,
+      "mask_area_ratio": 0.013803
+    },
+    {
+      "id": 41,
+      "label": "seedling",
+      "confidence": 0.17018157243728638,
+      "bounding_box": {
+        "x_min": -0.8654880523681641,
+        "y_min": 1006.730224609375,
+        "x_max": 32.71942901611328,
+        "y_max": 1166.51708984375,
+        "width": 33.58491516113281,
+        "height": 159.786865234375
+      },
+      "description": "Object 41 (seedling) with 17.0% confidence",
+      "mask_area_pixels": 4833,
+      "mask_area_ratio": 0.003933
+    },
+    {
+      "id": 42,
+      "label": "seedling",
+      "confidence": 0.09788966178894043,
+      "bounding_box": {
+        "x_min": -2.454843521118164,
+        "y_min": 20.684385299682617,
+        "x_max": 610.1635131835938,
+        "y_max": 292.77264404296875,
+        "width": 612.6183471679688,
+        "height": 272.0882568359375
+      },
+      "description": "Object 42 (seedling) with 9.8% confidence",
+      "mask_area_pixels": 72173,
+      "mask_area_ratio": 0.058735
+    },
+    {
+      "id": 43,
+      "label": "seedling",
+      "confidence": 0.039358098059892654,
+      "bounding_box": {
+        "x_min": 14.77151870727539,
+        "y_min": 161.73092651367188,
+        "x_max": 799.8862915039062,
+        "y_max": 1153.527099609375,
+        "width": 785.11474609375,
+        "height": 991.796142578125
+      },
+      "description": "Object 43 (seedling) with 3.9% confidence",
+      "mask_area_pixels": 17680,
+      "mask_area_ratio": 0.014388
+    },
+    {
+      "id": 44,
+      "label": "seedling",
+      "confidence": 0.2224915474653244,
+      "bounding_box": {
+        "x_min": 824.309326171875,
+        "y_min": 238.01364135742188,
+        "x_max": 942.2908325195312,
+        "y_max": 424.53021240234375,
+        "width": 117.98150634765625,
+        "height": 186.51657104492188
+      },
+      "description": "Object 44 (seedling) with 22.2% confidence",
+      "mask_area_pixels": 9762,
+      "mask_area_ratio": 0.007944
+    },
+    {
+      "id": 45,
+      "label": "seedling",
+      "confidence": 0.045308467000722885,
+      "bounding_box": {
+        "x_min": 172.3963165283203,
+        "y_min": 698.369140625,
+        "x_max": 306.86346435546875,
+        "y_max": 880.2056884765625,
+        "width": 134.46714782714844,
+        "height": 181.8365478515625
+      },
+      "description": "Object 45 (seedling) with 4.5% confidence",
+      "mask_area_pixels": 12746,
+      "mask_area_ratio": 0.010373
+    },
+    {
+      "id": 46,
+      "label": "seedling",
+      "confidence": 0.16311459243297577,
+      "bounding_box": {
+        "x_min": 625.3184204101562,
+        "y_min": 625.3921508789062,
+        "x_max": 810.0145874023438,
+        "y_max": 996.0340576171875,
+        "width": 184.6961669921875,
+        "height": 370.64190673828125
+      },
+      "description": "Object 46 (seedling) with 16.3% confidence",
+      "mask_area_pixels": 16098,
+      "mask_area_ratio": 0.013101
+    },
+    {
+      "id": 47,
+      "label": "seedling",
+      "confidence": 0.1529095321893692,
+      "bounding_box": {
+        "x_min": 638.9737548828125,
+        "y_min": 634.0137329101562,
+        "x_max": 933.8544921875,
+        "y_max": 946.4734497070312,
+        "width": 294.8807373046875,
+        "height": 312.459716796875
+      },
+      "description": "Object 47 (seedling) with 15.3% confidence",
+      "mask_area_pixels": 23034,
+      "mask_area_ratio": 0.018745
+    },
+    {
+      "id": 48,
+      "label": "seedling",
+      "confidence": 0.050918642431497574,
+      "bounding_box": {
+        "x_min": 279.1278381347656,
+        "y_min": 609.07275390625,
+        "x_max": 437.38262939453125,
+        "y_max": 843.097412109375,
+        "width": 158.25479125976562,
+        "height": 234.024658203125
+      },
+      "description": "Object 48 (seedling) with 5.1% confidence",
+      "mask_area_pixels": 11751,
+      "mask_area_ratio": 0.009563
+    },
+    {
+      "id": 49,
+      "label": "seedling",
+      "confidence": 0.012823122553527355,
+      "bounding_box": {
+        "x_min": 887.8997192382812,
+        "y_min": -2.0882058143615723,
+        "x_max": 916.9400024414062,
+        "y_max": 47.61528015136719,
+        "width": 29.040283203125,
+        "height": 49.703487396240234
+      },
+      "description": "Object 49 (seedling) with 1.3% confidence",
+      "mask_area_pixels": 1179,
+      "mask_area_ratio": 0.000959
+    },
+    {
+      "id": 50,
+      "label": "seedling",
+      "confidence": 0.09888119250535965,
+      "bounding_box": {
+        "x_min": 808.45166015625,
+        "y_min": 707.694580078125,
+        "x_max": 932.8348999023438,
+        "y_max": 761.056396484375,
+        "width": 124.38323974609375,
+        "height": 53.36181640625
+      },
+      "description": "Object 50 (seedling) with 9.9% confidence",
+      "mask_area_pixels": 5795,
+      "mask_area_ratio": 0.004716
+    },
+    {
+      "id": 51,
+      "label": "seedling",
+      "confidence": 0.1986485868692398,
+      "bounding_box": {
+        "x_min": 857.76513671875,
+        "y_min": 1114.8780517578125,
+        "x_max": 894.1253051757812,
+        "y_max": 1148.400634765625,
+        "width": 36.36016845703125,
+        "height": 33.5225830078125
+      },
+      "description": "Object 51 (seedling) with 19.9% confidence",
+      "mask_area_pixels": 884,
+      "mask_area_ratio": 0.000719
+    },
+    {
+      "id": 52,
+      "label": "seedling",
+      "confidence": 0.05444955453276634,
+      "bounding_box": {
+        "x_min": 190.1100311279297,
+        "y_min": 22.655248641967773,
+        "x_max": 615.2755737304688,
+        "y_max": 269.12982177734375,
+        "width": 425.16552734375,
+        "height": 246.47457885742188
+      },
+      "description": "Object 52 (seedling) with 5.4% confidence",
+      "mask_area_pixels": 7995,
+      "mask_area_ratio": 0.006506
+    },
+    {
+      "id": 53,
+      "label": "seedling",
+      "confidence": 0.020947573706507683,
+      "bounding_box": {
+        "x_min": 919.6709594726562,
+        "y_min": 567.367919921875,
+        "x_max": 945.5904541015625,
+        "y_max": 638.16943359375,
+        "width": 25.91949462890625,
+        "height": 70.801513671875
+      },
+      "description": "Object 53 (seedling) with 2.1% confidence",
+      "mask_area_pixels": 1055,
+      "mask_area_ratio": 0.000859
+    },
+    {
+      "id": 54,
+      "label": "seedling",
+      "confidence": 0.014924961142241955,
+      "bounding_box": {
+        "x_min": 656.4844360351562,
+        "y_min": 724.0682373046875,
+        "x_max": 694.4296264648438,
+        "y_max": 832.9793701171875,
+        "width": 37.9451904296875,
+        "height": 108.9111328125
+      },
+      "description": "Object 54 (seedling) with 1.5% confidence",
+      "mask_area_pixels": 2408,
+      "mask_area_ratio": 0.00196
+    },
+    {
+      "id": 55,
+      "label": "seedling",
+      "confidence": 0.27872341871261597,
+      "bounding_box": {
+        "x_min": 482.1062316894531,
+        "y_min": 149.6759796142578,
+        "x_max": 628.915283203125,
+        "y_max": 244.17910766601562,
+        "width": 146.80905151367188,
+        "height": 94.50312805175781
+      },
+      "description": "Object 55 (seedling) with 27.9% confidence",
+      "mask_area_pixels": 5755,
+      "mask_area_ratio": 0.004683
+    },
+    {
+      "id": 56,
+      "label": "seedling",
+      "confidence": 0.16254480183124542,
+      "bounding_box": {
+        "x_min": 721.3621826171875,
+        "y_min": -4.321460723876953,
+        "x_max": 941.460693359375,
+        "y_max": 103.50119018554688,
+        "width": 220.0985107421875,
+        "height": 107.82264709472656
+      },
+      "description": "Object 56 (seedling) with 16.3% confidence",
+      "mask_area_pixels": 10301,
+      "mask_area_ratio": 0.008383
+    },
+    {
+      "id": 57,
+      "label": "seedling",
+      "confidence": 0.1981193721294403,
+      "bounding_box": {
+        "x_min": 629.2522583007812,
+        "y_min": 627.37890625,
+        "x_max": 810.1024169921875,
+        "y_max": 994.413818359375,
+        "width": 180.85015869140625,
+        "height": 367.034912109375
+      },
+      "description": "Object 57 (seedling) with 19.8% confidence",
+      "mask_area_pixels": 16069,
+      "mask_area_ratio": 0.013077
+    },
+    {
+      "id": 58,
+      "label": "seedling",
+      "confidence": 0.05408778786659241,
+      "bounding_box": {
+        "x_min": 3.14849853515625,
+        "y_min": 12.884788513183594,
+        "x_max": 765.8697509765625,
+        "y_max": 931.138427734375,
+        "width": 762.7212524414062,
+        "height": 918.253662109375
+      },
+      "description": "Object 58 (seedling) with 5.4% confidence",
+      "mask_area_pixels": 99490,
+      "mask_area_ratio": 0.080965
+    },
+    {
+      "id": 59,
+      "label": "seedling",
+      "confidence": 0.019207077100872993,
+      "bounding_box": {
+        "x_min": 496.7328186035156,
+        "y_min": 108.48854064941406,
+        "x_max": 588.7228393554688,
+        "y_max": 212.3810577392578,
+        "width": 91.99002075195312,
+        "height": 103.89251708984375
+      },
+      "description": "Object 59 (seedling) with 1.9% confidence",
+      "mask_area_pixels": 4787,
+      "mask_area_ratio": 0.003896
+    },
+    {
+      "id": 60,
+      "label": "seedling",
+      "confidence": 0.034146882593631744,
+      "bounding_box": {
+        "x_min": 906.0075073242188,
+        "y_min": 948.5379638671875,
+        "x_max": 943.5892333984375,
+        "y_max": 1012.7913818359375,
+        "width": 37.58172607421875,
+        "height": 64.25341796875
+      },
+      "description": "Object 60 (seedling) with 3.4% confidence",
+      "mask_area_pixels": 1204,
+      "mask_area_ratio": 0.00098
+    },
+    {
+      "id": 61,
+      "label": "seedling",
+      "confidence": 0.1472259759902954,
+      "bounding_box": {
+        "x_min": -1.7071723937988281,
+        "y_min": 17.949371337890625,
+        "x_max": 791.711669921875,
+        "y_max": 1268.8994140625,
+        "width": 793.4188232421875,
+        "height": 1250.9500732421875
+      },
+      "description": "Object 61 (seedling) with 14.7% confidence",
+      "mask_area_pixels": 328915,
+      "mask_area_ratio": 0.267672
+    },
+    {
+      "id": 62,
+      "label": "seedling",
+      "confidence": 0.024152031168341637,
+      "bounding_box": {
+        "x_min": 567.658447265625,
+        "y_min": 202.55270385742188,
+        "x_max": 699.85791015625,
+        "y_max": 266.1528625488281,
+        "width": 132.199462890625,
+        "height": 63.60015869140625
+      },
+      "description": "Object 62 (seedling) with 2.4% confidence",
+      "mask_area_pixels": 4696,
+      "mask_area_ratio": 0.003822
+    },
+    {
+      "id": 63,
+      "label": "seedling",
+      "confidence": 0.10559554398059845,
+      "bounding_box": {
+        "x_min": 0.14240920543670654,
+        "y_min": 1007.66552734375,
+        "x_max": 31.15186309814453,
+        "y_max": 1224.061279296875,
+        "width": 31.00945472717285,
+        "height": 216.395751953125
+      },
+      "description": "Object 63 (seedling) with 10.6% confidence",
+      "mask_area_pixels": 5226,
+      "mask_area_ratio": 0.004253
+    },
+    {
+      "id": 64,
+      "label": "seedling",
+      "confidence": 0.01907389797270298,
+      "bounding_box": {
+        "x_min": 174.75872802734375,
+        "y_min": 535.7013549804688,
+        "x_max": 301.48138427734375,
+        "y_max": 735.460205078125,
+        "width": 126.72265625,
+        "height": 199.75885009765625
+      },
+      "description": "Object 64 (seedling) with 1.9% confidence",
+      "mask_area_pixels": 6803,
+      "mask_area_ratio": 0.005536
+    },
+    {
+      "id": 65,
+      "label": "seedling",
+      "confidence": 0.06340406835079193,
+      "bounding_box": {
+        "x_min": 847.1859741210938,
+        "y_min": 924.2647705078125,
+        "x_max": 942.873779296875,
+        "y_max": 1294.120849609375,
+        "width": 95.68780517578125,
+        "height": 369.8560791015625
+      },
+      "description": "Object 65 (seedling) with 6.3% confidence",
+      "mask_area_pixels": 4684,
+      "mask_area_ratio": 0.003812
+    },
+    {
+      "id": 66,
+      "label": "seedling",
+      "confidence": 0.04267958179116249,
+      "bounding_box": {
+        "x_min": 437.9785461425781,
+        "y_min": 281.61541748046875,
+        "x_max": 489.6827392578125,
+        "y_max": 343.2966613769531,
+        "width": 51.704193115234375,
+        "height": 61.681243896484375
+      },
+      "description": "Object 66 (seedling) with 4.3% confidence",
+      "mask_area_pixels": 2896,
+      "mask_area_ratio": 0.002357
+    },
+    {
+      "id": 67,
+      "label": "seedling",
+      "confidence": 0.136214941740036,
+      "bounding_box": {
+        "x_min": 160.1933135986328,
+        "y_min": 283.4060363769531,
+        "x_max": 316.2210998535156,
+        "y_max": 388.4936218261719,
+        "width": 156.0277862548828,
+        "height": 105.08758544921875
+      },
+      "description": "Object 67 (seedling) with 13.6% confidence",
+      "mask_area_pixels": 10217,
+      "mask_area_ratio": 0.008315
+    },
+    {
+      "id": 68,
+      "label": "seedling",
+      "confidence": 0.01957698166370392,
+      "bounding_box": {
+        "x_min": 624.3072509765625,
+        "y_min": 410.9834289550781,
+        "x_max": 710.6080322265625,
+        "y_max": 519.3038330078125,
+        "width": 86.30078125,
+        "height": 108.32040405273438
+      },
+      "description": "Object 68 (seedling) with 2.0% confidence",
+      "mask_area_pixels": 1837,
+      "mask_area_ratio": 0.001495
+    },
+    {
+      "id": 69,
+      "label": "seedling",
+      "confidence": 0.016097724437713623,
+      "bounding_box": {
+        "x_min": 16.197002410888672,
+        "y_min": 862.0946655273438,
+        "x_max": 121.27532958984375,
+        "y_max": 1042.225830078125,
+        "width": 105.07832336425781,
+        "height": 180.13116455078125
+      },
+      "description": "Object 69 (seedling) with 1.6% confidence",
+      "mask_area_pixels": 2230,
+      "mask_area_ratio": 0.001815
+    },
+    {
+      "id": 70,
+      "label": "seedling",
+      "confidence": 0.035511959344148636,
+      "bounding_box": {
+        "x_min": 916.1820068359375,
+        "y_min": 1119.17626953125,
+        "x_max": 945.358154296875,
+        "y_max": 1268.3780517578125,
+        "width": 29.1761474609375,
+        "height": 149.2017822265625
+      },
+      "description": "Object 70 (seedling) with 3.6% confidence",
+      "mask_area_pixels": 2575,
+      "mask_area_ratio": 0.002096
+    },
+    {
+      "id": 71,
+      "label": "seedling",
+      "confidence": 0.03546128049492836,
+      "bounding_box": {
+        "x_min": 859.0050659179688,
+        "y_min": 1084.5296630859375,
+        "x_max": 937.9454956054688,
+        "y_max": 1150.71875,
+        "width": 78.9404296875,
+        "height": 66.1890869140625
+      },
+      "description": "Object 71 (seedling) with 3.5% confidence",
+      "mask_area_pixels": 2958,
+      "mask_area_ratio": 0.002407
+    },
+    {
+      "id": 72,
+      "label": "seedling",
+      "confidence": 0.04463069513440132,
+      "bounding_box": {
+        "x_min": 116.093505859375,
+        "y_min": 913.3695068359375,
+        "x_max": 303.40618896484375,
+        "y_max": 1161.7060546875,
+        "width": 187.31268310546875,
+        "height": 248.3365478515625
+      },
+      "description": "Object 72 (seedling) with 4.5% confidence",
+      "mask_area_pixels": 17198,
+      "mask_area_ratio": 0.013996
+    },
+    {
+      "id": 73,
+      "label": "seedling",
+      "confidence": 0.01121857576072216,
+      "bounding_box": {
+        "x_min": 820.6417236328125,
+        "y_min": 1.372849941253662,
+        "x_max": 862.8655395507812,
+        "y_max": 46.136199951171875,
+        "width": 42.22381591796875,
+        "height": 44.76335144042969
+      },
+      "description": "Object 73 (seedling) with 1.1% confidence",
+      "mask_area_pixels": 421,
+      "mask_area_ratio": 0.000343
+    },
+    {
+      "id": 74,
+      "label": "seedling",
+      "confidence": 0.033073656260967255,
+      "bounding_box": {
+        "x_min": 901.1124267578125,
+        "y_min": 1043.25732421875,
+        "x_max": 947.6605834960938,
+        "y_max": 1213.5712890625,
+        "width": 46.54815673828125,
+        "height": 170.31396484375
+      },
+      "description": "Object 74 (seedling) with 3.3% confidence",
+      "mask_area_pixels": 3892,
+      "mask_area_ratio": 0.003167
+    },
+    {
+      "id": 75,
+      "label": "seedling",
+      "confidence": 0.021322602406144142,
+      "bounding_box": {
+        "x_min": 908.366943359375,
+        "y_min": 147.27731323242188,
+        "x_max": 947.8006591796875,
+        "y_max": 312.55242919921875,
+        "width": 39.4337158203125,
+        "height": 165.27511596679688
+      },
+      "description": "Object 75 (seedling) with 2.1% confidence",
+      "mask_area_pixels": 5344,
+      "mask_area_ratio": 0.004349
+    },
+    {
+      "id": 76,
+      "label": "seedling",
+      "confidence": 0.31441500782966614,
+      "bounding_box": {
+        "x_min": 859.5258178710938,
+        "y_min": 1068.0260009765625,
+        "x_max": 940.2842407226562,
+        "y_max": 1149.1282958984375,
+        "width": 80.7584228515625,
+        "height": 81.102294921875
+      },
+      "description": "Object 76 (seedling) with 31.4% confidence",
+      "mask_area_pixels": 2926,
+      "mask_area_ratio": 0.002381
+    },
+    {
+      "id": 77,
+      "label": "seedling",
+      "confidence": 0.02834433503448963,
+      "bounding_box": {
+        "x_min": 76.53779602050781,
+        "y_min": 813.4317016601562,
+        "x_max": 229.27992248535156,
+        "y_max": 941.6555786132812,
+        "width": 152.74212646484375,
+        "height": 128.223876953125
+      },
+      "description": "Object 77 (seedling) with 2.8% confidence",
+      "mask_area_pixels": 5630,
+      "mask_area_ratio": 0.004582
+    },
+    {
+      "id": 78,
+      "label": "seedling",
+      "confidence": 0.03411678969860077,
+      "bounding_box": {
+        "x_min": 902.7354125976562,
+        "y_min": 1076.9254150390625,
+        "x_max": 942.6929321289062,
+        "y_max": 1121.946044921875,
+        "width": 39.95751953125,
+        "height": 45.0206298828125
+      },
+      "description": "Object 78 (seedling) with 3.4% confidence",
+      "mask_area_pixels": 1764,
+      "mask_area_ratio": 0.001436
+    },
+    {
+      "id": 79,
+      "label": "seedling",
+      "confidence": 0.0140989413484931,
+      "bounding_box": {
+        "x_min": 43.418975830078125,
+        "y_min": 491.4326477050781,
+        "x_max": 151.55697631835938,
+        "y_max": 619.926025390625,
+        "width": 108.13800048828125,
+        "height": 128.49337768554688
+      },
+      "description": "Object 79 (seedling) with 1.4% confidence",
+      "mask_area_pixels": 118,
+      "mask_area_ratio": 9.6e-05
+    },
+    {
+      "id": 80,
+      "label": "seedling",
+      "confidence": 0.017772607505321503,
+      "bounding_box": {
+        "x_min": 855.644287109375,
+        "y_min": 304.0201416015625,
+        "x_max": 917.2132568359375,
+        "y_max": 407.330810546875,
+        "width": 61.5689697265625,
+        "height": 103.3106689453125
+      },
+      "description": "Object 80 (seedling) with 1.8% confidence",
+      "mask_area_pixels": 8014,
+      "mask_area_ratio": 0.006522
+    },
+    {
+      "id": 81,
+      "label": "seedling",
+      "confidence": 0.029675135388970375,
+      "bounding_box": {
+        "x_min": 928.1145629882812,
+        "y_min": 1130.44775390625,
+        "x_max": 951.626708984375,
+        "y_max": 1275.4066162109375,
+        "width": 23.51214599609375,
+        "height": 144.9588623046875
+      },
+      "description": "Object 81 (seedling) with 3.0% confidence",
+      "mask_area_pixels": 1091,
+      "mask_area_ratio": 0.000888
+    },
+    {
+      "id": 82,
+      "label": "seedling",
+      "confidence": 0.04554307833313942,
+      "bounding_box": {
+        "x_min": 155.413330078125,
+        "y_min": 608.3433227539062,
+        "x_max": 450.98590087890625,
+        "y_max": 883.7479248046875,
+        "width": 295.57257080078125,
+        "height": 275.40460205078125
+      },
+      "description": "Object 82 (seedling) with 4.6% confidence",
+      "mask_area_pixels": 20743,
+      "mask_area_ratio": 0.016881
+    },
+    {
+      "id": 83,
+      "label": "seedling",
+      "confidence": 0.033536218106746674,
+      "bounding_box": {
+        "x_min": 334.0708923339844,
+        "y_min": 967.4666748046875,
+        "x_max": 731.4332275390625,
+        "y_max": 1251.59619140625,
+        "width": 397.3623352050781,
+        "height": 284.1295166015625
+      },
+      "description": "Object 83 (seedling) with 3.4% confidence",
+      "mask_area_pixels": 7974,
+      "mask_area_ratio": 0.006489
+    },
+    {
+      "id": 84,
+      "label": "seedling",
+      "confidence": 0.12979987263679504,
+      "bounding_box": {
+        "x_min": 862.9664306640625,
+        "y_min": 1087.43359375,
+        "x_max": 939.19921875,
+        "y_max": 1280.95849609375,
+        "width": 76.2327880859375,
+        "height": 193.52490234375
+      },
+      "description": "Object 84 (seedling) with 13.0% confidence",
+      "mask_area_pixels": 4112,
+      "mask_area_ratio": 0.003346
+    },
+    {
+      "id": 85,
+      "label": "seedling",
+      "confidence": 0.05510541796684265,
+      "bounding_box": {
+        "x_min": 691.1558227539062,
+        "y_min": 834.6317138671875,
+        "x_max": 803.9754028320312,
+        "y_max": 957.7391967773438,
+        "width": 112.819580078125,
+        "height": 123.10748291015625
+      },
+      "description": "Object 85 (seedling) with 5.5% confidence",
+      "mask_area_pixels": 7286,
+      "mask_area_ratio": 0.005929
+    },
+    {
+      "id": 86,
+      "label": "seedling",
+      "confidence": 0.5139185190200806,
+      "bounding_box": {
+        "x_min": -0.4985743761062622,
+        "y_min": 1005.658935546875,
+        "x_max": 57.226165771484375,
+        "y_max": 1281.433349609375,
+        "width": 57.72473907470703,
+        "height": 275.7744140625
+      },
+      "description": "Object 86 (seedling) with 51.4% confidence",
+      "mask_area_pixels": 9895,
+      "mask_area_ratio": 0.008053
+    },
+    {
+      "id": 87,
+      "label": "seedling",
+      "confidence": 0.04082152992486954,
+      "bounding_box": {
+        "x_min": 152.43594360351562,
+        "y_min": 267.2893981933594,
+        "x_max": 431.9469909667969,
+        "y_max": 390.823486328125,
+        "width": 279.51104736328125,
+        "height": 123.53408813476562
+      },
+      "description": "Object 87 (seedling) with 4.1% confidence",
+      "mask_area_pixels": 12800,
+      "mask_area_ratio": 0.010417
+    },
+    {
+      "id": 88,
+      "label": "seedling",
+      "confidence": 0.21398219466209412,
+      "bounding_box": {
+        "x_min": -1.0320568084716797,
+        "y_min": 9.885902404785156,
+        "x_max": 936.179443359375,
+        "y_max": 1272.70751953125,
+        "width": 937.2114868164062,
+        "height": 1262.8216552734375
+      },
+      "description": "Object 88 (seedling) with 21.4% confidence",
+      "mask_area_pixels": 350728,
+      "mask_area_ratio": 0.285423
+    },
+    {
+      "id": 89,
+      "label": "seedling",
+      "confidence": 0.02890077792108059,
+      "bounding_box": {
+        "x_min": 0.11803150177001953,
+        "y_min": 37.28247833251953,
+        "x_max": 257.3609619140625,
+        "y_max": 270.1910400390625,
+        "width": 257.242919921875,
+        "height": 232.9085693359375
+      },
+      "description": "Object 89 (seedling) with 2.9% confidence",
+      "mask_area_pixels": 32975,
+      "mask_area_ratio": 0.026835
+    },
+    {
+      "id": 90,
+      "label": "seedling",
+      "confidence": 0.06416021287441254,
+      "bounding_box": {
+        "x_min": 429.4428405761719,
+        "y_min": 147.66513061523438,
+        "x_max": 628.8799438476562,
+        "y_max": 274.5862121582031,
+        "width": 199.43710327148438,
+        "height": 126.92108154296875
+      },
+      "description": "Object 90 (seedling) with 6.4% confidence",
+      "mask_area_pixels": 7510,
+      "mask_area_ratio": 0.006112
+    },
+    {
+      "id": 91,
+      "label": "seedling",
+      "confidence": 0.030401481315493584,
+      "bounding_box": {
+        "x_min": 54.73725509643555,
+        "y_min": 732.1176147460938,
+        "x_max": 231.14439392089844,
+        "y_max": 914.8077392578125,
+        "width": 176.40713500976562,
+        "height": 182.69012451171875
+      },
+      "description": "Object 91 (seedling) with 3.0% confidence",
+      "mask_area_pixels": 7052,
+      "mask_area_ratio": 0.005739
+    },
+    {
+      "id": 92,
+      "label": "seedling",
+      "confidence": 0.012931108474731445,
+      "bounding_box": {
+        "x_min": 617.7178955078125,
+        "y_min": 115.3933334350586,
+        "x_max": 710.2311401367188,
+        "y_max": 174.8264923095703,
+        "width": 92.51324462890625,
+        "height": 59.43315887451172
+      },
+      "description": "Object 92 (seedling) with 1.3% confidence",
+      "mask_area_pixels": 2889,
+      "mask_area_ratio": 0.002351
+    },
+    {
+      "id": 93,
+      "label": "seedling",
+      "confidence": 0.05064137652516365,
+      "bounding_box": {
+        "x_min": -2.2832107543945312,
+        "y_min": 12.595672607421875,
+        "x_max": 731.535400390625,
+        "y_max": 1268.13525390625,
+        "width": 733.818603515625,
+        "height": 1255.53955078125
+      },
+      "description": "Object 93 (seedling) with 5.1% confidence",
+      "mask_area_pixels": 201250,
+      "mask_area_ratio": 0.163778
+    },
+    {
+      "id": 94,
+      "label": "seedling",
+      "confidence": 0.043628990650177,
+      "bounding_box": {
+        "x_min": 277.115234375,
+        "y_min": 607.7554321289062,
+        "x_max": 435.8053894042969,
+        "y_max": 838.24169921875,
+        "width": 158.69015502929688,
+        "height": 230.48626708984375
+      },
+      "description": "Object 94 (seedling) with 4.4% confidence",
+      "mask_area_pixels": 11696,
+      "mask_area_ratio": 0.009518
+    },
+    {
+      "id": 95,
+      "label": "seedling",
+      "confidence": 0.022163784131407738,
+      "bounding_box": {
+        "x_min": 98.88092803955078,
+        "y_min": 511.2865905761719,
+        "x_max": 219.0421142578125,
+        "y_max": 706.4176025390625,
+        "width": 120.16118621826172,
+        "height": 195.13101196289062
+      },
+      "description": "Object 95 (seedling) with 2.2% confidence",
+      "mask_area_pixels": 6863,
+      "mask_area_ratio": 0.005585
+    },
+    {
+      "id": 96,
+      "label": "seedling",
+      "confidence": 0.19332972168922424,
+      "bounding_box": {
+        "x_min": 855.071044921875,
+        "y_min": 356.85699462890625,
+        "x_max": 892.532470703125,
+        "y_max": 426.6632080078125,
+        "width": 37.46142578125,
+        "height": 69.80621337890625
+      },
+      "description": "Object 96 (seedling) with 19.3% confidence",
+      "mask_area_pixels": 1982,
+      "mask_area_ratio": 0.001613
+    },
+    {
+      "id": 97,
+      "label": "seedling",
+      "confidence": 0.03136211633682251,
+      "bounding_box": {
+        "x_min": 341.348876953125,
+        "y_min": 629.2335205078125,
+        "x_max": 482.1585693359375,
+        "y_max": 818.8864135742188,
+        "width": 140.8096923828125,
+        "height": 189.65289306640625
+      },
+      "description": "Object 97 (seedling) with 3.1% confidence",
+      "mask_area_pixels": 3838,
+      "mask_area_ratio": 0.003123
+    },
+    {
+      "id": 98,
+      "label": "seedling",
+      "confidence": 0.01088000275194645,
+      "bounding_box": {
+        "x_min": 897.5537719726562,
+        "y_min": -15.816940307617188,
+        "x_max": 926.2935180664062,
+        "y_max": 39.278228759765625,
+        "width": 28.73974609375,
+        "height": 55.09516906738281
+      },
+      "description": "Object 98 (seedling) with 1.1% confidence",
+      "mask_area_pixels": 944,
+      "mask_area_ratio": 0.000768
+    },
+    {
+      "id": 99,
+      "label": "seedling",
+      "confidence": 0.021693900227546692,
+      "bounding_box": {
+        "x_min": 894.1521606445312,
+        "y_min": 172.75405883789062,
+        "x_max": 944.2700805664062,
+        "y_max": 247.84934997558594,
+        "width": 50.117919921875,
+        "height": 75.09529113769531
+      },
+      "description": "Object 99 (seedling) with 2.2% confidence",
+      "mask_area_pixels": 17,
+      "mask_area_ratio": 1.4e-05
+    },
+    {
+      "id": 100,
+      "label": "seedling",
+      "confidence": 0.09881962835788727,
+      "bounding_box": {
+        "x_min": 891.686767578125,
+        "y_min": -0.6223154067993164,
+        "x_max": 945.4119873046875,
+        "y_max": 88.802490234375,
+        "width": 53.7252197265625,
+        "height": 89.4248046875
+      },
+      "description": "Object 100 (seedling) with 9.9% confidence",
+      "mask_area_pixels": 4381,
+      "mask_area_ratio": 0.003565
+    },
+    {
+      "id": 101,
+      "label": "seedling",
+      "confidence": 0.07153911888599396,
+      "bounding_box": {
+        "x_min": -5.291032791137695,
+        "y_min": 5.943307876586914,
+        "x_max": 630.00390625,
+        "y_max": 282.87811279296875,
+        "width": 635.294921875,
+        "height": 276.934814453125
+      },
+      "description": "Object 101 (seedling) with 7.2% confidence",
+      "mask_area_pixels": 8288,
+      "mask_area_ratio": 0.006745
+    },
+    {
+      "id": 102,
+      "label": "seedling",
+      "confidence": 0.010255996137857437,
+      "bounding_box": {
+        "x_min": -3.598294258117676,
+        "y_min": 28.37972640991211,
+        "x_max": 139.42349243164062,
+        "y_max": 294.6268005371094,
+        "width": 143.02178955078125,
+        "height": 266.2470703125
+      },
+      "description": "Object 102 (seedling) with 1.0% confidence",
+      "mask_area_pixels": 17410,
+      "mask_area_ratio": 0.014168
+    },
+    {
+      "id": 103,
+      "label": "seedling",
+      "confidence": 0.025731580331921577,
+      "bounding_box": {
+        "x_min": 186.10011291503906,
+        "y_min": 737.4988403320312,
+        "x_max": 485.38946533203125,
+        "y_max": 871.7330322265625,
+        "width": 299.28936767578125,
+        "height": 134.23419189453125
+      },
+      "description": "Object 103 (seedling) with 2.6% confidence",
+      "mask_area_pixels": 3495,
+      "mask_area_ratio": 0.002844
+    },
+    {
+      "id": 104,
+      "label": "seedling",
+      "confidence": 0.06021936237812042,
+      "bounding_box": {
+        "x_min": 856.6657104492188,
+        "y_min": 1069.4833984375,
+        "x_max": 939.380126953125,
+        "y_max": 1289.234375,
+        "width": 82.71441650390625,
+        "height": 219.7509765625
+      },
+      "description": "Object 104 (seedling) with 6.0% confidence",
+      "mask_area_pixels": 4402,
+      "mask_area_ratio": 0.003582
+    },
+    {
+      "id": 105,
+      "label": "seedling",
+      "confidence": 0.050962671637535095,
+      "bounding_box": {
+        "x_min": 317.8664855957031,
+        "y_min": 927.0562744140625,
+        "x_max": 759.1764526367188,
+        "y_max": 1281.2762451171875,
+        "width": 441.3099670410156,
+        "height": 354.219970703125
+      },
+      "description": "Object 105 (seedling) with 5.1% confidence",
+      "mask_area_pixels": 23270,
+      "mask_area_ratio": 0.018937
+    },
+    {
+      "id": 106,
+      "label": "seedling",
+      "confidence": 0.3789765536785126,
+      "bounding_box": {
+        "x_min": 860.0435791015625,
+        "y_min": 1084.1834716796875,
+        "x_max": 939.8167114257812,
+        "y_max": 1147.5360107421875,
+        "width": 79.77313232421875,
+        "height": 63.3525390625
+      },
+      "description": "Object 106 (seedling) with 37.9% confidence",
+      "mask_area_pixels": 2929,
+      "mask_area_ratio": 0.002384
+    },
+    {
+      "id": 107,
+      "label": "seedling",
+      "confidence": 0.07165022939443588,
+      "bounding_box": {
+        "x_min": 187.0352020263672,
+        "y_min": 246.3321533203125,
+        "x_max": 742.0064086914062,
+        "y_max": 583.7308349609375,
+        "width": 554.97119140625,
+        "height": 337.398681640625
+      },
+      "description": "Object 107 (seedling) with 7.2% confidence",
+      "mask_area_pixels": 72765,
+      "mask_area_ratio": 0.059216
+    },
+    {
+      "id": 108,
+      "label": "seedling",
+      "confidence": 0.08298040926456451,
+      "bounding_box": {
+        "x_min": 778.7957153320312,
+        "y_min": 241.5435028076172,
+        "x_max": 942.3969116210938,
+        "y_max": 423.41644287109375,
+        "width": 163.6011962890625,
+        "height": 181.87294006347656
+      },
+      "description": "Object 108 (seedling) with 8.3% confidence",
+      "mask_area_pixels": 11794,
+      "mask_area_ratio": 0.009598
+    },
+    {
+      "id": 109,
+      "label": "seedling",
+      "confidence": 0.021836576983332634,
+      "bounding_box": {
+        "x_min": 892.77783203125,
+        "y_min": 400.9469909667969,
+        "x_max": 921.552001953125,
+        "y_max": 465.5633850097656,
+        "width": 28.774169921875,
+        "height": 64.61639404296875
+      },
+      "description": "Object 109 (seedling) with 2.2% confidence",
+      "mask_area_pixels": 2524,
+      "mask_area_ratio": 0.002054
+    },
+    {
+      "id": 110,
+      "label": "seedling",
+      "confidence": 0.04733136668801308,
+      "bounding_box": {
+        "x_min": -3.156026601791382,
+        "y_min": 1244.4825439453125,
+        "x_max": 43.85784912109375,
+        "y_max": 1279.9703369140625,
+        "width": 47.01387405395508,
+        "height": 35.48779296875
+      },
+      "description": "Object 110 (seedling) with 4.7% confidence",
+      "mask_area_pixels": 1403,
+      "mask_area_ratio": 0.001142
+    },
+    {
+      "id": 111,
+      "label": "seedling",
+      "confidence": 0.21727168560028076,
+      "bounding_box": {
+        "x_min": 656.9169921875,
+        "y_min": -5.63260555267334,
+        "x_max": 820.5889282226562,
+        "y_max": 68.62374877929688,
+        "width": 163.67193603515625,
+        "height": 74.25635528564453
+      },
+      "description": "Object 111 (seedling) with 21.7% confidence",
+      "mask_area_pixels": 6164,
+      "mask_area_ratio": 0.005016
+    },
+    {
+      "id": 112,
+      "label": "seedling",
+      "confidence": 0.02124030515551567,
+      "bounding_box": {
+        "x_min": 668.0186157226562,
+        "y_min": 558.6895751953125,
+        "x_max": 749.79931640625,
+        "y_max": 661.9635620117188,
+        "width": 81.78070068359375,
+        "height": 103.27398681640625
+      },
+      "description": "Object 112 (seedling) with 2.1% confidence",
+      "mask_area_pixels": 53,
+      "mask_area_ratio": 4.3e-05
+    },
+    {
+      "id": 113,
+      "label": "seedling",
+      "confidence": 0.15309299528598785,
+      "bounding_box": {
+        "x_min": 654.0455932617188,
+        "y_min": -0.7229399681091309,
+        "x_max": 692.9276733398438,
+        "y_max": 31.915729522705078,
+        "width": 38.882080078125,
+        "height": 32.638668060302734
+      },
+      "description": "Object 113 (seedling) with 15.3% confidence",
+      "mask_area_pixels": 994,
+      "mask_area_ratio": 0.000809
+    },
+    {
+      "id": 114,
+      "label": "seedling",
+      "confidence": 0.02035639062523842,
+      "bounding_box": {
+        "x_min": 224.14492797851562,
+        "y_min": 676.6368408203125,
+        "x_max": 321.1670227050781,
+        "y_max": 798.7962646484375,
+        "width": 97.0220947265625,
+        "height": 122.159423828125
+      },
+      "description": "Object 114 (seedling) with 2.0% confidence",
+      "mask_area_pixels": 5673,
+      "mask_area_ratio": 0.004617
+    },
+    {
+      "id": 115,
+      "label": "seedling",
+      "confidence": 0.016667651012539864,
+      "bounding_box": {
+        "x_min": 76.64115142822266,
+        "y_min": 922.1417846679688,
+        "x_max": 141.20599365234375,
+        "y_max": 1015.9685668945312,
+        "width": 64.5648422241211,
+        "height": 93.8267822265625
+      },
+      "description": "Object 115 (seedling) with 1.7% confidence",
+      "mask_area_pixels": 51,
+      "mask_area_ratio": 4.2e-05
+    },
+    {
+      "id": 116,
+      "label": "seedling",
+      "confidence": 0.016471408307552338,
+      "bounding_box": {
+        "x_min": 556.2493286132812,
+        "y_min": 184.5476531982422,
+        "x_max": 636.0697021484375,
+        "y_max": 230.37063598632812,
+        "width": 79.82037353515625,
+        "height": 45.82298278808594
+      },
+      "description": "Object 116 (seedling) with 1.6% confidence",
+      "mask_area_pixels": 5153,
+      "mask_area_ratio": 0.004194
+    },
+    {
+      "id": 117,
+      "label": "seedling",
+      "confidence": 0.016578825190663338,
+      "bounding_box": {
+        "x_min": 824.12548828125,
+        "y_min": -12.04722785949707,
+        "x_max": 866.7401123046875,
+        "y_max": 35.049346923828125,
+        "width": 42.6146240234375,
+        "height": 47.09657287597656
+      },
+      "description": "Object 117 (seedling) with 1.7% confidence",
+      "mask_area_pixels": 299,
+      "mask_area_ratio": 0.000243
+    },
+    {
+      "id": 118,
+      "label": "seedling",
+      "confidence": 0.13421086966991425,
+      "bounding_box": {
+        "x_min": 778.9342041015625,
+        "y_min": 250.6371307373047,
+        "x_max": 874.3972778320312,
+        "y_max": 414.79254150390625,
+        "width": 95.46307373046875,
+        "height": 164.15541076660156
+      },
+      "description": "Object 118 (seedling) with 13.4% confidence",
+      "mask_area_pixels": 5097,
+      "mask_area_ratio": 0.004148
+    },
+    {
+      "id": 119,
+      "label": "seedling",
+      "confidence": 0.024576473981142044,
+      "bounding_box": {
+        "x_min": -0.5327868461608887,
+        "y_min": 1223.849365234375,
+        "x_max": 143.0153045654297,
+        "y_max": 1287.127685546875,
+        "width": 143.548095703125,
+        "height": 63.2783203125
+      },
+      "description": "Object 119 (seedling) with 2.5% confidence",
+      "mask_area_pixels": 2259,
+      "mask_area_ratio": 0.001838
+    },
+    {
+      "id": 120,
+      "label": "seedling",
+      "confidence": 0.7710059285163879,
+      "bounding_box": {
+        "x_min": 636.045654296875,
+        "y_min": 619.887451171875,
+        "x_max": 742.5875854492188,
+        "y_max": 825.0613403320312,
+        "width": 106.54193115234375,
+        "height": 205.17388916015625
+      },
+      "description": "Object 120 (seedling) with 77.1% confidence",
+      "mask_area_pixels": 8609,
+      "mask_area_ratio": 0.007006
+    },
+    {
+      "id": 121,
+      "label": "seedling",
+      "confidence": 0.03248055651783943,
+      "bounding_box": {
+        "x_min": 261.52203369140625,
+        "y_min": 404.50067138671875,
+        "x_max": 740.2628784179688,
+        "y_max": 603.78125,
+        "width": 478.7408447265625,
+        "height": 199.28057861328125
+      },
+      "description": "Object 121 (seedling) with 3.2% confidence",
+      "mask_area_pixels": 263,
+      "mask_area_ratio": 0.000214
+    },
+    {
+      "id": 122,
+      "label": "seedling",
+      "confidence": 0.04681846871972084,
+      "bounding_box": {
+        "x_min": 332.70330810546875,
+        "y_min": 930.383056640625,
+        "x_max": 740.6025390625,
+        "y_max": 1277.1163330078125,
+        "width": 407.89923095703125,
+        "height": 346.7332763671875
+      },
+      "description": "Object 122 (seedling) with 4.7% confidence",
+      "mask_area_pixels": 12705,
+      "mask_area_ratio": 0.010339
+    },
+    {
+      "id": 123,
+      "label": "seedling",
+      "confidence": 0.4480332136154175,
+      "bounding_box": {
+        "x_min": 890.558837890625,
+        "y_min": 1086.3349609375,
+        "x_max": 940.9872436523438,
+        "y_max": 1139.168212890625,
+        "width": 50.42840576171875,
+        "height": 52.833251953125
+      },
+      "description": "Object 123 (seedling) with 44.8% confidence",
+      "mask_area_pixels": 1891,
+      "mask_area_ratio": 0.001539
+    },
+    {
+      "id": 124,
+      "label": "seedling",
+      "confidence": 0.05317189544439316,
+      "bounding_box": {
+        "x_min": -1.0256195068359375,
+        "y_min": 45.77594757080078,
+        "x_max": 908.2388916015625,
+        "y_max": 702.3995971679688,
+        "width": 909.2645263671875,
+        "height": 656.6236572265625
+      },
+      "description": "Object 124 (seedling) with 5.3% confidence",
+      "mask_area_pixels": 138178,
+      "mask_area_ratio": 0.11245
+    },
+    {
+      "id": 125,
+      "label": "seedling",
+      "confidence": 0.03666028380393982,
+      "bounding_box": {
+        "x_min": 725.4408569335938,
+        "y_min": -1.8345260620117188,
+        "x_max": 819.1797485351562,
+        "y_max": 65.43051147460938,
+        "width": 93.7388916015625,
+        "height": 67.2650375366211
+      },
+      "description": "Object 125 (seedling) with 3.7% confidence",
+      "mask_area_pixels": 4916,
+      "mask_area_ratio": 0.004001
+    },
+    {
+      "id": 126,
+      "label": "seedling",
+      "confidence": 0.018174000084400177,
+      "bounding_box": {
+        "x_min": 917.6892700195312,
+        "y_min": 949.879638671875,
+        "x_max": 944.6895141601562,
+        "y_max": 1023.4324951171875,
+        "width": 27.000244140625,
+        "height": 73.5528564453125
+      },
+      "description": "Object 126 (seedling) with 1.8% confidence",
+      "mask_area_pixels": 1138,
+      "mask_area_ratio": 0.000926
+    },
+    {
+      "id": 127,
+      "label": "seedling",
+      "confidence": 0.0324220173060894,
+      "bounding_box": {
+        "x_min": 2.3588132858276367,
+        "y_min": 18.631372451782227,
+        "x_max": 376.0348205566406,
+        "y_max": 226.31466674804688,
+        "width": 373.6759948730469,
+        "height": 207.68328857421875
+      },
+      "description": "Object 127 (seedling) with 3.2% confidence",
+      "mask_area_pixels": 27136,
+      "mask_area_ratio": 0.022083
+    },
+    {
+      "id": 128,
+      "label": "seedling",
+      "confidence": 0.08494357019662857,
+      "bounding_box": {
+        "x_min": 177.46875,
+        "y_min": 31.529550552368164,
+        "x_max": 626.4656982421875,
+        "y_max": 283.3192138671875,
+        "width": 448.9969482421875,
+        "height": 251.78965759277344
+      },
+      "description": "Object 128 (seedling) with 8.5% confidence",
+      "mask_area_pixels": 8268,
+      "mask_area_ratio": 0.006729
+    },
+    {
+      "id": 129,
+      "label": "seedling",
+      "confidence": 0.030070578679442406,
+      "bounding_box": {
+        "x_min": 288.2088928222656,
+        "y_min": 846.6515502929688,
+        "x_max": 470.09735107421875,
+        "y_max": 920.1688232421875,
+        "width": 181.88845825195312,
+        "height": 73.51727294921875
+      },
+      "description": "Object 129 (seedling) with 3.0% confidence",
+      "mask_area_pixels": 446,
+      "mask_area_ratio": 0.000363
+    },
+    {
+      "id": 130,
+      "label": "seedling",
+      "confidence": 0.03373507410287857,
+      "bounding_box": {
+        "x_min": 456.2065124511719,
+        "y_min": 219.50064086914062,
+        "x_max": 495.7728271484375,
+        "y_max": 265.6963806152344,
+        "width": 39.566314697265625,
+        "height": 46.19573974609375
+      },
+      "description": "Object 130 (seedling) with 3.4% confidence",
+      "mask_area_pixels": 2676,
+      "mask_area_ratio": 0.002178
+    },
+    {
+      "id": 131,
+      "label": "seedling",
+      "confidence": 0.036160051822662354,
+      "bounding_box": {
+        "x_min": 116.77053833007812,
+        "y_min": 842.1996459960938,
+        "x_max": 761.7617797851562,
+        "y_max": 1019.1773071289062,
+        "width": 644.9912109375,
+        "height": 176.9776611328125
+      },
+      "description": "Object 131 (seedling) with 3.6% confidence",
+      "mask_area_pixels": 8965,
+      "mask_area_ratio": 0.007296
+    },
+    {
+      "id": 132,
+      "label": "seedling",
+      "confidence": 0.025255044922232628,
+      "bounding_box": {
+        "x_min": 256.0938720703125,
+        "y_min": 718.7496948242188,
+        "x_max": 348.4777526855469,
+        "y_max": 878.4402465820312,
+        "width": 92.38388061523438,
+        "height": 159.6905517578125
+      },
+      "description": "Object 132 (seedling) with 2.5% confidence",
+      "mask_area_pixels": 4752,
+      "mask_area_ratio": 0.003867
+    },
+    {
+      "id": 133,
+      "label": "seedling",
+      "confidence": 0.05489659309387207,
+      "bounding_box": {
+        "x_min": -14.258394241333008,
+        "y_min": -12.9736328125,
+        "x_max": 812.8978881835938,
+        "y_max": 1081.01123046875,
+        "width": 827.1563110351562,
+        "height": 1093.98486328125
+      },
+      "description": "Object 133 (seedling) with 5.5% confidence",
+      "mask_area_pixels": 118717,
+      "mask_area_ratio": 0.096612
+    },
+    {
+      "id": 134,
+      "label": "seedling",
+      "confidence": 0.036999162286520004,
+      "bounding_box": {
+        "x_min": -0.15859276056289673,
+        "y_min": 995.2655029296875,
+        "x_max": 21.774877548217773,
+        "y_max": 1073.181640625,
+        "width": 21.933469772338867,
+        "height": 77.9161376953125
+      },
+      "description": "Object 134 (seedling) with 3.7% confidence",
+      "mask_area_pixels": 2069,
+      "mask_area_ratio": 0.001684
+    },
+    {
+      "id": 135,
+      "label": "seedling",
+      "confidence": 0.06993288546800613,
+      "bounding_box": {
+        "x_min": -0.7452535629272461,
+        "y_min": 1237.451904296875,
+        "x_max": 55.204315185546875,
+        "y_max": 1275.000732421875,
+        "width": 55.94956970214844,
+        "height": 37.548828125
+      },
+      "description": "Object 135 (seedling) with 7.0% confidence",
+      "mask_area_pixels": 1801,
+      "mask_area_ratio": 0.001466
+    },
+    {
+      "id": 136,
+      "label": "seedling",
+      "confidence": 0.02528318390250206,
+      "bounding_box": {
+        "x_min": 876.9133911132812,
+        "y_min": 239.8167724609375,
+        "x_max": 924.7639770507812,
+        "y_max": 297.4729919433594,
+        "width": 47.8505859375,
+        "height": 57.656219482421875
+      },
+      "description": "Object 136 (seedling) with 2.5% confidence",
+      "mask_area_pixels": 3652,
+      "mask_area_ratio": 0.002972
+    },
+    {
+      "id": 137,
+      "label": "seedling",
+      "confidence": 0.01602638140320778,
+      "bounding_box": {
+        "x_min": -10.098381996154785,
+        "y_min": 21.342281341552734,
+        "x_max": 36.77412414550781,
+        "y_max": 106.52395629882812,
+        "width": 46.87250518798828,
+        "height": 85.18167114257812
+      },
+      "description": "Object 137 (seedling) with 1.6% confidence",
+      "mask_area_pixels": 91,
+      "mask_area_ratio": 7.4e-05
+    },
+    {
+      "id": 138,
+      "label": "seedling",
+      "confidence": 0.07106135785579681,
+      "bounding_box": {
+        "x_min": 780.754150390625,
+        "y_min": 251.1786651611328,
+        "x_max": 836.3280639648438,
+        "y_max": 325.01751708984375,
+        "width": 55.57391357421875,
+        "height": 73.83885192871094
+      },
+      "description": "Object 138 (seedling) with 7.1% confidence",
+      "mask_area_pixels": 2214,
+      "mask_area_ratio": 0.001802
+    },
+    {
+      "id": 139,
+      "label": "seedling",
+      "confidence": 0.10584302991628647,
+      "bounding_box": {
+        "x_min": 879.3328247070312,
+        "y_min": 1083.6572265625,
+        "x_max": 941.8764038085938,
+        "y_max": 1256.5491943359375,
+        "width": 62.5435791015625,
+        "height": 172.8919677734375
+      },
+      "description": "Object 139 (seedling) with 10.6% confidence",
+      "mask_area_pixels": 3569,
+      "mask_area_ratio": 0.002904
+    },
+    {
+      "id": 140,
+      "label": "seedling",
+      "confidence": 0.025498608127236366,
+      "bounding_box": {
+        "x_min": 565.0247802734375,
+        "y_min": 727.21142578125,
+        "x_max": 651.4730224609375,
+        "y_max": 800.6715087890625,
+        "width": 86.4482421875,
+        "height": 73.4600830078125
+      },
+      "description": "Object 140 (seedling) with 2.5% confidence",
+      "mask_area_pixels": 932,
+      "mask_area_ratio": 0.000758
+    },
+    {
+      "id": 141,
+      "label": "seedling",
+      "confidence": 0.0385691300034523,
+      "bounding_box": {
+        "x_min": 327.05950927734375,
+        "y_min": 957.4988403320312,
+        "x_max": 563.49560546875,
+        "y_max": 1238.144775390625,
+        "width": 236.43609619140625,
+        "height": 280.64593505859375
+      },
+      "description": "Object 141 (seedling) with 3.9% confidence",
+      "mask_area_pixels": 13867,
+      "mask_area_ratio": 0.011285
+    },
+    {
+      "id": 142,
+      "label": "seedling",
+      "confidence": 0.020447727292776108,
+      "bounding_box": {
+        "x_min": 788.4048461914062,
+        "y_min": 346.78472900390625,
+        "x_max": 843.3303833007812,
+        "y_max": 437.7423095703125,
+        "width": 54.925537109375,
+        "height": 90.95758056640625
+      },
+      "description": "Object 142 (seedling) with 2.0% confidence",
+      "mask_area_pixels": 3021,
+      "mask_area_ratio": 0.002458
+    },
+    {
+      "id": 143,
+      "label": "seedling",
+      "confidence": 0.048353880643844604,
+      "bounding_box": {
+        "x_min": -4.407205581665039,
+        "y_min": 8.788566589355469,
+        "x_max": 879.9339599609375,
+        "y_max": 1266.0804443359375,
+        "width": 884.3411865234375,
+        "height": 1257.2918701171875
+      },
+      "description": "Object 143 (seedling) with 4.8% confidence",
+      "mask_area_pixels": 315863,
+      "mask_area_ratio": 0.25705
+    },
+    {
+      "id": 144,
+      "label": "seedling",
+      "confidence": 0.04190641641616821,
+      "bounding_box": {
+        "x_min": 349.74285888671875,
+        "y_min": 219.7077178955078,
+        "x_max": 448.28009033203125,
+        "y_max": 284.074951171875,
+        "width": 98.5372314453125,
+        "height": 64.36723327636719
+      },
+      "description": "Object 144 (seedling) with 4.2% confidence",
+      "mask_area_pixels": 3424,
+      "mask_area_ratio": 0.002786
+    },
+    {
+      "id": 145,
+      "label": "seedling",
+      "confidence": 0.028896676376461983,
+      "bounding_box": {
+        "x_min": 852.7988891601562,
+        "y_min": 662.819580078125,
+        "x_max": 940.04931640625,
+        "y_max": 744.450439453125,
+        "width": 87.25042724609375,
+        "height": 81.630859375
+      },
+      "description": "Object 145 (seedling) with 2.9% confidence",
+      "mask_area_pixels": 8094,
+      "mask_area_ratio": 0.006587
+    },
+    {
+      "id": 146,
+      "label": "seedling",
+      "confidence": 0.19606135785579681,
+      "bounding_box": {
+        "x_min": -5.756854057312012,
+        "y_min": 1239.9193115234375,
+        "x_max": 53.14845275878906,
+        "y_max": 1279.5450439453125,
+        "width": 58.90530776977539,
+        "height": 39.625732421875
+      },
+      "description": "Object 146 (seedling) with 19.6% confidence",
+      "mask_area_pixels": 1656,
+      "mask_area_ratio": 0.001348
+    },
+    {
+      "id": 147,
+      "label": "seedling",
+      "confidence": 0.04739794507622719,
+      "bounding_box": {
+        "x_min": 911.381103515625,
+        "y_min": 61.687110900878906,
+        "x_max": 947.4346923828125,
+        "y_max": 115.80613708496094,
+        "width": 36.0535888671875,
+        "height": 54.11902618408203
+      },
+      "description": "Object 147 (seedling) with 4.7% confidence",
+      "mask_area_pixels": 2995,
+      "mask_area_ratio": 0.002437
+    },
+    {
+      "id": 148,
+      "label": "seedling",
+      "confidence": 0.13745403289794922,
+      "bounding_box": {
+        "x_min": 645.4722290039062,
+        "y_min": 722.6458129882812,
+        "x_max": 710.48291015625,
+        "y_max": 824.8571166992188,
+        "width": 65.01068115234375,
+        "height": 102.2113037109375
+      },
+      "description": "Object 148 (seedling) with 13.7% confidence",
+      "mask_area_pixels": 2746,
+      "mask_area_ratio": 0.002235
+    },
+    {
+      "id": 149,
+      "label": "seedling",
+      "confidence": 0.01719924993813038,
+      "bounding_box": {
+        "x_min": 543.4479370117188,
+        "y_min": 743.724609375,
+        "x_max": 591.5610961914062,
+        "y_max": 807.361083984375,
+        "width": 48.1131591796875,
+        "height": 63.636474609375
+      },
+      "description": "Object 149 (seedling) with 1.7% confidence",
+      "mask_area_pixels": 1073,
+      "mask_area_ratio": 0.000873
+    },
+    {
+      "id": 150,
+      "label": "seedling",
+      "confidence": 0.014769203029572964,
+      "bounding_box": {
+        "x_min": 829.33349609375,
+        "y_min": 0.09735107421875,
+        "x_max": 862.7811279296875,
+        "y_max": 40.00275421142578,
+        "width": 33.4476318359375,
+        "height": 39.90540313720703
+      },
+      "description": "Object 150 (seedling) with 1.5% confidence",
+      "mask_area_pixels": 268,
+      "mask_area_ratio": 0.000218
+    },
+    {
+      "id": 151,
+      "label": "seedling",
+      "confidence": 0.07325625419616699,
+      "bounding_box": {
+        "x_min": 592.4890747070312,
+        "y_min": 623.7230834960938,
+        "x_max": 803.506591796875,
+        "y_max": 965.4166259765625,
+        "width": 211.01751708984375,
+        "height": 341.69354248046875
+      },
+      "description": "Object 151 (seedling) with 7.3% confidence",
+      "mask_area_pixels": 16108,
+      "mask_area_ratio": 0.013109
+    },
+    {
+      "id": 152,
+      "label": "seedling",
+      "confidence": 0.09435119479894638,
+      "bounding_box": {
+        "x_min": -2.0618247985839844,
+        "y_min": 13.389720916748047,
+        "x_max": 747.8079833984375,
+        "y_max": 584.43896484375,
+        "width": 749.8698120117188,
+        "height": 571.0492553710938
+      },
+      "description": "Object 152 (seedling) with 9.4% confidence",
+      "mask_area_pixels": 131559,
+      "mask_area_ratio": 0.107063
+    },
+    {
+      "id": 153,
+      "label": "seedling",
+      "confidence": 0.018453190103173256,
+      "bounding_box": {
+        "x_min": 903.391845703125,
+        "y_min": 774.3060913085938,
+        "x_max": 949.4967651367188,
+        "y_max": 896.3945922851562,
+        "width": 46.10491943359375,
+        "height": 122.0885009765625
+      },
+      "description": "Object 153 (seedling) with 1.8% confidence",
+      "mask_area_pixels": 2886,
+      "mask_area_ratio": 0.002349
+    },
+    {
+      "id": 154,
+      "label": "seedling",
+      "confidence": 0.1899799108505249,
+      "bounding_box": {
+        "x_min": -1.175394058227539,
+        "y_min": 10.473556518554688,
+        "x_max": 939.12255859375,
+        "y_max": 1272.624755859375,
+        "width": 940.2979736328125,
+        "height": 1262.1512451171875
+      },
+      "description": "Object 154 (seedling) with 19.0% confidence",
+      "mask_area_pixels": 356623,
+      "mask_area_ratio": 0.290221
+    },
+    {
+      "id": 155,
+      "label": "seedling",
+      "confidence": 0.7630613446235657,
+      "bounding_box": {
+        "x_min": 689.8338012695312,
+        "y_min": 831.9367065429688,
+        "x_max": 805.6019897460938,
+        "y_max": 952.8380737304688,
+        "width": 115.7681884765625,
+        "height": 120.9013671875
+      },
+      "description": "Object 155 (seedling) with 76.3% confidence",
+      "mask_area_pixels": 7350,
+      "mask_area_ratio": 0.005981
+    },
+    {
+      "id": 156,
+      "label": "seedling",
+      "confidence": 0.03596047684550285,
+      "bounding_box": {
+        "x_min": 399.8377380371094,
+        "y_min": 704.5198974609375,
+        "x_max": 766.7965698242188,
+        "y_max": 998.0361328125,
+        "width": 366.9588317871094,
+        "height": 293.5162353515625
+      },
+      "description": "Object 156 (seedling) with 3.6% confidence",
+      "mask_area_pixels": 62,
+      "mask_area_ratio": 5e-05
+    },
+    {
+      "id": 157,
+      "label": "seedling",
+      "confidence": 0.5257239937782288,
+      "bounding_box": {
+        "x_min": 887.1275634765625,
+        "y_min": 1235.7860107421875,
+        "x_max": 940.143798828125,
+        "y_max": 1283.12353515625,
+        "width": 53.0162353515625,
+        "height": 47.3375244140625
+      },
+      "description": "Object 157 (seedling) with 52.6% confidence",
+      "mask_area_pixels": 1498,
+      "mask_area_ratio": 0.001219
+    },
+    {
+      "id": 158,
+      "label": "seedling",
+      "confidence": 0.0760154202580452,
+      "bounding_box": {
+        "x_min": 690.4204711914062,
+        "y_min": 836.5709228515625,
+        "x_max": 803.2883911132812,
+        "y_max": 953.8023681640625,
+        "width": 112.867919921875,
+        "height": 117.2314453125
+      },
+      "description": "Object 158 (seedling) with 7.6% confidence",
+      "mask_area_pixels": 7290,
+      "mask_area_ratio": 0.005933
+    },
+    {
+      "id": 159,
+      "label": "seedling",
+      "confidence": 0.014949836768209934,
+      "bounding_box": {
+        "x_min": 453.56756591796875,
+        "y_min": 185.79891967773438,
+        "x_max": 579.9234008789062,
+        "y_max": 274.3930358886719,
+        "width": 126.3558349609375,
+        "height": 88.5941162109375
+      },
+      "description": "Object 159 (seedling) with 1.5% confidence",
+      "mask_area_pixels": 5448,
+      "mask_area_ratio": 0.004434
+    },
+    {
+      "id": 160,
+      "label": "seedling",
+      "confidence": 0.013360204175114632,
+      "bounding_box": {
+        "x_min": -8.807680130004883,
+        "y_min": 789.53759765625,
+        "x_max": 33.18977355957031,
+        "y_max": 883.4578857421875,
+        "width": 41.99745178222656,
+        "height": 93.9202880859375
+      },
+      "description": "Object 160 (seedling) with 1.3% confidence",
+      "mask_area_pixels": 5397,
+      "mask_area_ratio": 0.004392
+    },
+    {
+      "id": 161,
+      "label": "seedling",
+      "confidence": 0.02039661444723606,
+      "bounding_box": {
+        "x_min": 764.4036254882812,
+        "y_min": -7.595987319946289,
+        "x_max": 824.2017822265625,
+        "y_max": 33.05710220336914,
+        "width": 59.79815673828125,
+        "height": 40.65309143066406
+      },
+      "description": "Object 161 (seedling) with 2.0% confidence",
+      "mask_area_pixels": 2063,
+      "mask_area_ratio": 0.001679
+    },
+    {
+      "id": 162,
+      "label": "seedling",
+      "confidence": 0.013089175336062908,
+      "bounding_box": {
+        "x_min": 519.9818725585938,
+        "y_min": 333.2799072265625,
+        "x_max": 659.465087890625,
+        "y_max": 448.8573913574219,
+        "width": 139.48321533203125,
+        "height": 115.57748413085938
+      },
+      "description": "Object 162 (seedling) with 1.3% confidence",
+      "mask_area_pixels": 5250,
+      "mask_area_ratio": 0.004272
+    },
+    {
+      "id": 163,
+      "label": "seedling",
+      "confidence": 0.029480330646038055,
+      "bounding_box": {
+        "x_min": 776.2584228515625,
+        "y_min": 199.22967529296875,
+        "x_max": 804.59228515625,
+        "y_max": 285.0447692871094,
+        "width": 28.3338623046875,
+        "height": 85.81509399414062
+      },
+      "description": "Object 163 (seedling) with 2.9% confidence",
+      "mask_area_pixels": 3066,
+      "mask_area_ratio": 0.002495
+    },
+    {
+      "id": 164,
+      "label": "seedling",
+      "confidence": 0.11494772881269455,
+      "bounding_box": {
+        "x_min": 633.2868041992188,
+        "y_min": 625.4692993164062,
+        "x_max": 807.701416015625,
+        "y_max": 961.4873657226562,
+        "width": 174.41461181640625,
+        "height": 336.01806640625
+      },
+      "description": "Object 164 (seedling) with 11.5% confidence",
+      "mask_area_pixels": 15405,
+      "mask_area_ratio": 0.012537
+    },
+    {
+      "id": 165,
+      "label": "seedling",
+      "confidence": 0.031051991507411003,
+      "bounding_box": {
+        "x_min": 442.4049377441406,
+        "y_min": 477.6029968261719,
+        "x_max": 728.0775756835938,
+        "y_max": 582.7357177734375,
+        "width": 285.6726379394531,
+        "height": 105.13272094726562
+      },
+      "description": "Object 165 (seedling) with 3.1% confidence",
+      "mask_area_pixels": 0,
+      "mask_area_ratio": 0.0
+    },
+    {
+      "id": 166,
+      "label": "seedling",
+      "confidence": 0.13936302065849304,
+      "bounding_box": {
+        "x_min": 902.964599609375,
+        "y_min": 2.8594512939453125,
+        "x_max": 945.4599609375,
+        "y_max": 22.32965660095215,
+        "width": 42.495361328125,
+        "height": 19.470205307006836
+      },
+      "description": "Object 166 (seedling) with 13.9% confidence",
+      "mask_area_pixels": 595,
+      "mask_area_ratio": 0.000484
+    },
+    {
+      "id": 167,
+      "label": "seedling",
+      "confidence": 0.053321100771427155,
+      "bounding_box": {
+        "x_min": 316.53125,
+        "y_min": 139.4258270263672,
+        "x_max": 449.8944091796875,
+        "y_max": 276.5823059082031,
+        "width": 133.3631591796875,
+        "height": 137.15647888183594
+      },
+      "description": "Object 167 (seedling) with 5.3% confidence",
+      "mask_area_pixels": 5649,
+      "mask_area_ratio": 0.004597
+    },
+    {
+      "id": 168,
+      "label": "seedling",
+      "confidence": 0.047725338488817215,
+      "bounding_box": {
+        "x_min": 316.3177795410156,
+        "y_min": 922.1697998046875,
+        "x_max": 751.8450317382812,
+        "y_max": 1269.2548828125,
+        "width": 435.5272521972656,
+        "height": 347.0850830078125
+      },
+      "description": "Object 168 (seedling) with 4.8% confidence",
+      "mask_area_pixels": 12176,
+      "mask_area_ratio": 0.009909
+    },
+    {
+      "id": 169,
+      "label": "seedling",
+      "confidence": 0.03844420611858368,
+      "bounding_box": {
+        "x_min": 762.500244140625,
+        "y_min": 1.123809814453125,
+        "x_max": 820.7083740234375,
+        "y_max": 67.7647705078125,
+        "width": 58.2081298828125,
+        "height": 66.64096069335938
+      },
+      "description": "Object 169 (seedling) with 3.8% confidence",
+      "mask_area_pixels": 4764,
+      "mask_area_ratio": 0.003877
+    },
+    {
+      "id": 170,
+      "label": "seedling",
+      "confidence": 0.895624577999115,
+      "bounding_box": {
+        "x_min": 44.264060974121094,
+        "y_min": 604.2875366210938,
+        "x_max": 779.2296752929688,
+        "y_max": 1281.88525390625,
+        "width": 734.9656372070312,
+        "height": 677.5977172851562
+      },
+      "description": "Object 170 (seedling) with 89.6% confidence",
+      "mask_area_pixels": 135095,
+      "mask_area_ratio": 0.109941
+    },
+    {
+      "id": 171,
+      "label": "seedling",
+      "confidence": 0.16172270476818085,
+      "bounding_box": {
+        "x_min": -2.541675567626953,
+        "y_min": 43.98151397705078,
+        "x_max": 211.44024658203125,
+        "y_max": 293.59674072265625,
+        "width": 213.98191833496094,
+        "height": 249.615234375
+      },
+      "description": "Object 171 (seedling) with 16.2% confidence",
+      "mask_area_pixels": 33720,
+      "mask_area_ratio": 0.027441
+    },
+    {
+      "id": 172,
+      "label": "seedling",
+      "confidence": 0.13774517178535461,
+      "bounding_box": {
+        "x_min": 3.5535049438476562,
+        "y_min": 8.439369201660156,
+        "x_max": 935.1428833007812,
+        "y_max": 1270.7056884765625,
+        "width": 931.58935546875,
+        "height": 1262.266357421875
+      },
+      "description": "Object 172 (seedling) with 13.8% confidence",
+      "mask_area_pixels": 347452,
+      "mask_area_ratio": 0.282757
+    },
+    {
+      "id": 173,
+      "label": "seedling",
+      "confidence": 0.0764944851398468,
+      "bounding_box": {
+        "x_min": 592.3756713867188,
+        "y_min": 720.4400634765625,
+        "x_max": 655.06591796875,
+        "y_max": 803.9195556640625,
+        "width": 62.69024658203125,
+        "height": 83.4794921875
+      },
+      "description": "Object 173 (seedling) with 7.6% confidence",
+      "mask_area_pixels": 1080,
+      "mask_area_ratio": 0.000879
+    },
+    {
+      "id": 174,
+      "label": "seedling",
+      "confidence": 0.060330335050821304,
+      "bounding_box": {
+        "x_min": -3.9485549926757812,
+        "y_min": -5.707578659057617,
+        "x_max": 816.8142700195312,
+        "y_max": 306.5863037109375,
+        "width": 820.7628173828125,
+        "height": 312.29388427734375
+      },
+      "description": "Object 174 (seedling) with 6.0% confidence",
+      "mask_area_pixels": 14016,
+      "mask_area_ratio": 0.011406
+    },
+    {
+      "id": 175,
+      "label": "seedling",
+      "confidence": 0.039952997118234634,
+      "bounding_box": {
+        "x_min": 184.37269592285156,
+        "y_min": 673.02734375,
+        "x_max": 714.041748046875,
+        "y_max": 893.941650390625,
+        "width": 529.6690673828125,
+        "height": 220.914306640625
+      },
+      "description": "Object 175 (seedling) with 4.0% confidence",
+      "mask_area_pixels": 1480,
+      "mask_area_ratio": 0.001204
+    },
+    {
+      "id": 176,
+      "label": "seedling",
+      "confidence": 0.024074845016002655,
+      "bounding_box": {
+        "x_min": 904.8845825195312,
+        "y_min": 188.08450317382812,
+        "x_max": 943.884765625,
+        "y_max": 260.435546875,
+        "width": 39.00018310546875,
+        "height": 72.35104370117188
+      },
+      "description": "Object 176 (seedling) with 2.4% confidence",
+      "mask_area_pixels": 93,
+      "mask_area_ratio": 7.6e-05
+    },
+    {
+      "id": 177,
+      "label": "seedling",
+      "confidence": 0.8682637810707092,
+      "bounding_box": {
+        "x_min": -1.8036460876464844,
+        "y_min": 2.7945899963378906,
+        "x_max": 759.2531127929688,
+        "y_max": 586.2281494140625,
+        "width": 761.0567626953125,
+        "height": 583.4335327148438
+      },
+      "description": "Object 177 (seedling) with 86.8% confidence",
+      "mask_area_pixels": 200411,
+      "mask_area_ratio": 0.163095
+    },
+    {
+      "id": 178,
+      "label": "seedling",
+      "confidence": 0.024251548573374748,
+      "bounding_box": {
+        "x_min": 686.3511962890625,
+        "y_min": 847.9938354492188,
+        "x_max": 762.9660034179688,
+        "y_max": 951.6570434570312,
+        "width": 76.61480712890625,
+        "height": 103.6632080078125
+      },
+      "description": "Object 178 (seedling) with 2.4% confidence",
+      "mask_area_pixels": 5673,
+      "mask_area_ratio": 0.004617
+    },
+    {
+      "id": 179,
+      "label": "seedling",
+      "confidence": 0.015910344198346138,
+      "bounding_box": {
+        "x_min": 828.090087890625,
+        "y_min": 0.16511201858520508,
+        "x_max": 877.8193359375,
+        "y_max": 60.61979293823242,
+        "width": 49.729248046875,
+        "height": 60.454681396484375
+      },
+      "description": "Object 179 (seedling) with 1.6% confidence",
+      "mask_area_pixels": 1337,
+      "mask_area_ratio": 0.001088
+    },
+    {
+      "id": 180,
+      "label": "seedling",
+      "confidence": 0.04570365697145462,
+      "bounding_box": {
+        "x_min": 2.762694835662842,
+        "y_min": 1227.465087890625,
+        "x_max": 43.57234191894531,
+        "y_max": 1277.8341064453125,
+        "width": 40.80964660644531,
+        "height": 50.3690185546875
+      },
+      "description": "Object 180 (seedling) with 4.6% confidence",
+      "mask_area_pixels": 1651,
+      "mask_area_ratio": 0.001344
+    },
+    {
+      "id": 181,
+      "label": "seedling",
+      "confidence": 0.028779584914445877,
+      "bounding_box": {
+        "x_min": 0.4394245147705078,
+        "y_min": 2.7474021911621094,
+        "x_max": 772.0891723632812,
+        "y_max": 612.512939453125,
+        "width": 771.6497192382812,
+        "height": 609.7655639648438
+      },
+      "description": "Object 181 (seedling) with 2.9% confidence",
+      "mask_area_pixels": 28239,
+      "mask_area_ratio": 0.022981
+    },
+    {
+      "id": 182,
+      "label": "seedling",
+      "confidence": 0.021825749427080154,
+      "bounding_box": {
+        "x_min": 792.194580078125,
+        "y_min": 252.44613647460938,
+        "x_max": 847.1900024414062,
+        "y_max": 312.85418701171875,
+        "width": 54.99542236328125,
+        "height": 60.408050537109375
+      },
+      "description": "Object 182 (seedling) with 2.2% confidence",
+      "mask_area_pixels": 2246,
+      "mask_area_ratio": 0.001828
+    },
+    {
+      "id": 183,
+      "label": "seedling",
+      "confidence": 0.016230901703238487,
+      "bounding_box": {
+        "x_min": 655.407958984375,
+        "y_min": 615.158203125,
+        "x_max": 746.982666015625,
+        "y_max": 671.8775634765625,
+        "width": 91.57470703125,
+        "height": 56.7193603515625
+      },
+      "description": "Object 183 (seedling) with 1.6% confidence",
+      "mask_area_pixels": 4305,
+      "mask_area_ratio": 0.003503
+    },
+    {
+      "id": 184,
+      "label": "seedling",
+      "confidence": 0.024437235668301582,
+      "bounding_box": {
+        "x_min": 320.51251220703125,
+        "y_min": 1016.815185546875,
+        "x_max": 523.3082275390625,
+        "y_max": 1258.722900390625,
+        "width": 202.79571533203125,
+        "height": 241.90771484375
+      },
+      "description": "Object 184 (seedling) with 2.4% confidence",
+      "mask_area_pixels": 9191,
+      "mask_area_ratio": 0.00748
+    },
+    {
+      "id": 185,
+      "label": "seedling",
+      "confidence": 0.05929460749030113,
+      "bounding_box": {
+        "x_min": 8.968877792358398,
+        "y_min": 454.24566650390625,
+        "x_max": 929.1812744140625,
+        "y_max": 1261.8995361328125,
+        "width": 920.21240234375,
+        "height": 807.6538696289062
+      },
+      "description": "Object 185 (seedling) with 5.9% confidence",
+      "mask_area_pixels": 117420,
+      "mask_area_ratio": 0.095557
+    },
+    {
+      "id": 186,
+      "label": "seedling",
+      "confidence": 0.023746594786643982,
+      "bounding_box": {
+        "x_min": 756.5120239257812,
+        "y_min": 5.309808254241943,
+        "x_max": 819.915283203125,
+        "y_max": 66.2546615600586,
+        "width": 63.40325927734375,
+        "height": 60.944854736328125
+      },
+      "description": "Object 186 (seedling) with 2.4% confidence",
+      "mask_area_pixels": 4908,
+      "mask_area_ratio": 0.003994
+    },
+    {
+      "id": 187,
+      "label": "seedling",
+      "confidence": 0.4018685817718506,
+      "bounding_box": {
+        "x_min": 822.0006713867188,
+        "y_min": 242.3116912841797,
+        "x_max": 943.2991333007812,
+        "y_max": 337.5054931640625,
+        "width": 121.2984619140625,
+        "height": 95.19380187988281
+      },
+      "description": "Object 187 (seedling) with 40.2% confidence",
+      "mask_area_pixels": 7096,
+      "mask_area_ratio": 0.005775
+    },
+    {
+      "id": 188,
+      "label": "seedling",
+      "confidence": 0.12178798019886017,
+      "bounding_box": {
+        "x_min": 903.43896484375,
+        "y_min": 921.6503295898438,
+        "x_max": 942.9827270507812,
+        "y_max": 985.7808837890625,
+        "width": 39.54376220703125,
+        "height": 64.13055419921875
+      },
+      "description": "Object 188 (seedling) with 12.2% confidence",
+      "mask_area_pixels": 1227,
+      "mask_area_ratio": 0.000999
+    },
+    {
+      "id": 189,
+      "label": "seedling",
+      "confidence": 0.02753440849483013,
+      "bounding_box": {
+        "x_min": 18.17999839782715,
+        "y_min": 21.327381134033203,
+        "x_max": 436.71722412109375,
+        "y_max": 182.95510864257812,
+        "width": 418.5372314453125,
+        "height": 161.6277313232422
+      },
+      "description": "Object 189 (seedling) with 2.8% confidence",
+      "mask_area_pixels": 5850,
+      "mask_area_ratio": 0.004761
+    },
+    {
+      "id": 190,
+      "label": "seedling",
+      "confidence": 0.13074621558189392,
+      "bounding_box": {
+        "x_min": 367.6372985839844,
+        "y_min": 201.592529296875,
+        "x_max": 453.8331604003906,
+        "y_max": 277.27569580078125,
+        "width": 86.19586181640625,
+        "height": 75.68316650390625
+      },
+      "description": "Object 190 (seedling) with 13.1% confidence",
+      "mask_area_pixels": 3244,
+      "mask_area_ratio": 0.00264
+    },
+    {
+      "id": 191,
+      "label": "seedling",
+      "confidence": 0.010107276029884815,
+      "bounding_box": {
+        "x_min": 660.4130859375,
+        "y_min": -7.6981964111328125,
+        "x_max": 719.9730224609375,
+        "y_max": 31.502281188964844,
+        "width": 59.5599365234375,
+        "height": 39.200477600097656
+      },
+      "description": "Object 191 (seedling) with 1.0% confidence",
+      "mask_area_pixels": 1156,
+      "mask_area_ratio": 0.000941
+    },
+    {
+      "id": 192,
+      "label": "seedling",
+      "confidence": 0.028524482622742653,
+      "bounding_box": {
+        "x_min": 36.14490509033203,
+        "y_min": 894.32373046875,
+        "x_max": 503.9486389160156,
+        "y_max": 1273.39501953125,
+        "width": 467.8037414550781,
+        "height": 379.0712890625
+      },
+      "description": "Object 192 (seedling) with 2.9% confidence",
+      "mask_area_pixels": 10774,
+      "mask_area_ratio": 0.008768
+    },
+    {
+      "id": 193,
+      "label": "seedling",
+      "confidence": 0.3105487823486328,
+      "bounding_box": {
+        "x_min": 918.2666625976562,
+        "y_min": 927.9027709960938,
+        "x_max": 943.5743408203125,
+        "y_max": 970.2086791992188,
+        "width": 25.30767822265625,
+        "height": 42.305908203125
+      },
+      "description": "Object 193 (seedling) with 31.1% confidence",
+      "mask_area_pixels": 941,
+      "mask_area_ratio": 0.000766
+    },
+    {
+      "id": 194,
+      "label": "seedling",
+      "confidence": 0.02079240418970585,
+      "bounding_box": {
+        "x_min": 426.3363952636719,
+        "y_min": 232.97592163085938,
+        "x_max": 496.0406188964844,
+        "y_max": 279.6485595703125,
+        "width": 69.7042236328125,
+        "height": 46.672637939453125
+      },
+      "description": "Object 194 (seedling) with 2.1% confidence",
+      "mask_area_pixels": 3899,
+      "mask_area_ratio": 0.003173
+    },
+    {
+      "id": 195,
+      "label": "seedling",
+      "confidence": 0.02891714684665203,
+      "bounding_box": {
+        "x_min": 895.7373657226562,
+        "y_min": 609.079345703125,
+        "x_max": 952.1574096679688,
+        "y_max": 701.830078125,
+        "width": 56.4200439453125,
+        "height": 92.750732421875
+      },
+      "description": "Object 195 (seedling) with 2.9% confidence",
+      "mask_area_pixels": 5193,
+      "mask_area_ratio": 0.004226
+    },
+    {
+      "id": 196,
+      "label": "seedling",
+      "confidence": 0.03139139339327812,
+      "bounding_box": {
+        "x_min": 751.6796875,
+        "y_min": 831.0450439453125,
+        "x_max": 805.9052734375,
+        "y_max": 897.842529296875,
+        "width": 54.2255859375,
+        "height": 66.7974853515625
+      },
+      "description": "Object 196 (seedling) with 3.1% confidence",
+      "mask_area_pixels": 3133,
+      "mask_area_ratio": 0.00255
+    },
+    {
+      "id": 197,
+      "label": "seedling",
+      "confidence": 0.07105270028114319,
+      "bounding_box": {
+        "x_min": 1.6065502166748047,
+        "y_min": 269.5589599609375,
+        "x_max": 776.2731323242188,
+        "y_max": 1260.176513671875,
+        "width": 774.6665649414062,
+        "height": 990.6175537109375
+      },
+      "description": "Object 197 (seedling) with 7.1% confidence",
+      "mask_area_pixels": 112293,
+      "mask_area_ratio": 0.091384
+    },
+    {
+      "id": 198,
+      "label": "seedling",
+      "confidence": 0.13243277370929718,
+      "bounding_box": {
+        "x_min": 308.2812805175781,
+        "y_min": -1.0286235809326172,
+        "x_max": 613.0631713867188,
+        "y_max": 275.48651123046875,
+        "width": 304.7818908691406,
+        "height": 276.51513671875
+      },
+      "description": "Object 198 (seedling) with 13.2% confidence",
+      "mask_area_pixels": 47425,
+      "mask_area_ratio": 0.038595
+    }
+  ],
+  "image_info": {
+    "width": 960,
+    "height": 1280,
+    "area_pixels": 1228800,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.01,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 2.274,
+    "num_detections": 198
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1782348063.png",
+    "masked_segments": []
+  }
+}

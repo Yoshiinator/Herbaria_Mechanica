@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>SAM3 Segmentation API - GUI</title>
+    <link rel="stylesheet" href="/gui/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>SAM3 Segmentation API</h1>
+            <p>Segment objects in images using natural language prompts</p>
+        </header>
+
+        <main class="main-content">
+            <!-- Model Download Section -->
+            <section class="model-panel" id="model-panel">
+                <h2>Model Download</h2>
+                <div class="model-status" id="model-status-text">Checking model status...</div>
+                
+                <div class="token-section" id="token-section">
+                    <label for="hf-token">HuggingFace Token:</label>
+                    <input type="password" id="hf-token" placeholder="Enter your HuggingFace access token">
+                    <button id="download-model-btn" class="btn btn-primary">Download Model</button>
+                    <div id="download-status"></div>
+                </div>
+                
+                <div id="redownload-section" style="display: none;">
+                    <button id="redownload-model-btn" class="btn btn-secondary">Re-download Model</button>
+                </div>
+            </section>
+
+            <!-- SAM Model Configuration Section -->
+            <section class="config-panel">
+                <h2>Configuration</h2>
+                
+                <div class="form-group">
+                    <label for="output-folder">Output Folder:</label>
+                    <input type="text" id="output-folder" placeholder="/home/node/.n8n-files/results" value="/home/node/.n8n-files/results">
+                    <small>Path to folder where results will be saved</small>
+                </div>
+                
+                <div class="form-group">
+                    <label for="image-resolution">Image Resolution:</label>
+                    <input type="number" id="image-resolution" min="224" max="2048" step="8" value="1008">
+                    <small>Model processing resolution (224-2048)</small>
+                </div>
+                
+                <div class="form-group">
+                    <label for="confidence-threshold">Confidence Threshold:</label>
+                    <input type="number" id="confidence-threshold" min="0" max="1" step="0.1" value="0.5">
+                    <small>Minimum confidence for detections (0-1)</small>
+                </div>
+                
+                <div class="form-group checkbox-group">
+                    <label>
+                        <input type="checkbox" id="enable-instance-interactivity">
+                        Enable Instance Interactivity (SAM1-style)
+                    </label>
+                </div>
+                
+                <div class="form-group checkbox-group">
+                    <label>
+                        <input type="checkbox" id="model-compilation">
+                        Enable Model Compilation (torch.compile acceleration)
+                    </label>
+                </div>
+                
+                <div class="form-group checkbox-group">
+                    <label>
+                        <input type="checkbox" id="save-segments-separately">
+                        Save Segments Separately (individual masks + cropped objects)
+                    </label>
+                </div>
+                
+                <div class="form-group checkbox-group">
+                    <label>
+                        <input type="checkbox" id="save-combined-mask-per-label">
+                        Save Combined Mask Per Label (one image per object type)
+                    </label>
+                </div>
+                
+                <div class="form-group checkbox-group">
+                    <label>
+                        <input type="checkbox" id="save-all-combined-mask">
+                        Save All Combined Mask (single image with all grouped)
+                    </label>
+                </div>
+                
+                <div class="form-group checkbox-group">
+                    <label>
+                        <input type="checkbox" id="show-bounding-box-labels">
+                        Show Bounding Box Labels
+                    </label>
+                </div>
+                
+                <div class="form-group checkbox-group">
+                    <label>
+                        <input type="checkbox" id="corner-annotation-enabled" checked>
+                        Show Corner Annotation (label/count/confidence)
+                    </label>
+                </div>
+                
+                <div class="form-group">
+                    <button id="save-config-btn" class="btn btn-primary" onclick="try { if(typeof window.saveConfiguration === 'function' || typeof saveConfiguration === 'function') { (window.saveConfiguration || saveConfiguration)(); } else { alert('Error: saveConfiguration function not found. Please refresh the page.'); } } catch(e) { alert('Error: ' + e.message); console.error(e); }">Save Configuration</button>
+                    <div id="config-save-status" style="margin-top: 10px; font-weight: bold;"></div>
+                </div>
+            </section>
+
+            <!-- Image Processing Section -->
+            <section class="processing-panel">
+                <h2>Image Processing</h2>
+                
+                <div class="form-group">
+                    <label for="file-path">File Path:</label>
+                    <input type="text" id="file-path" placeholder="/home/node/.n8n-files/input/image.jpg">
+                    <small>Path to input image file (local or network path)</small>
+                </div>
+                
+                <div class="form-group">
+                    <label for="text-prompt">Text Prompt:</label>
+                    <input type="text" id="text-prompt" placeholder="e.g., person, car, dog, cat">
+                </div>
+                
+                <button id="process-btn" class="btn btn-primary">Process Image</button>
+                
+                <div id="result-area" style="display: none;">
+                    <h3>Results</h3>
+                    <img id="result-image" alt="Result">
+                    <div id="metadata-display"></div>
+                </div>
+            </section>
+        </main>
+    </div>
+    
+    <script>
+        // Force cache busting with timestamp
+        (function() {
+            const cacheBuster = new Date().getTime();
+            const script = document.createElement('script');
+            script.src = '/gui/static/app.js?v=' + cacheBuster;
+            script.type = 'text/javascript';
+            script.async = false;
+            document.head.appendChild(script);
+        })();
+    </script>
+</body>
+</html>

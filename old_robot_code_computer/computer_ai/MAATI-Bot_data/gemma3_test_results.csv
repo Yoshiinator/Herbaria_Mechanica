@@ -1,0 +1,21 @@
+image,run,predicted,expected,exact_match,time_s,reason,ground_truth
+img_610e2bc3a2e9.jpg,1,['pesticide'],['pesticide'],True,19.0,small black beetles visible on leaves...,PESTICIDE
+img_610e2bc3a2e9.jpg,2,['pesticide'],['pesticide'],True,21.8,small black beetles visible on leaves...,PESTICIDE
+img_610e2bc3a2e9.jpg,3,['pesticide'],['pesticide'],True,21.4,small black beetles visible on leaves...,PESTICIDE
+img_610e2bc3a2e9.jpg,4,['pesticide'],['pesticide'],True,16.9,small black beetles visible on leaves...,PESTICIDE
+img_610e2bc3a2e9.jpg,5,['pesticide'],['pesticide'],True,18.9,small black beetles visible on leaves...,PESTICIDE
+img_08ee68572fb8.jpg,1,['herbicide'],['herbicide'],True,27.0,multiple plant species...,HERBICIDE
+img_08ee68572fb8.jpg,2,['herbicide'],['herbicide'],True,30.2,multiple plant species...,HERBICIDE
+img_08ee68572fb8.jpg,3,['herbicide'],['herbicide'],True,30.9,multiple plant species...,HERBICIDE
+img_08ee68572fb8.jpg,4,['none'],['herbicide'],False,28.5,,HERBICIDE
+img_08ee68572fb8.jpg,5,['none'],['herbicide'],False,30.6,,HERBICIDE
+img_4dd58897d9e9.jpg,1,['fertilizer'],['fertilizer'],True,28.0,yellowing leaves...,FERTILIZER
+img_4dd58897d9e9.jpg,2,['herbicide'],['fertilizer'],False,32.8,,FERTILIZER
+img_4dd58897d9e9.jpg,3,['fertilizer'],['fertilizer'],True,25.0,yellowing leaves...,FERTILIZER
+img_4dd58897d9e9.jpg,4,['fertilizer'],['fertilizer'],True,28.8,yellowing leaves...,FERTILIZER
+img_4dd58897d9e9.jpg,5,['fertilizer'],['fertilizer'],True,28.6,yellowing leaves...,FERTILIZER
+img_fb6981f4c3c0.jpg,1,['herbicide'],['water'],False,27.8,,WATER
+img_fb6981f4c3c0.jpg,2,['water'],['water'],True,29.6,drooping/wilted...,WATER
+img_fb6981f4c3c0.jpg,3,['water'],['water'],True,29.8,drooping/wilted...,WATER
+img_fb6981f4c3c0.jpg,4,['water'],['water'],True,25.9,drooping/wilted...,WATER
+img_fb6981f4c3c0.jpg,5,['water'],['water'],True,24.0,drooping/wilted...,WATER

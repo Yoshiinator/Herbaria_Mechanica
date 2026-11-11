@@ -1,0 +1,58 @@
+{
+  "summary": "Found 2 object(s) matching 'plant' in the image.",
+  "query": "plant",
+  "detections": [
+    {
+      "id": 1,
+      "label": "plant",
+      "confidence": 0.4318668246269226,
+      "bounding_box": {
+        "x_min": 922.056396484375,
+        "y_min": 291.42669677734375,
+        "x_max": 1041.5257568359375,
+        "y_max": 385.6249694824219,
+        "width": 119.4693603515625,
+        "height": 94.19827270507812
+      },
+      "description": "Object 1 (plant) with 43.2% confidence",
+      "mask_area_pixels": 8710,
+      "mask_area_ratio": 0.009451
+    },
+    {
+      "id": 2,
+      "label": "plant",
+      "confidence": 0.7592495679855347,
+      "bounding_box": {
+        "x_min": 686.3507690429688,
+        "y_min": 194.77059936523438,
+        "x_max": 814.2987670898438,
+        "y_max": 281.982177734375,
+        "width": 127.947998046875,
+        "height": 87.21157836914062
+      },
+      "description": "Object 2 (plant) with 75.9% confidence",
+      "mask_area_pixels": 9475,
+      "mask_area_ratio": 0.010281
+    }
+  ],
+  "image_info": {
+    "width": 1280,
+    "height": 720,
+    "area_pixels": 921600,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.4,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 1.044,
+    "num_detections": 2
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1782345668.png",
+    "masked_segments": []
+  }
+}

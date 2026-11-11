@@ -1,0 +1,42 @@
+{
+  "summary": "Found 1 object(s) matching 'floor' in the image.",
+  "query": "floor",
+  "detections": [
+    {
+      "id": 1,
+      "label": "floor",
+      "confidence": 0.9678332805633545,
+      "bounding_box": {
+        "x_min": 2.550172805786133,
+        "y_min": 0.2822756767272949,
+        "x_max": 777.8427124023438,
+        "y_max": 596.9937133789062,
+        "width": 775.2925415039062,
+        "height": 596.71142578125
+      },
+      "description": "Object 1 (floor) with 96.8% confidence",
+      "mask_area_pixels": 69332,
+      "mask_area_ratio": 0.144442
+    }
+  ],
+  "image_info": {
+    "width": 800,
+    "height": 600,
+    "area_pixels": 480000,
+    "format": "RGB"
+  },
+  "model_info": {
+    "device": "cuda",
+    "confidence_threshold": 0.15,
+    "resolution": 1008
+  },
+  "performance": {
+    "inference_time_seconds": 0.91,
+    "num_detections": 1
+  },
+  "file_paths": {
+    "input_image": null,
+    "overlay_image": "/mnt/MAATI-Bot_data/segments/result_1779432351.png",
+    "masked_segments": []
+  }
+}
